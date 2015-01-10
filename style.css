@@ -2,3 +2,31 @@
     font-family: Open Sans, DejaVu Sans, Book;
     -webkit-font-smoothing: antialiased;
 }
+
+body {
+	background-image: url("smoky-mountain.jpg");
+}
+
+h1 {
+	text-align: center;
+	background: rgba(255,255,255, 0.8);
+	color: rgb(112,112,112);
+}
+
+.place-holder {
+	height: 450px;
+}
+
+.link {
+	background: rgba(255,255,255, 0.05);
+	border-bottom: 20px;
+	width: 240px;
+	text-decoration: none;
+	font-size: 22px;
+	border-radius: 3px;
+	text-align: center;
+}
+
+.link:hover {
+	background: rgba(0,0,0, 1);
+}
