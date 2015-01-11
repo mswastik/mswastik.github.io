@@ -13,56 +13,89 @@ h1 {
 	background: rgba(255,255,255, 0.6);
 	color: rgb(112,112,112);
 	width: 300px;
-	margin-left: 800px;
+	margin-left: 900px;
+	border-radius: 5px;
 }
 
 .link {
 	background: rgba(255,255,255, 0.05);
-	width: inherit;
-	text-decoration: none;
-	font-size: 27px;
-	border-radius: 3px;
+	border-radius: 5px;
 	text-align: center;
-	display: none;
-	margin-top: -130px;
-	margin-bottom: 30px;
-	margin-left: -45px;
+	height: 0px;
+	width: 0px;
+	margin-top: -30px;
+	-webkit-transition-property: all;
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 400ms;
 }
 	.link li {
-		-webkit-transition: .15s ease-in-out;
+		font-size: 10px;
+		height: 0px;
+		width: 389px;
+		display: none;
+		margin-left: -39px;
+		border-radius: 5px;
+		padding-bottom: 0px;
+		list-style-type: none;
+		-webkit-transition-property: all;
+		-webkit-transition-timing-function: ease-out;
+		-webkit-transition-duration: 400ms;
+	}
+
+	.project:hover li{
+		font-size: 23px;
 		padding-bottom: 5px;
 		padding-top: 5px;
-		width: inherit;
-		margin: 0px;
+		display: block;
+		min-height: 40px;
+		min-width: 350px;
+		-webkit-transition-property: all;
+		-webkit-transition-timing-function: ease-out;
+		-webkit-transition-duration: 400ms;
 	}
 
 	.link li:hover {
-		width: inherit;
-		font-size: 34px;
-		min-height: 40px;
-		vertical-align: middle;
-		box-shadow: 0px 5px 5px rgba(255,255,255, 0.2);
+		font-size: 29px;
+		box-shadow: 5px rgba(255,255,255, 0.2);
+		-webkit-transition-property: all;
+		-webkit-transition-timing-function: ease-out;
+		-webkit-transition-duration: 10ms;
 	}
 
 .project {
-	background: rgba(255,255,255, 0.05);
-	width: auto;
+	background: rgba(255,255,255, 0.2);
+	width: 150px;
+	height: 40px;
 	text-decoration: none;
 	font-size: 22px;
 	border-radius: 3px;
 	text-align: center;
-	margin-top: 500px;
+	padding-top: 5px;
+	display: inline-block;
+
 }
 
 .project:hover .link {
-	background: rgba(0,0,0, .95);
-	display: block;
-}
-
-.project:hover .project {
-	display: none;
+	background: rgba(0,0,0, .8);
+	margin-top: 9px;
+	min-height: 205px;
+	min-width: 350px;
+	-webkit-transition: all;
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 400ms;
 }
 
 .l {
-	display: block;
+	width: 0px;
+	-webkit-transition: all;
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 400ms;
 }
+
+	.project:hover .l {
+		width: 350px;
+		display: block;
+		-webkit-transition: all;
+		-webkit-transition-timing-function: ease-out;
+		-webkit-transition-duration: 400ms;
+	}
