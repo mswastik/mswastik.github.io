@@ -45,7 +45,7 @@ h1 {
 	}
 
 	.project:hover li{
-		font-size: 23px;
+		font-size: 20px;
 		padding-bottom: 5px;
 		padding-top: 5px;
 		display: block;
@@ -57,7 +57,7 @@ h1 {
 	}
 
 	.link li:hover {
-		font-size: 29px;
+		font-size: 24px;
 		box-shadow: 5px rgba(255,255,255, 0.2);
 		-webkit-transition-property: all;
 		-webkit-transition-timing-function: ease-out;
