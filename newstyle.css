@@ -3,12 +3,15 @@
     -webkit-font-smoothing: antialiased;
 }
 
+body {
+	background: -webkit-linear-gradient(bottom left, rgba(228,228,228,.9), rgba(156,154,154,.9));
+}
+
 .head {
 	background: url("view.jpeg") fixed;
 	background-size: cover;
-	height: 100px;
+	height: 45px;
 	width: auto;
-
 	box-shadow: 2px 5px 5px rgba(0,0,0, 0.6)
 }
 
