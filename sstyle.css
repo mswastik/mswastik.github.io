@@ -1,0 +1,18 @@
+* {
+    font-family: Open Sans, DejaVu Sans, Book;
+    -webkit-font-smoothing: antialiased;
+}
+
+.head {
+	background: url("view.jpeg") fixed;
+	background-size: cover;
+	position: fixed;
+	height: 30px;
+	margin-top: 0px;
+	width: 100%;
+	font-size: 22px;
+	padding-left: 20px;
+	padding-top: 5px;
+	box-shadow: 2px 5px 5px rgba(0,0,0, 0.6)
+
+}

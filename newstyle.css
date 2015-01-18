@@ -35,7 +35,7 @@ h1 {
 	cursor: pointer;
 	-webkit-transition-property: all;
 	-webkit-transition-timing-function: ease-out;
-	-webkit-transition-duration: 500ms;
+	-webkit-transition-duration: 400ms;
 
 }
 
@@ -44,7 +44,7 @@ h1 {
 	color: white;
 	-webkit-transition-property: all;
 	-webkit-transition-timing-function: ease-out;
-	-webkit-transition-duration: 500ms;
+	-webkit-transition-duration: 400ms;
 }
 
 
