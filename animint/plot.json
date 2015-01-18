@@ -1,0 +1,385 @@
+{
+ "geoms": {
+ "geom1_point_fg": {
+ "geom": "point",
+"classed": "geom1_point_fg",
+"aes": {
+ "x": "Prop.Inv",
+"y": "State",
+"showSelected": "Year",
+"size": "Inv..age",
+"showToolTip": "State" 
+},
+"params": {
+ "na.rm": false 
+},
+"subset_order": [],
+"types": {
+ "size": "numeric",
+"x": "numeric",
+"y": "numeric",
+"showSelected": "numeric",
+"showToolTip": "factor",
+"PANEL": "integer" 
+},
+"PANEL": 1,
+"chunks": {
+ "2009": 1,
+"2010": 2,
+"2011": 3,
+"2012": 4,
+"2013": 5,
+"2014": 6 
+},
+"total": 6,
+"chunk_order": [
+ "Year" 
+],
+"nest_order": [],
+"timeValues": [   2009,   2010,   2011,   2012,   2013,   2014 ] 
+},
+"geom2_bar_sg": {
+ "geom": "rect",
+"classed": "geom2_bar_sg",
+"aes": {
+ "x": "Year",
+"y": "Year",
+"clickSelects": "Year" 
+},
+"params": {},
+"subset_order": [],
+"types": {
+ "x": "numeric",
+"group": "integer",
+"y": "numeric",
+"clickSelects": "numeric",
+"PANEL": "integer",
+"ymin": "numeric",
+"ymax": "numeric",
+"xmin": "numeric",
+"xmax": "numeric" 
+},
+"PANEL": 1,
+"chunks": 1,
+"total": 1,
+"chunk_order": [],
+"nest_order": [],
+"timeValues": [   2009,   2010,   2011,   2012,   2013,   2014 ] 
+} 
+},
+"time": {
+ "variable": "Year",
+"ms":   1000,
+"sequence": [ "2009", "2010", "2011", "2012", "2013", "2014" ] 
+},
+"selectors": {
+ "Year": {
+ "selected": "2009",
+"type": "single",
+"update": [
+ "geom1_point_fg",
+"geom2_bar_sg" 
+],
+"chunks": "Year" 
+} 
+},
+"plots": {
+ "fg": {
+ "strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":      0,
+"right":      0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [      1 ],
+"height_proportion": [      1 ] 
+},
+"geoms": [
+ "geom1_point_fg" 
+],
+"axis1": {
+ "x": [
+ 0.045455,
+0.30724,
+0.56903,
+0.83081 
+],
+"xlab": [
+ "0",
+"500000",
+"1000000",
+"1500000" 
+],
+"xrange": [ -86816, 1.8231e+06 ],
+"xline": true,
+"xticks": true,
+"y": [
+ 0.015707,
+0.041885,
+0.068063,
+0.094241,
+0.12042,
+0.1466,
+0.17277,
+0.19895,
+0.22513,
+0.25131,
+0.27749,
+0.30366,
+0.32984,
+0.35602,
+0.3822,
+0.40838,
+0.43455,
+0.46073,
+0.48691,
+0.51309,
+0.53927,
+0.56545,
+0.59162,
+0.6178,
+0.64398,
+0.67016,
+0.69634,
+0.72251,
+0.74869,
+0.77487,
+0.80105,
+0.82723,
+0.8534,
+0.87958,
+0.90576,
+0.93194,
+0.95812,
+0.98429 
+],
+"ylab": [
+ "Andaman & Nicobar",
+"Andhra Pradesh",
+"Arunachal Pradesh",
+"Assam",
+"Bihar",
+"Chandigarh",
+"Chhattisgarh",
+"Dadra & Nagar Haveli",
+"Daman & Diu",
+"Delhi",
+"Goa",
+"Gujarat",
+"Haryana",
+"Himachal Pradesh",
+"Jammu & Kashmir",
+"Jharkhand",
+"Karnataka",
+"Kerala",
+"Lakshadweep",
+"Location in more than One State",
+"Madhya Pradesh",
+"Maharashtra",
+"Manipur",
+"Meghalaya",
+"Mizoram",
+"Nagaland",
+"Orissa",
+"Pondicherry",
+"Punjab",
+"Rajasthan",
+"Sikkim",
+"Tamil Nadu",
+"Telengana",
+"Total Investment in Rs. Crore",
+"Tripura",
+"Uttar Pradesh",
+"Uttaranchal",
+"West Bengal" 
+],
+"yrange": [    0.4,   38.6 ],
+"yline": true,
+"yticks": true 
+},
+"xtitle": "Prop.Inv",
+"ytitle": "State",
+"xlabs": [
+ "0",
+"500000",
+"1000000",
+"1500000" 
+],
+"ylabs": [
+ "Andaman & Nicobar",
+"Andhra Pradesh",
+"Arunachal Pradesh",
+"Assam",
+"Bihar",
+"Chandigarh",
+"Chhattisgarh",
+"Dadra & Nagar Haveli",
+"Daman & Diu",
+"Delhi",
+"Goa",
+"Gujarat",
+"Haryana",
+"Himachal Pradesh",
+"Jammu & Kashmir",
+"Jharkhand",
+"Karnataka",
+"Kerala",
+"Lakshadweep",
+"Location in more than One State",
+"Madhya Pradesh",
+"Maharashtra",
+"Manipur",
+"Meghalaya",
+"Mizoram",
+"Nagaland",
+"Orissa",
+"Pondicherry",
+"Punjab",
+"Rajasthan",
+"Sikkim",
+"Tamil Nadu",
+"Telengana",
+"Total Investment in Rs. Crore",
+"Tripura",
+"Uttar Pradesh",
+"Uttaranchal",
+"West Bengal" 
+],
+"legend": {
+ "Inv..age": {
+ "guide": "legend",
+"geoms": "point",
+"title": "Inv..age",
+"entries": [
+ {
+ "pointsize":      6,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "100" ] 
+},
+{
+ "pointsize":   4.75,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "75" ] 
+},
+{
+ "pointsize":    3.5,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "50" ] 
+},
+{
+ "pointsize":   2.25,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "25" ] 
+},
+{
+ "pointsize":      1,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "0" ] 
+} 
+] 
+} 
+},
+"options": {
+ "width":    500,
+"height":    600 
+} 
+},
+"sg": {
+ "strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":      0,
+"right":      0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [      1 ],
+"height_proportion": [      1 ] 
+},
+"geoms": [
+ "geom2_bar_sg" 
+],
+"axis1": {
+ "x": [
+ 0.26888,
+0.57704,
+0.88521 
+],
+"xlab": [
+ "2010",
+"2012",
+"2014" 
+],
+"xrange": [ 2008.3, 2014.7 ],
+"xline": true,
+"xticks": true,
+"y": [
+ 0.045455,
+0.28469,
+0.52392,
+0.76316 
+],
+"ylab": [
+ "0",
+"10",
+"20",
+"30" 
+],
+"yrange": [   -1.9,   39.9 ],
+"yline": true,
+"yticks": true 
+},
+"xtitle": "Year",
+"ytitle": "Year",
+"xlabs": [
+ "2010",
+"2012",
+"2014" 
+],
+"ylabs": [
+ "0",
+"10",
+"20",
+"30" 
+],
+"legend": {},
+"options": {
+ "width":    300,
+"height":    100 
+} 
+} 
+} 
+}
