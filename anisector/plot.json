@@ -1,0 +1,442 @@
+{
+ "geoms": {
+ "geom1_point_fg": {
+ "geom": "point",
+"classed": "geom1_point_fg",
+"aes": {
+ "x": "Prop..Inv",
+"y": "Indname",
+"colour": "Year",
+"showSelected": "Year",
+"size": "Inv..age" 
+},
+"params": {
+ "na.rm": false 
+},
+"subset_order": [],
+"types": {
+ "size": "numeric",
+"colour": "rgb",
+"x": "numeric",
+"y": "numeric",
+"showSelected": "numeric",
+"PANEL": "integer",
+"fill": "rgb" 
+},
+"PANEL": 1,
+"chunks": {
+ "2009": 1,
+"2010": 2,
+"2011": 3,
+"2012": 4,
+"2013": 5,
+"2014": 6 
+},
+"total": 6,
+"chunk_order": [
+ "Year" 
+],
+"nest_order": [],
+"timeValues": [   2009,   2010,   2011,   2012,   2013,   2014 ] 
+},
+"geom2_bar_sg": {
+ "geom": "rect",
+"classed": "geom2_bar_sg",
+"aes": {
+ "x": "Year",
+"y": "Year",
+"clickSelects": "Year" 
+},
+"params": {},
+"subset_order": [],
+"types": {
+ "x": "numeric",
+"group": "integer",
+"y": "numeric",
+"clickSelects": "numeric",
+"PANEL": "integer",
+"ymin": "numeric",
+"ymax": "numeric",
+"xmin": "numeric",
+"xmax": "numeric" 
+},
+"PANEL": 1,
+"chunks": 1,
+"total": 1,
+"chunk_order": [],
+"nest_order": [],
+"timeValues": [   2009,   2010,   2011,   2012,   2013,   2014 ] 
+} 
+},
+"time": {
+ "variable": "Year",
+"ms":   2300,
+"sequence": [ "2009", "2010", "2011", "2012", "2013", "2014" ] 
+},
+"duration": {
+ "Year":   1000 
+},
+"selectors": {
+ "Year": {
+ "selected": "2009",
+"type": "single",
+"update": [
+ "geom1_point_fg",
+"geom2_bar_sg" 
+],
+"chunks": "Year",
+"duration":   1000 
+} 
+},
+"plots": {
+ "fg": {
+ "strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":      0,
+"right":      0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [      1 ],
+"height_proportion": [      1 ] 
+},
+"geoms": [
+ "geom1_point_fg" 
+],
+"axis1": {
+ "x": [
+ 0.045455,
+0.30724,
+0.56903,
+0.83081 
+],
+"xlab": [
+ "0",
+"500000",
+"1000000",
+"1500000" 
+],
+"xrange": [ -86816, 1.8231e+06 ],
+"xline": true,
+"xticks": true,
+"y": [
+ 0.014925,
+0.039801,
+0.064677,
+0.089552,
+0.11443,
+0.1393,
+0.16418,
+0.18905,
+0.21393,
+0.23881,
+0.26368,
+0.28856,
+0.31343,
+0.33831,
+0.36318,
+0.38806,
+0.41294,
+0.43781,
+0.46269,
+0.48756,
+0.51244,
+0.53731,
+0.56219,
+0.58706,
+0.61194,
+0.63682,
+0.66169,
+0.68657,
+0.71144,
+0.73632,
+0.76119,
+0.78607,
+0.81095,
+0.83582,
+0.8607,
+0.88557,
+0.91045,
+0.93532,
+0.9602,
+0.98507 
+],
+"ylab": [
+ "Agricultural Machinery",
+"Boilers&Steam Gen.Plants",
+"Cement and Gypsum",
+"Ceramics",
+"Chemicals(Except Fertilizers)",
+"Comm/Office/Hhold equpts",
+"Defence Industries",
+"Drugs and pharmaceuticals",
+"Dye Stuffs",
+"Earth Moving Machinery",
+"Electrical Equpts",
+"Fermentation Industries",
+"Fertilizers",
+"Food Processing Industry",
+"Fuels",
+"Glass",
+"Glue and Gelatin",
+"Industrial Instruments",
+"Industrial Machinery",
+"Leather",
+"Machine Tools",
+"Math,Survey,Drawing Inst",
+"Medical and Surgical Inst",
+"Mettallurgical Industries",
+"Misc.Industry",
+"Misc.Mechanical Engg.Ind",
+"Others",
+"Paper and Pulp",
+"Photographic raw film/paper",
+"Prime Movers",
+"Rubber Goods",
+"Scientific Instruments",
+"Soaps, Cosmetics & Toiletries",
+"Sugar",
+"Telecommunications",
+"Textiles",
+"Timber Products",
+"TOTAL",
+"Transportation",
+"Vegetable Oil & Vanaspathi" 
+],
+"yrange": [    0.4,   40.6 ],
+"yline": true,
+"yticks": true 
+},
+"xtitle": "Prop..Inv",
+"ytitle": "Indname",
+"xlabs": [
+ "0",
+"500000",
+"1000000",
+"1500000" 
+],
+"ylabs": [
+ "Agricultural Machinery",
+"Boilers&Steam Gen.Plants",
+"Cement and Gypsum",
+"Ceramics",
+"Chemicals(Except Fertilizers)",
+"Comm/Office/Hhold equpts",
+"Defence Industries",
+"Drugs and pharmaceuticals",
+"Dye Stuffs",
+"Earth Moving Machinery",
+"Electrical Equpts",
+"Fermentation Industries",
+"Fertilizers",
+"Food Processing Industry",
+"Fuels",
+"Glass",
+"Glue and Gelatin",
+"Industrial Instruments",
+"Industrial Machinery",
+"Leather",
+"Machine Tools",
+"Math,Survey,Drawing Inst",
+"Medical and Surgical Inst",
+"Mettallurgical Industries",
+"Misc.Industry",
+"Misc.Mechanical Engg.Ind",
+"Others",
+"Paper and Pulp",
+"Photographic raw film/paper",
+"Prime Movers",
+"Rubber Goods",
+"Scientific Instruments",
+"Soaps, Cosmetics & Toiletries",
+"Sugar",
+"Telecommunications",
+"Textiles",
+"Timber Products",
+"TOTAL",
+"Transportation",
+"Vegetable Oil & Vanaspathi" 
+],
+"legend": {
+ "Year": {
+ "guide": "legend",
+"geoms": "point",
+"title": "Year",
+"entries": [
+ {
+ "pointcolour": "#55B1F7",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2014" ] 
+},
+{
+ "pointcolour": "#4793CF",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2013" ] 
+},
+{
+ "pointcolour": "#3977AA",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2012" ] 
+},
+{
+ "pointcolour": "#2C5C86",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2011" ] 
+},
+{
+ "pointcolour": "#1F4363",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2010" ] 
+},
+{
+ "pointcolour": "#132B43",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2009" ] 
+} 
+] 
+},
+"Inv..age": {
+ "guide": "legend",
+"geoms": "point",
+"title": "Inv..age",
+"entries": [
+ {
+ "pointsize":      6,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "100" ] 
+},
+{
+ "pointsize": 5.1962,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "75" ] 
+},
+{
+ "pointsize": 4.2426,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "50" ] 
+},
+{
+ "pointsize":      3,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "25" ] 
+},
+{
+ "pointsize":      0,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "0" ] 
+} 
+] 
+} 
+},
+"options": {
+ "width":    500,
+"height":    640 
+} 
+},
+"sg": {
+ "strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":      0,
+"right":      0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [      1 ],
+"height_proportion": [      1 ] 
+},
+"geoms": [
+ "geom2_bar_sg" 
+],
+"axis1": {
+ "x": [
+ 0.26888,
+0.57704,
+0.88521 
+],
+"xlab": [
+ "2010",
+"2012",
+"2014" 
+],
+"xrange": [ 2008.3, 2014.7 ],
+"xline": true,
+"xticks": true,
+"y": [
+ 0.045455,
+0.27273,
+   0.5,
+0.72727,
+0.95455 
+],
+"ylab": [
+ "0",
+"10",
+"20",
+"30",
+"40" 
+],
+"yrange": [     -2,     42 ],
+"yline": true,
+"yticks": true 
+},
+"xtitle": "Year",
+"ytitle": "Year",
+"xlabs": [
+ "2010",
+"2012",
+"2014" 
+],
+"ylabs": [
+ "0",
+"10",
+"20",
+"30",
+"40" 
+],
+"legend": {},
+"options": {
+ "width":    300,
+"height":    100 
+} 
+} 
+} 
+}

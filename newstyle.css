@@ -1,0 +1,64 @@
+* {
+    font-family: Open Sans, DejaVu Sans, Book;
+    -webkit-font-smoothing: antialiased;
+}
+
+.head {
+	background: url("view.jpeg") fixed;
+	background-size: cover;
+	height: 130px;
+	width: auto;
+	box-shadow: 2px 5px 5px rgba(0,0,0, 0.6)
+}
+
+h1 {
+	text-align: center;
+	background: rgba(255,255,255, 0.6);
+	color: rgb(112,112,112);
+	width: 300px;
+	margin-left: 900px;
+	border-radius: 5px;
+}
+
+.project {
+	background: rgba(255,255,255, 0.2);
+	width: 150px;
+	height: 40px;
+	text-decoration: none;
+	font-size: 22px;
+	border-radius: 3px;
+	text-align: center;
+	padding-top: 5px;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.link {
+	background: rgba(0,0,0, 0.8);
+	border-radius: 5px;
+	display: none;
+	min-height: 150px;
+	min-width: 800px;
+	margin-top: 100px;
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 30px;
+	box-shadow: 5px 5px 5px rgba(0,0,0, 0.6);
+	-webkit-transition-property: all;
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 400ms;
+}
+
+.l {
+	-webkit-transition-property: all;
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 400ms;
+
+}
+
+.l:hover {
+	font-size: 1.2em;
+	-webkit-transition-property: all;
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 400ms;
+}
