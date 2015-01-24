@@ -1,0 +1,404 @@
+{
+ "geoms": {
+ "geom1_point_fg": {
+ "geom": "point",
+"classed": "geom1_point_fg",
+"aes": {
+ "x": "value",
+"y": "State",
+"showSelected": "variable",
+"size": "Total.household" 
+},
+"params": {
+ "na.rm": false 
+},
+"subset_order": [],
+"types": {
+ "size": "numeric",
+"x": "numeric",
+"y": "numeric",
+"showSelected": "factor",
+"PANEL": "integer" 
+},
+"PANEL": 1,
+"chunks": {
+ "Radio.Transister": 1,
+"Television": 2,
+"Computer.total": 3,
+"Computer.with.internet": 4,
+"Computer.without.internet": 5,
+"tot.telephone": 6,
+"Landline": 7,
+"Mobile": 8,
+"Both.LandlineMobile": 9,
+"Bicycle": 10,
+"X2.wheeler": 11,
+"X4.wheeler": 12,
+"None.of.the.specified.possesed": 13 
+},
+"total": 13,
+"chunk_order": [
+ "variable" 
+],
+"nest_order": [] 
+},
+"geom2_bar_sg": {
+ "geom": "rect",
+"classed": "geom2_bar_sg",
+"aes": {
+ "x": "variable",
+"y": "value",
+"clickSelects": "variable" 
+},
+"params": [],
+"subset_order": [],
+"types": {
+ "y": "numeric",
+"x": "numeric",
+"clickSelects": "factor",
+"PANEL": "integer",
+"group": "integer",
+"xmin": "numeric",
+"xmax": "numeric",
+"ymin": "numeric",
+"ymax": "numeric" 
+},
+"PANEL": 1,
+"chunks": 1,
+"total": 1,
+"chunk_order": [],
+"nest_order": [] 
+} 
+},
+"duration": {
+ "variable":   1000 
+},
+"selectors": {
+ "variable": {
+ "selected": "Radio.Transister",
+"type": "single",
+"update": [
+ "geom1_point_fg",
+"geom2_bar_sg" 
+],
+"chunks": "variable",
+"duration":   1000 
+} 
+},
+"plots": {
+ "fg": {
+ "strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":      0,
+"right":      0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [      1 ],
+"height_proportion": [      1 ] 
+},
+"geoms": [
+ "geom1_point_fg" 
+],
+"axis1": {
+ "x": [
+ 0.036638,
+0.28154,
+0.52645,
+0.77136 
+],
+"xlab": [
+ "0",
+"25",
+"50",
+"75" 
+],
+"xrange": [  -3.74,  98.34 ],
+"xanchor": "middle",
+"xangle":      0,
+"xline": true,
+"xticks": true,
+"y": [
+ 0.017045,
+0.045455,
+0.073864,
+0.10227,
+0.13068,
+0.15909,
+0.1875,
+0.21591,
+0.24432,
+0.27273,
+0.30114,
+0.32955,
+0.35795,
+0.38636,
+0.41477,
+0.44318,
+0.47159,
+   0.5,
+0.52841,
+0.55682,
+0.58523,
+0.61364,
+0.64205,
+0.67045,
+0.69886,
+0.72727,
+0.75568,
+0.78409,
+0.8125,
+0.84091,
+0.86932,
+0.89773,
+0.92614,
+0.95455,
+0.98295 
+],
+"ylab": [
+ "A&N Islands",
+"Andhra Pradesh",
+"Arunachal Pradesh",
+"Assam",
+"Bihar",
+"Chandigarh",
+"Chhattisgarh",
+"Dadra & Nagar Haveli",
+"Daman & Diu",
+"Goa",
+"Gujarat",
+"Haryana",
+"Himachal Pradesh",
+"Jammu Kashmir",
+"Jharkhand",
+"Karnataka",
+"Kerala",
+"Lakshadweep",
+"Madhya Pradesh",
+"Maharashtra",
+"Manipur",
+"Meghalaya",
+"Mizoram",
+"Nagaland",
+"NCT of Delhi",
+"Odisha",
+"Puducherry",
+"Punjab",
+"Rajasthan",
+"Sikkim",
+"Tamil Nadu",
+"Tripura",
+"Uttar Pradesh",
+"Uttarakhand",
+"West Bengal" 
+],
+"yrange": [    0.4,   35.6 ],
+"yanchor": "end",
+"yangle":      0,
+"yline": true,
+"yticks": true 
+},
+"xtitle": "value",
+"ytitle": "State",
+"xlabs": [
+ "0",
+"25",
+"50",
+"75" 
+],
+"ylabs": [
+ "A&N Islands",
+"Andhra Pradesh",
+"Arunachal Pradesh",
+"Assam",
+"Bihar",
+"Chandigarh",
+"Chhattisgarh",
+"Dadra & Nagar Haveli",
+"Daman & Diu",
+"Goa",
+"Gujarat",
+"Haryana",
+"Himachal Pradesh",
+"Jammu Kashmir",
+"Jharkhand",
+"Karnataka",
+"Kerala",
+"Lakshadweep",
+"Madhya Pradesh",
+"Maharashtra",
+"Manipur",
+"Meghalaya",
+"Mizoram",
+"Nagaland",
+"NCT of Delhi",
+"Odisha",
+"Puducherry",
+"Punjab",
+"Rajasthan",
+"Sikkim",
+"Tamil Nadu",
+"Tripura",
+"Uttar Pradesh",
+"Uttarakhand",
+"West Bengal" 
+],
+"legend": {
+ "Total.household": {
+ "guide": "legend",
+"geoms": "point",
+"title": "Total.household",
+"entries": [
+ {
+ "pointsize":   5.56,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "3e+07" ] 
+},
+{
+ "pointsize":   4.04,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "2e+07" ] 
+},
+{
+ "pointsize":   2.52,
+"pointshape":     16,
+"pointcolour": "#000000",
+"label": [ "1e+07" ] 
+} 
+] 
+} 
+},
+"options": {
+ "width":    650,
+"height":    700 
+} 
+},
+"sg": {
+ "strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":      0,
+"right":      0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [      1 ],
+"height_proportion": [      1 ] 
+},
+"geoms": [
+ "geom2_bar_sg" 
+],
+"axis1": {
+ "x": [
+ 0.045455,
+0.33314,
+0.62083,
+0.90852 
+],
+"xlab": [
+ "0",
+"20",
+"40",
+"60" 
+],
+"xrange": [  -3.16,  66.36 ],
+"xanchor": "middle",
+"xangle":      0,
+"xline": true,
+"xticks": true,
+"y": [
+ 0.045455,
+0.12121,
+0.19697,
+0.27273,
+0.34848,
+0.42424,
+   0.5,
+0.57576,
+0.65152,
+0.72727,
+0.80303,
+0.87879,
+0.95455 
+],
+"ylab": [
+ "Radio.Transister",
+"Television",
+"Computer.total",
+"Computer.with.internet",
+"Computer.without.internet",
+"tot.telephone",
+"Landline",
+"Mobile",
+"Both.LandlineMobile",
+"Bicycle",
+"X2.wheeler",
+"X4.wheeler",
+"None.of.the.specified.possesed" 
+],
+"yrange": [    0.4,   13.6 ],
+"yanchor": "end",
+"yangle":      0,
+"yline": true,
+"yticks": true 
+},
+"xtitle": "value",
+"ytitle": "variable",
+"xlabs": [
+ "0",
+"20",
+"40",
+"60" 
+],
+"ylabs": [
+ "Radio.Transister",
+"Television",
+"Computer.total",
+"Computer.with.internet",
+"Computer.without.internet",
+"tot.telephone",
+"Landline",
+"Mobile",
+"Both.LandlineMobile",
+"Bicycle",
+"X2.wheeler",
+"X4.wheeler",
+"None.of.the.specified.possesed" 
+],
+"legend": {},
+"options": {
+ "width":    400,
+"height":    450 
+} 
+} 
+} 
+}
