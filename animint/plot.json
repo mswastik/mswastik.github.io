@@ -6,21 +6,22 @@
 "aes": {
  "x": "Prop.Inv",
 "y": "State",
+"colour": "Year",
 "showSelected": "Year",
-"size": "Inv..age",
-"showToolTip": "State" 
+"size": "Inv..age" 
 },
 "params": {
  "na.rm": false 
 },
 "subset_order": [],
 "types": {
- "size": "numeric",
+ "colour": "rgb",
+"size": "numeric",
 "x": "numeric",
 "y": "numeric",
 "showSelected": "numeric",
-"showToolTip": "factor",
-"PANEL": "integer" 
+"PANEL": "integer",
+"fill": "rgb" 
 },
 "PANEL": 1,
 "chunks": {
@@ -69,8 +70,11 @@
 },
 "time": {
  "variable": "Year",
-"ms":   1000,
+"ms":   2300,
 "sequence": [ "2009", "2010", "2011", "2012", "2013", "2014" ] 
+},
+"duration": {
+ "Year":   1000 
 },
 "selectors": {
  "Year": {
@@ -80,7 +84,8 @@
  "geom1_point_fg",
 "geom2_bar_sg" 
 ],
-"chunks": "Year" 
+"chunks": "Year",
+"duration":   1000 
 } 
 },
 "plots": {
@@ -126,6 +131,8 @@
 "1500000" 
 ],
 "xrange": [ -86816, 1.8231e+06 ],
+"xanchor": "middle",
+"xangle":      0,
 "xline": true,
 "xticks": true,
 "y": [
@@ -209,6 +216,8 @@
 "West Bengal" 
 ],
 "yrange": [    0.4,   38.6 ],
+"yanchor": "end",
+"yangle":      0,
 "yline": true,
 "yticks": true 
 },
@@ -261,7 +270,50 @@
 "West Bengal" 
 ],
 "legend": {
- "Inv..age": {
+ "Year": {
+ "guide": "legend",
+"geoms": "point",
+"title": "Year",
+"entries": [
+ {
+ "pointcolour": "#55B1F7",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2014" ] 
+},
+{
+ "pointcolour": "#4793CF",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2013" ] 
+},
+{
+ "pointcolour": "#3977AA",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2012" ] 
+},
+{
+ "pointcolour": "#2C5C86",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2011" ] 
+},
+{
+ "pointcolour": "#1F4363",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2010" ] 
+},
+{
+ "pointcolour": "#132B43",
+"pointshape":     16,
+"pointsize":      2,
+"label": [ "2009" ] 
+} 
+] 
+},
+"Inv..age": {
  "guide": "legend",
 "geoms": "point",
 "title": "Inv..age",
@@ -300,8 +352,8 @@
 } 
 },
 "options": {
- "width":    500,
-"height":    600 
+ "width":    550,
+"height":    650 
 } 
 },
 "sg": {
@@ -344,6 +396,8 @@
 "2014" 
 ],
 "xrange": [ 2008.3, 2014.7 ],
+"xanchor": "middle",
+"xangle":      0,
 "xline": true,
 "xticks": true,
 "y": [
@@ -359,6 +413,8 @@
 "30" 
 ],
 "yrange": [   -1.9,   39.9 ],
+"yanchor": "end",
+"yangle":      0,
 "yline": true,
 "yticks": true 
 },
