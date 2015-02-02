@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Research</title>
+	<link rel="stylesheet" href="newstyle.css">
+		<script language="JavaScript">
+		function setVisibility(id) {
+		if(document.getElementById('bt1').value=='Hide Layer'){
+		document.getElementById('bt1').value='Show Layer';
+		document.getElementById(id).style.height= "0px";
+		document.getElementById(id).style.overflow= "hidden";
+		document.getElementById(id).style.paddingTop= "0px";
+		document.getElementById(id).style.opacity= "0.05";
+		}else{
+			document.getElementById('bt1').value='Hide Layer';
+			document.getElementById(id).style.height= "290px";
+			document.getElementById(id).style.overflow= "visible";
+			document.getElementById(id).style.paddingTop= "30px";
+			document.getElementById(id).style.opacity= "0.8";
+	}
+}
+</script>
+
+</head>
+<body>
+<h1>Hello World</h1>
+<div class="head">
+
+<div class="project" href="#" id='bt1' onclick="setVisibility('link');">Project
+<div id="link">
+	<a href="stategdp.html" class="l" style="text-decoration: none; color:white">GDP of Indian States</a></br></br>
+	<a href="test.html" class="l" style="text-decoration: none; color:white">Google Visualisation on GDP</a></br></br>
+	<a href="animint/investprop.html" class="l" style="text-decoration: none; color:white">Statewise Investment Proposal</a></br></br>
+	<a href="anisector/sectorinvest.html" class="l" style="text-decoration: none; color:white">Sectorwise Investment Proposal</a></br></br>
+	<a href="homeasset/homeasset.html" class="l" style="text-decoration: none; color:white">Statewise Household assets</a></br></br>
+</div>
+</div>
+</div>
+</body>
+</html>
