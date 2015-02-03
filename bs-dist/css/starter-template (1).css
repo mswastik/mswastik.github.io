@@ -31,7 +31,7 @@ body {
 }
 .cover-container {
   margin-right: auto;
-  margin-left: auto;
+  margin-left: 0px;
 }
 
 /* Padding for spacing */
@@ -47,6 +47,13 @@ body {
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
+  color: #fff;
+  padding-left: 50px;
+}
+
+/*Navigation */
+.masthead-nav {
+  padding-right: 90px;
 }
 
 .masthead-nav > li {
@@ -85,6 +92,14 @@ body {
   }
 }
 
+/* Navigation bar background colour*/
+.masthead {
+  width: 100%;
+  background: #333;
+  position: fixed;
+  top: 0;
+  height: 38px;
+}
 
 /*
  * Cover
@@ -98,7 +113,10 @@ body {
   font-weight: bold;
 }
 
-
+.starter-template {
+  width: 1000px;
+  padding-left: 50px;
+}
 /*
  * Footer
  */
@@ -115,10 +133,6 @@ body {
 
 @media (min-width: 768px) {
   /* Pull out the header and footer */
-  .masthead {
-    position: fixed;
-    top: 0;
-  }
   .mastfoot {
     position: fixed;
     bottom: 0;
@@ -128,7 +142,6 @@ body {
     vertical-align: middle;
   }
   /* Handle the widths */
-  .masthead,
   .mastfoot,
   .cover-container {
     width: 100%; /* Must be percentage or pixels for horizontal alignment */
@@ -139,9 +152,6 @@ body {
   .mastfoot,
   .cover-container {
     width: 700px;
-  }
-  .masthead {
-    width: 900px;
   }
 }
 
