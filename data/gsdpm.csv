@@ -1,0 +1,1876 @@
+State,year,sector,gdp
+A&N Islands,2005,Agriculture,236
+A&N Islands,2006,Agriculture,177
+A&N Islands,2007,Agriculture,205
+A&N Islands,2008,Agriculture,220
+A&N Islands,2009,Agriculture,221
+A&N Islands,2010,Agriculture,221
+A&N Islands,2011,Agriculture,231
+A&N Islands,2012,Agriculture,238
+A&N Islands,2013,Agriculture,248
+A&N Islands,2014,Agriculture,253
+Andhra Pradesh,2005,Agriculture,46251
+Andhra Pradesh,2006,Agriculture,49335
+Andhra Pradesh,2007,Agriculture,50112
+Andhra Pradesh,2008,Agriculture,59523
+Andhra Pradesh,2009,Agriculture,59700
+Andhra Pradesh,2010,Agriculture,59924
+Andhra Pradesh,2011,Agriculture,62191
+Andhra Pradesh,2012,Agriculture,61137
+Andhra Pradesh,2013,Agriculture,64878
+Andhra Pradesh,2014,Agriculture,67743
+Arunachal Pradesh,2005,Agriculture,572
+Arunachal Pradesh,2006,Agriculture,538
+Arunachal Pradesh,2007,Agriculture,642
+Arunachal Pradesh,2008,Agriculture,806
+Arunachal Pradesh,2009,Agriculture,697
+Arunachal Pradesh,2010,Agriculture,683
+Arunachal Pradesh,2011,Agriculture,856
+Arunachal Pradesh,2012,Agriculture,946
+Arunachal Pradesh,2013,Agriculture,906
+Arunachal Pradesh,2014,Agriculture,962
+Assam,2005,Agriculture,11589
+Assam,2006,Agriculture,11811
+Assam,2007,Agriculture,12009
+Assam,2008,Agriculture,12373
+Assam,2009,Agriculture,12524
+Assam,2010,Agriculture,13336
+Assam,2011,Agriculture,13776
+Assam,2012,Agriculture,14435
+Assam,2013,Agriculture,15063
+Assam,2014,Agriculture,15733
+Bihar,2005,Agriculture,20673
+Bihar,2006,Agriculture,17875
+Bihar,2007,Agriculture,23338
+Bihar,2008,Agriculture,21290
+Bihar,2009,Agriculture,25983
+Bihar,2010,Agriculture,21987
+Bihar,2011,Agriculture,26365
+Bihar,2012,Agriculture,29931
+Bihar,2013,Agriculture,32694
+Bihar,2014,Agriculture,28908
+Chandigarh,2005,Agriculture,70
+Chandigarh,2006,Agriculture,73
+Chandigarh,2007,Agriculture,73
+Chandigarh,2008,Agriculture,73
+Chandigarh,2009,Agriculture,77
+Chandigarh,2010,Agriculture,66
+Chandigarh,2011,Agriculture,64
+Chandigarh,2012,Agriculture,52
+Chandigarh,2013,Agriculture,49
+Chandigarh,2014,Agriculture,49
+Chhattisgarh,2005,Agriculture,7057
+Chhattisgarh,2006,Agriculture,8325
+Chhattisgarh,2007,Agriculture,8738
+Chhattisgarh,2008,Agriculture,9743
+Chhattisgarh,2009,Agriculture,8359
+Chhattisgarh,2010,Agriculture,9268
+Chhattisgarh,2011,Agriculture,11668
+Chhattisgarh,2012,Agriculture,12029
+Chhattisgarh,2013,Agriculture,13375
+Chhattisgarh,2014,Agriculture,13513
+Goa,2005,Agriculture,662
+Goa,2006,Agriculture,830
+Goa,2007,Agriculture,651
+Goa,2008,Agriculture,687
+Goa,2009,Agriculture,615
+Goa,2010,Agriculture,623
+Goa,2011,Agriculture,630
+Goa,2012,Agriculture,642
+Goa,2013,Agriculture,618
+Gujarat,2005,Agriculture,26746
+Gujarat,2006,Agriculture,33982
+Gujarat,2007,Agriculture,33616
+Gujarat,2008,Agriculture,37155
+Gujarat,2009,Agriculture,33920
+Gujarat,2010,Agriculture,33544
+Gujarat,2011,Agriculture,42098
+Gujarat,2012,Agriculture,44517
+Gujarat,2013,Agriculture,40820
+Haryana,2005,Agriculture,20971
+Haryana,2006,Agriculture,20533
+Haryana,2007,Agriculture,23543
+Haryana,2008,Agriculture,23476
+Haryana,2009,Agriculture,25212
+Haryana,2010,Agriculture,24771
+Haryana,2011,Agriculture,26092
+Haryana,2012,Agriculture,28200
+Haryana,2013,Agriculture,27776
+Haryana,2014,Agriculture,28683
+Himachal Pradesh,2005,Agriculture,4747
+Himachal Pradesh,2006,Agriculture,4944
+Himachal Pradesh,2007,Agriculture,4693
+Himachal Pradesh,2008,Agriculture,5251
+Himachal Pradesh,2009,Agriculture,5161
+Himachal Pradesh,2010,Agriculture,4225
+Himachal Pradesh,2011,Agriculture,5453
+Himachal Pradesh,2012,Agriculture,5064
+Himachal Pradesh,2013,Agriculture,5602
+Himachal Pradesh,2014,Agriculture,6595
+Jammu Kashmir,2005,Agriculture,6100
+Jammu Kashmir,2006,Agriculture,6133
+Jammu Kashmir,2007,Agriculture,6234
+Jammu Kashmir,2008,Agriculture,6321
+Jammu Kashmir,2009,Agriculture,6601
+Jammu Kashmir,2010,Agriculture,6581
+Jammu Kashmir,2011,Agriculture,7282
+Jammu Kashmir,2012,Agriculture,7466
+Jammu Kashmir,2013,Agriculture,7151
+Jammu Kashmir,2014,Agriculture,7567
+Jharkhand,2005,Agriculture,6795
+Jharkhand,2006,Agriculture,7023
+Jharkhand,2007,Agriculture,7995
+Jharkhand,2008,Agriculture,8462
+Jharkhand,2009,Agriculture,10198
+Jharkhand,2010,Agriculture,9251
+Jharkhand,2011,Agriculture,9722
+Jharkhand,2012,Agriculture,12821
+Jharkhand,2013,Agriculture,13750
+Jharkhand,2014,Agriculture,15017
+Karnataka,2005,Agriculture,26455
+Karnataka,2006,Agriculture,29377
+Karnataka,2007,Agriculture,28350
+Karnataka,2008,Agriculture,32330
+Karnataka,2009,Agriculture,32768
+Karnataka,2010,Agriculture,34063
+Karnataka,2011,Agriculture,39573
+Karnataka,2012,Agriculture,36317
+Karnataka,2013,Agriculture,35170
+Karnataka,2014,Agriculture,35397
+Kerala,2005,Agriculture,16981
+Kerala,2006,Agriculture,18042
+Kerala,2007,Agriculture,16568
+Kerala,2008,Agriculture,16197
+Kerala,2009,Agriculture,16534
+Kerala,2010,Agriculture,16037
+Kerala,2011,Agriculture,14869
+Kerala,2012,Agriculture,14758
+Kerala,2013,Agriculture,15588
+Madhya Pradesh,2005,Agriculture,27540
+Madhya Pradesh,2006,Agriculture,29737
+Madhya Pradesh,2007,Agriculture,30560
+Madhya Pradesh,2008,Agriculture,30020
+Madhya Pradesh,2009,Agriculture,32898
+Madhya Pradesh,2010,Agriculture,35985
+Madhya Pradesh,2011,Agriculture,36046
+Madhya Pradesh,2012,Agriculture,43200
+Madhya Pradesh,2013,Agriculture,51909
+Madhya Pradesh,2014,Agriculture,64880
+Maharashtra,2005,Agriculture,34423
+Maharashtra,2006,Agriculture,38364
+Maharashtra,2007,Agriculture,44587
+Maharashtra,2008,Agriculture,51855
+Maharashtra,2009,Agriculture,41549
+Maharashtra,2010,Agriculture,43287
+Maharashtra,2011,Agriculture,54016
+Maharashtra,2012,Agriculture,53311
+Maharashtra,2013,Agriculture,51973
+Maharashtra,2014,Agriculture,53961
+Manipur,2005,Agriculture,963
+Manipur,2006,Agriculture,953
+Manipur,2007,Agriculture,953
+Manipur,2008,Agriculture,1079
+Manipur,2009,Agriculture,1211
+Manipur,2010,Agriculture,1414
+Manipur,2011,Agriculture,1098
+Manipur,2012,Agriculture,1138
+Manipur,2013,Agriculture,1174
+Meghalaya,2005,Agriculture,1088
+Meghalaya,2006,Agriculture,1172
+Meghalaya,2007,Agriculture,1194
+Meghalaya,2008,Agriculture,1186
+Meghalaya,2009,Agriculture,1252
+Meghalaya,2010,Agriculture,1263
+Meghalaya,2011,Agriculture,1289
+Meghalaya,2012,Agriculture,1367
+Meghalaya,2013,Agriculture,1406
+Meghalaya,2014,Agriculture,1495
+Mizoram,2005,Agriculture,361
+Mizoram,2006,Agriculture,371
+Mizoram,2007,Agriculture,386
+Mizoram,2008,Agriculture,473
+Mizoram,2009,Agriculture,569
+Mizoram,2010,Agriculture,642
+Mizoram,2011,Agriculture,773
+Mizoram,2012,Agriculture,740
+Mizoram,2013,Agriculture,735
+Nagaland,2005,Agriculture,1602
+Nagaland,2006,Agriculture,1630
+Nagaland,2007,Agriculture,1637
+Nagaland,2008,Agriculture,1640
+Nagaland,2009,Agriculture,1738
+Nagaland,2010,Agriculture,1799
+Nagaland,2011,Agriculture,1965
+Nagaland,2012,Agriculture,2075
+Nagaland,2013,Agriculture,2158
+Nagaland,2014,Agriculture,2248
+NCT of Delhi,2005,Agriculture,1018
+NCT of Delhi,2006,Agriculture,983
+NCT of Delhi,2007,Agriculture,995
+NCT of Delhi,2008,Agriculture,964
+NCT of Delhi,2009,Agriculture,956
+NCT of Delhi,2010,Agriculture,1230
+NCT of Delhi,2011,Agriculture,1331
+NCT of Delhi,2012,Agriculture,1354
+NCT of Delhi,2013,Agriculture,1379
+NCT of Delhi,2014,Agriculture,1424
+Odisha,2005,Agriculture,14604
+Odisha,2006,Agriculture,15110
+Odisha,2007,Agriculture,15350
+Odisha,2008,Agriculture,16169
+Odisha,2009,Agriculture,16450
+Odisha,2010,Agriculture,18009
+Odisha,2011,Agriculture,18423
+Odisha,2012,Agriculture,17370
+Odisha,2013,Agriculture,19580
+Odisha,2014,Agriculture,18889
+Puducherry,2005,Agriculture,200
+Puducherry,2006,Agriculture,222
+Puducherry,2007,Agriculture,261
+Puducherry,2008,Agriculture,271
+Puducherry,2009,Agriculture,333
+Puducherry,2010,Agriculture,243
+Puducherry,2011,Agriculture,310
+Puducherry,2012,Agriculture,275
+Puducherry,2013,Agriculture,322
+Puducherry,2014,Agriculture,410
+Punjab,2005,Agriculture,30141
+Punjab,2006,Agriculture,30377
+Punjab,2007,Agriculture,31248
+Punjab,2008,Agriculture,32499
+Punjab,2009,Agriculture,33114
+Punjab,2010,Agriculture,32925
+Punjab,2011,Agriculture,33438
+Punjab,2012,Agriculture,34025
+Punjab,2013,Agriculture,34008
+Punjab,2014,Agriculture,34079
+Rajasthan,2005,Agriculture,27917
+Rajasthan,2006,Agriculture,28044
+Rajasthan,2007,Agriculture,30352
+Rajasthan,2008,Agriculture,30803
+Rajasthan,2009,Agriculture,32262
+Rajasthan,2010,Agriculture,31163
+Rajasthan,2011,Agriculture,44239
+Rajasthan,2012,Agriculture,44093
+Rajasthan,2013,Agriculture,44105
+Rajasthan,2014,Agriculture,44123
+Sikkim,2005,Agriculture,285
+Sikkim,2006,Agriculture,298
+Sikkim,2007,Agriculture,299
+Sikkim,2008,Agriculture,313
+Sikkim,2009,Agriculture,330
+Sikkim,2010,Agriculture,346
+Sikkim,2011,Agriculture,365
+Sikkim,2012,Agriculture,516
+Sikkim,2013,Agriculture,528
+Sikkim,2014,Agriculture,546
+Tamil Nadu,2005,Agriculture,21027
+Tamil Nadu,2006,Agriculture,23442
+Tamil Nadu,2007,Agriculture,27058
+Tamil Nadu,2008,Agriculture,25789
+Tamil Nadu,2009,Agriculture,25093
+Tamil Nadu,2010,Agriculture,26738
+Tamil Nadu,2011,Agriculture,28795
+Tamil Nadu,2012,Agriculture,31976
+Tamil Nadu,2013,Agriculture,27808
+Tamil Nadu,2014,Agriculture,30094
+Tripura,2005,Agriculture,1848
+Tripura,2006,Agriculture,1889
+Tripura,2007,Agriculture,2048
+Tripura,2008,Agriculture,2439
+Tripura,2009,Agriculture,2482
+Tripura,2010,Agriculture,2440
+Tripura,2011,Agriculture,2617
+Tripura,2012,Agriculture,2838
+Tripura,2013,Agriculture,2944
+Uttar Pradesh,2005,Agriculture,70167
+Uttar Pradesh,2006,Agriculture,71813
+Uttar Pradesh,2007,Agriculture,73512
+Uttar Pradesh,2008,Agriculture,76141
+Uttar Pradesh,2009,Agriculture,79152
+Uttar Pradesh,2010,Agriculture,78503
+Uttar Pradesh,2011,Agriculture,82344
+Uttar Pradesh,2012,Agriculture,87262
+Uttar Pradesh,2013,Agriculture,91579
+Uttar Pradesh,2014,Agriculture,94035
+Uttarakhand,2005,Agriculture,4114
+Uttarakhand,2006,Agriculture,3941
+Uttarakhand,2007,Agriculture,4146
+Uttarakhand,2008,Agriculture,4228
+Uttarakhand,2009,Agriculture,3945
+Uttarakhand,2010,Agriculture,4474
+Uttarakhand,2011,Agriculture,4682
+Uttarakhand,2012,Agriculture,4855
+Uttarakhand,2013,Agriculture,4967
+Uttarakhand,2014,Agriculture,5140
+West Bengal,2005,Agriculture,40020
+West Bengal,2006,Agriculture,40757
+West Bengal,2007,Agriculture,41168
+West Bengal,2008,Agriculture,43695
+West Bengal,2009,Agriculture,42155
+West Bengal,2010,Agriculture,45659
+West Bengal,2011,Agriculture,44702
+West Bengal,2012,Agriculture,44792
+West Bengal,2013,Agriculture,46523
+West Bengal,2014,Agriculture,49169
+A&N Islands,2005,Agriculture.and.Allied,299
+A&N Islands,2006,Agriculture.and.Allied,229
+A&N Islands,2007,Agriculture.and.Allied,303
+A&N Islands,2008,Agriculture.and.Allied,305
+A&N Islands,2009,Agriculture.and.Allied,329
+A&N Islands,2010,Agriculture.and.Allied,332
+A&N Islands,2011,Agriculture.and.Allied,346
+A&N Islands,2012,Agriculture.and.Allied,356
+A&N Islands,2013,Agriculture.and.Allied,368
+A&N Islands,2014,Agriculture.and.Allied,377
+Andhra Pradesh,2005,Agriculture.and.Allied,56344
+Andhra Pradesh,2006,Agriculture.and.Allied,59789
+Andhra Pradesh,2007,Agriculture.and.Allied,60966
+Andhra Pradesh,2008,Agriculture.and.Allied,71563
+Andhra Pradesh,2009,Agriculture.and.Allied,72108
+Andhra Pradesh,2010,Agriculture.and.Allied,72262
+Andhra Pradesh,2011,Agriculture.and.Allied,75877
+Andhra Pradesh,2012,Agriculture.and.Allied,76533
+Andhra Pradesh,2013,Agriculture.and.Allied,82048
+Andhra Pradesh,2014,Agriculture.and.Allied,87096
+Arunachal Pradesh,2005,Agriculture.and.Allied,1224
+Arunachal Pradesh,2006,Agriculture.and.Allied,1194
+Arunachal Pradesh,2007,Agriculture.and.Allied,1311
+Arunachal Pradesh,2008,Agriculture.and.Allied,1471
+Arunachal Pradesh,2009,Agriculture.and.Allied,1369
+Arunachal Pradesh,2010,Agriculture.and.Allied,1351
+Arunachal Pradesh,2011,Agriculture.and.Allied,1533
+Arunachal Pradesh,2012,Agriculture.and.Allied,1640
+Arunachal Pradesh,2013,Agriculture.and.Allied,1612
+Arunachal Pradesh,2014,Agriculture.and.Allied,1676
+Assam,2005,Agriculture.and.Allied,13656
+Assam,2006,Agriculture.and.Allied,14006
+Assam,2007,Agriculture.and.Allied,14274
+Assam,2008,Agriculture.and.Allied,14676
+Assam,2009,Agriculture.and.Allied,14961
+Assam,2010,Agriculture.and.Allied,15992
+Assam,2011,Agriculture.and.Allied,16435
+Assam,2012,Agriculture.and.Allied,17255
+Assam,2013,Agriculture.and.Allied,18002
+Assam,2014,Agriculture.and.Allied,18829
+Bihar,2005,Agriculture.and.Allied,24530
+Bihar,2006,Agriculture.and.Allied,21729
+Bihar,2007,Agriculture.and.Allied,27056
+Bihar,2008,Agriculture.and.Allied,25035
+Bihar,2009,Agriculture.and.Allied,29766
+Bihar,2010,Agriculture.and.Allied,25708
+Bihar,2011,Agriculture.and.Allied,30002
+Bihar,2012,Agriculture.and.Allied,33755
+Bihar,2013,Agriculture.and.Allied,36708
+Bihar,2014,Agriculture.and.Allied,33015
+Chandigarh,2005,Agriculture.and.Allied,77
+Chandigarh,2006,Agriculture.and.Allied,79
+Chandigarh,2007,Agriculture.and.Allied,80
+Chandigarh,2008,Agriculture.and.Allied,80
+Chandigarh,2009,Agriculture.and.Allied,85
+Chandigarh,2010,Agriculture.and.Allied,74
+Chandigarh,2011,Agriculture.and.Allied,69
+Chandigarh,2012,Agriculture.and.Allied,58
+Chandigarh,2013,Agriculture.and.Allied,53
+Chandigarh,2014,Agriculture.and.Allied,53
+Chhattisgarh,2005,Agriculture.and.Allied,10159
+Chhattisgarh,2006,Agriculture.and.Allied,11455
+Chhattisgarh,2007,Agriculture.and.Allied,11968
+Chhattisgarh,2008,Agriculture.and.Allied,13084
+Chhattisgarh,2009,Agriculture.and.Allied,11782
+Chhattisgarh,2010,Agriculture.and.Allied,12784
+Chhattisgarh,2011,Agriculture.and.Allied,15531
+Chhattisgarh,2012,Agriculture.and.Allied,15991
+Chhattisgarh,2013,Agriculture.and.Allied,17482
+Chhattisgarh,2014,Agriculture.and.Allied,17882
+Goa,2005,Agriculture.and.Allied,998
+Goa,2006,Agriculture.and.Allied,1233
+Goa,2007,Agriculture.and.Allied,1036
+Goa,2008,Agriculture.and.Allied,1052
+Goa,2009,Agriculture.and.Allied,975
+Goa,2010,Agriculture.and.Allied,983
+Goa,2011,Agriculture.and.Allied,999
+Goa,2012,Agriculture.and.Allied,1014
+Goa,2013,Agriculture.and.Allied,968
+Gujarat,2005,Agriculture.and.Allied,32706
+Gujarat,2006,Agriculture.and.Allied,40262
+Gujarat,2007,Agriculture.and.Allied,39967
+Gujarat,2008,Agriculture.and.Allied,43456
+Gujarat,2009,Agriculture.and.Allied,40340
+Gujarat,2010,Agriculture.and.Allied,40042
+Gujarat,2011,Agriculture.and.Allied,48709
+Gujarat,2012,Agriculture.and.Allied,51156
+Gujarat,2013,Agriculture.and.Allied,47594
+Haryana,2005,Agriculture.and.Allied,22125
+Haryana,2006,Agriculture.and.Allied,21725
+Haryana,2007,Agriculture.and.Allied,24800
+Haryana,2008,Agriculture.and.Allied,24785
+Haryana,2009,Agriculture.and.Allied,26572
+Haryana,2010,Agriculture.and.Allied,26188
+Haryana,2011,Agriculture.and.Allied,27553
+Haryana,2012,Agriculture.and.Allied,29721
+Haryana,2013,Agriculture.and.Allied,29348
+Haryana,2014,Agriculture.and.Allied,30281
+Himachal Pradesh,2005,Agriculture.and.Allied,6133
+Himachal Pradesh,2006,Agriculture.and.Allied,6512
+Himachal Pradesh,2007,Agriculture.and.Allied,6467
+Himachal Pradesh,2008,Agriculture.and.Allied,7048
+Himachal Pradesh,2009,Agriculture.and.Allied,6983
+Himachal Pradesh,2010,Agriculture.and.Allied,6201
+Himachal Pradesh,2011,Agriculture.and.Allied,7346
+Himachal Pradesh,2012,Agriculture.and.Allied,7092
+Himachal Pradesh,2013,Agriculture.and.Allied,7765
+Himachal Pradesh,2014,Agriculture.and.Allied,8802
+Jammu Kashmir,2005,Agriculture.and.Allied,7662
+Jammu Kashmir,2006,Agriculture.and.Allied,7680
+Jammu Kashmir,2007,Agriculture.and.Allied,7761
+Jammu Kashmir,2008,Agriculture.and.Allied,7811
+Jammu Kashmir,2009,Agriculture.and.Allied,8110
+Jammu Kashmir,2010,Agriculture.and.Allied,8072
+Jammu Kashmir,2011,Agriculture.and.Allied,8746
+Jammu Kashmir,2012,Agriculture.and.Allied,8948
+Jammu Kashmir,2013,Agriculture.and.Allied,8633
+Jammu Kashmir,2014,Agriculture.and.Allied,9062
+Jharkhand,2005,Agriculture.and.Allied,8917
+Jharkhand,2006,Agriculture.and.Allied,9242
+Jharkhand,2007,Agriculture.and.Allied,10405
+Jharkhand,2008,Agriculture.and.Allied,10988
+Jharkhand,2009,Agriculture.and.Allied,12809
+Jharkhand,2010,Agriculture.and.Allied,12013
+Jharkhand,2011,Agriculture.and.Allied,12550
+Jharkhand,2012,Agriculture.and.Allied,15842
+Jharkhand,2013,Agriculture.and.Allied,16815
+Jharkhand,2014,Agriculture.and.Allied,18212
+Karnataka,2005,Agriculture.and.Allied,31190
+Karnataka,2006,Agriculture.and.Allied,34284
+Karnataka,2007,Agriculture.and.Allied,33310
+Karnataka,2008,Agriculture.and.Allied,37431
+Karnataka,2009,Agriculture.and.Allied,38279
+Karnataka,2010,Agriculture.and.Allied,39837
+Karnataka,2011,Agriculture.and.Allied,46279
+Karnataka,2012,Agriculture.and.Allied,43211
+Karnataka,2013,Agriculture.and.Allied,41907
+Karnataka,2014,Agriculture.and.Allied,42432
+Kerala,2005,Agriculture.and.Allied,20844
+Kerala,2006,Agriculture.and.Allied,21882
+Kerala,2007,Agriculture.and.Allied,20508
+Kerala,2008,Agriculture.and.Allied,20255
+Kerala,2009,Agriculture.and.Allied,20657
+Kerala,2010,Agriculture.and.Allied,20333
+Kerala,2011,Agriculture.and.Allied,19039
+Kerala,2012,Agriculture.and.Allied,19028
+Kerala,2013,Agriculture.and.Allied,19864
+Madhya Pradesh,2005,Agriculture.and.Allied,31238
+Madhya Pradesh,2006,Agriculture.and.Allied,33439
+Madhya Pradesh,2007,Agriculture.and.Allied,34224
+Madhya Pradesh,2008,Agriculture.and.Allied,33715
+Madhya Pradesh,2009,Agriculture.and.Allied,36698
+Madhya Pradesh,2010,Agriculture.and.Allied,39971
+Madhya Pradesh,2011,Agriculture.and.Allied,40068
+Madhya Pradesh,2012,Agriculture.and.Allied,47349
+Madhya Pradesh,2013,Agriculture.and.Allied,56171
+Madhya Pradesh,2014,Agriculture.and.Allied,69250
+Maharashtra,2005,Agriculture.and.Allied,44927
+Maharashtra,2006,Agriculture.and.Allied,49062
+Maharashtra,2007,Agriculture.and.Allied,55945
+Maharashtra,2008,Agriculture.and.Allied,63641
+Maharashtra,2009,Agriculture.and.Allied,53808
+Maharashtra,2010,Agriculture.and.Allied,54358
+Maharashtra,2011,Agriculture.and.Allied,65747
+Maharashtra,2012,Agriculture.and.Allied,65743
+Maharashtra,2013,Agriculture.and.Allied,65076
+Maharashtra,2014,Agriculture.and.Allied,67673
+Manipur,2005,Agriculture.and.Allied,1270
+Manipur,2006,Agriculture.and.Allied,1266
+Manipur,2007,Agriculture.and.Allied,1267
+Manipur,2008,Agriculture.and.Allied,1394
+Manipur,2009,Agriculture.and.Allied,1525
+Manipur,2010,Agriculture.and.Allied,1733
+Manipur,2011,Agriculture.and.Allied,1417
+Manipur,2012,Agriculture.and.Allied,1451
+Manipur,2013,Agriculture.and.Allied,1489
+Meghalaya,2005,Agriculture.and.Allied,1525
+Meghalaya,2006,Agriculture.and.Allied,1600
+Meghalaya,2007,Agriculture.and.Allied,1621
+Meghalaya,2008,Agriculture.and.Allied,1606
+Meghalaya,2009,Agriculture.and.Allied,1673
+Meghalaya,2010,Agriculture.and.Allied,1711
+Meghalaya,2011,Agriculture.and.Allied,1742
+Meghalaya,2012,Agriculture.and.Allied,1822
+Meghalaya,2013,Agriculture.and.Allied,1866
+Meghalaya,2014,Agriculture.and.Allied,1961
+Mizoram,2005,Agriculture.and.Allied,630
+Mizoram,2006,Agriculture.and.Allied,641
+Mizoram,2007,Agriculture.and.Allied,642
+Mizoram,2008,Agriculture.and.Allied,733
+Mizoram,2009,Agriculture.and.Allied,822
+Mizoram,2010,Agriculture.and.Allied,897
+Mizoram,2011,Agriculture.and.Allied,1045
+Mizoram,2012,Agriculture.and.Allied,1012
+Mizoram,2013,Agriculture.and.Allied,1013
+Nagaland,2005,Agriculture.and.Allied,2029
+Nagaland,2006,Agriculture.and.Allied,2081
+Nagaland,2007,Agriculture.and.Allied,2101
+Nagaland,2008,Agriculture.and.Allied,2114
+Nagaland,2009,Agriculture.and.Allied,2273
+Nagaland,2010,Agriculture.and.Allied,2339
+Nagaland,2011,Agriculture.and.Allied,2535
+Nagaland,2012,Agriculture.and.Allied,2670
+Nagaland,2013,Agriculture.and.Allied,2775
+Nagaland,2014,Agriculture.and.Allied,2886
+NCT of Delhi,2005,Agriculture.and.Allied,1094
+NCT of Delhi,2006,Agriculture.and.Allied,1057
+NCT of Delhi,2007,Agriculture.and.Allied,1069
+NCT of Delhi,2008,Agriculture.and.Allied,1039
+NCT of Delhi,2009,Agriculture.and.Allied,1032
+NCT of Delhi,2010,Agriculture.and.Allied,1307
+NCT of Delhi,2011,Agriculture.and.Allied,1410
+NCT of Delhi,2012,Agriculture.and.Allied,1434
+NCT of Delhi,2013,Agriculture.and.Allied,1459
+NCT of Delhi,2014,Agriculture.and.Allied,1506
+Odisha,2005,Agriculture.and.Allied,18257
+Odisha,2006,Agriculture.and.Allied,18867
+Odisha,2007,Agriculture.and.Allied,19232
+Odisha,2008,Agriculture.and.Allied,20129
+Odisha,2009,Agriculture.and.Allied,20504
+Odisha,2010,Agriculture.and.Allied,22092
+Odisha,2011,Agriculture.and.Allied,22512
+Odisha,2012,Agriculture.and.Allied,21508
+Odisha,2013,Agriculture.and.Allied,23876
+Odisha,2014,Agriculture.and.Allied,23099
+Puducherry,2005,Agriculture.and.Allied,305
+Puducherry,2006,Agriculture.and.Allied,294
+Puducherry,2007,Agriculture.and.Allied,324
+Puducherry,2008,Agriculture.and.Allied,320
+Puducherry,2009,Agriculture.and.Allied,471
+Puducherry,2010,Agriculture.and.Allied,393
+Puducherry,2011,Agriculture.and.Allied,493
+Puducherry,2012,Agriculture.and.Allied,423
+Puducherry,2013,Agriculture.and.Allied,470
+Puducherry,2014,Agriculture.and.Allied,578
+Punjab,2005,Agriculture.and.Allied,31612
+Punjab,2006,Agriculture.and.Allied,31914
+Punjab,2007,Agriculture.and.Allied,32824
+Punjab,2008,Agriculture.and.Allied,34079
+Punjab,2009,Agriculture.and.Allied,34772
+Punjab,2010,Agriculture.and.Allied,34666
+Punjab,2011,Agriculture.and.Allied,35236
+Punjab,2012,Agriculture.and.Allied,35886
+Punjab,2013,Agriculture.and.Allied,35942
+Punjab,2014,Agriculture.and.Allied,36101
+Rajasthan,2005,Agriculture.and.Allied,32730
+Rajasthan,2006,Agriculture.and.Allied,32830
+Rajasthan,2007,Agriculture.and.Allied,35297
+Rajasthan,2008,Agriculture.and.Allied,35867
+Rajasthan,2009,Agriculture.and.Allied,37371
+Rajasthan,2010,Agriculture.and.Allied,36365
+Rajasthan,2011,Agriculture.and.Allied,49621
+Rajasthan,2012,Agriculture.and.Allied,49496
+Rajasthan,2013,Agriculture.and.Allied,49549
+Rajasthan,2014,Agriculture.and.Allied,49658
+Sikkim,2005,Agriculture.and.Allied,323
+Sikkim,2006,Agriculture.and.Allied,337
+Sikkim,2007,Agriculture.and.Allied,337
+Sikkim,2008,Agriculture.and.Allied,350
+Sikkim,2009,Agriculture.and.Allied,365
+Sikkim,2010,Agriculture.and.Allied,381
+Sikkim,2011,Agriculture.and.Allied,399
+Sikkim,2012,Agriculture.and.Allied,552
+Sikkim,2013,Agriculture.and.Allied,564
+Sikkim,2014,Agriculture.and.Allied,583
+Tamil Nadu,2005,Agriculture.and.Allied,24362
+Tamil Nadu,2006,Agriculture.and.Allied,27592
+Tamil Nadu,2007,Agriculture.and.Allied,31244
+Tamil Nadu,2008,Agriculture.and.Allied,29867
+Tamil Nadu,2009,Agriculture.and.Allied,29183
+Tamil Nadu,2010,Agriculture.and.Allied,31036
+Tamil Nadu,2011,Agriculture.and.Allied,33353
+Tamil Nadu,2012,Agriculture.and.Allied,36672
+Tamil Nadu,2013,Agriculture.and.Allied,32600
+Tamil Nadu,2014,Agriculture.and.Allied,34988
+Tripura,2005,Agriculture.and.Allied,2232
+Tripura,2006,Agriculture.and.Allied,2303
+Tripura,2007,Agriculture.and.Allied,2490
+Tripura,2008,Agriculture.and.Allied,2918
+Tripura,2009,Agriculture.and.Allied,3083
+Tripura,2010,Agriculture.and.Allied,3243
+Tripura,2011,Agriculture.and.Allied,3614
+Tripura,2012,Agriculture.and.Allied,3934
+Tripura,2013,Agriculture.and.Allied,4136
+Uttar Pradesh,2005,Agriculture.and.Allied,77571
+Uttar Pradesh,2006,Agriculture.and.Allied,79385
+Uttar Pradesh,2007,Agriculture.and.Allied,81306
+Uttar Pradesh,2008,Agriculture.and.Allied,84163
+Uttar Pradesh,2009,Agriculture.and.Allied,87363
+Uttar Pradesh,2010,Agriculture.and.Allied,87018
+Uttar Pradesh,2011,Agriculture.and.Allied,91115
+Uttar Pradesh,2012,Agriculture.and.Allied,96213
+Uttar Pradesh,2013,Agriculture.and.Allied,100765
+Uttar Pradesh,2014,Agriculture.and.Allied,103378
+Uttarakhand,2005,Agriculture.and.Allied,5520
+Uttarakhand,2006,Agriculture.and.Allied,5343
+Uttarakhand,2007,Agriculture.and.Allied,5591
+Uttarakhand,2008,Agriculture.and.Allied,5708
+Uttarakhand,2009,Agriculture.and.Allied,5499
+Uttarakhand,2010,Agriculture.and.Allied,6029
+Uttarakhand,2011,Agriculture.and.Allied,6293
+Uttarakhand,2012,Agriculture.and.Allied,6546
+Uttarakhand,2013,Agriculture.and.Allied,6777
+Uttarakhand,2014,Agriculture.and.Allied,7056
+West Bengal,2005,Agriculture.and.Allied,49936
+West Bengal,2006,Agriculture.and.Allied,51045
+West Bengal,2007,Agriculture.and.Allied,52129
+West Bengal,2008,Agriculture.and.Allied,55365
+West Bengal,2009,Agriculture.and.Allied,54063
+West Bengal,2010,Agriculture.and.Allied,57814
+West Bengal,2011,Agriculture.and.Allied,56603
+West Bengal,2012,Agriculture.and.Allied,57060
+West Bengal,2013,Agriculture.and.Allied,59056
+West Bengal,2014,Agriculture.and.Allied,62236
+NCT of Delhi,2005,Construction,9757
+NCT of Delhi,2006,Construction,10203
+NCT of Delhi,2007,Construction,10580
+NCT of Delhi,2008,Construction,10681
+NCT of Delhi,2009,Construction,11047
+NCT of Delhi,2010,Construction,11352
+NCT of Delhi,2011,Construction,9739
+NCT of Delhi,2012,Construction,8825
+NCT of Delhi,2013,Construction,9155
+NCT of Delhi,2014,Construction,9414
+Puducherry,2005,Construction,753
+Puducherry,2006,Construction,795
+Puducherry,2007,Construction,838
+Puducherry,2008,Construction,894
+Puducherry,2009,Construction,910
+Puducherry,2010,Construction,931
+Puducherry,2011,Construction,944
+Puducherry,2012,Construction,1023
+Puducherry,2013,Construction,1049
+Puducherry,2014,Construction,1076
+A&N Islands,2005,Industry,500
+A&N Islands,2006,Industry,591
+A&N Islands,2007,Industry,834
+A&N Islands,2008,Industry,976
+A&N Islands,2009,Industry,817
+A&N Islands,2010,Industry,816
+A&N Islands,2011,Industry,850
+A&N Islands,2012,Industry,856
+A&N Islands,2013,Industry,908
+A&N Islands,2014,Industry,923
+Andhra Pradesh,2005,Industry,54557
+Andhra Pradesh,2006,Industry,60042
+Andhra Pradesh,2007,Industry,70611
+Andhra Pradesh,2008,Industry,78287
+Andhra Pradesh,2009,Industry,83883
+Andhra Pradesh,2010,Industry,86435
+Andhra Pradesh,2011,Industry,95049
+Andhra Pradesh,2012,Industry,105914
+Andhra Pradesh,2013,Industry,105431
+Andhra Pradesh,2014,Industry,108000
+Arunachal Pradesh,2005,Industry,1113
+Arunachal Pradesh,2006,Industry,1163
+Arunachal Pradesh,2007,Industry,1130
+Arunachal Pradesh,2008,Industry,1320
+Arunachal Pradesh,2009,Industry,1621
+Arunachal Pradesh,2010,Industry,1510
+Arunachal Pradesh,2011,Industry,1691
+Arunachal Pradesh,2012,Industry,1649
+Arunachal Pradesh,2013,Industry,1901
+Arunachal Pradesh,2014,Industry,2085
+Assam,2005,Industry,14705
+Assam,2006,Industry,14186
+Assam,2007,Industry,14178
+Assam,2008,Industry,14274
+Assam,2009,Industry,15262
+Assam,2010,Industry,16609
+Assam,2011,Industry,16877
+Assam,2012,Industry,17473
+Assam,2013,Industry,18056
+Assam,2014,Industry,18829
+Bihar,2005,Industry,10706
+Bihar,2006,Industry,11734
+Bihar,2007,Industry,13632
+Bihar,2008,Industry,16286
+Bihar,2009,Industry,18874
+Bihar,2010,Industry,21529
+Bihar,2011,Industry,27653
+Bihar,2012,Industry,28516
+Bihar,2013,Industry,28787
+Bihar,2014,Industry,32106
+Chandigarh,2005,Industry,1452
+Chandigarh,2006,Industry,1557
+Chandigarh,2007,Industry,2112
+Chandigarh,2008,Industry,2193
+Chandigarh,2009,Industry,1585
+Chandigarh,2010,Industry,1929
+Chandigarh,2011,Industry,1815
+Chandigarh,2012,Industry,1900
+Chandigarh,2013,Industry,1905
+Chandigarh,2014,Industry,1926
+Chhattisgarh,2005,Industry,21221
+Chhattisgarh,2006,Industry,20414
+Chhattisgarh,2007,Industry,27094
+Chhattisgarh,2008,Industry,29094
+Chhattisgarh,2009,Industry,33221
+Chhattisgarh,2010,Industry,32295
+Chhattisgarh,2011,Industry,33056
+Chhattisgarh,2012,Industry,36352
+Chhattisgarh,2013,Industry,37426
+Chhattisgarh,2014,Industry,39831
+Goa,2005,Industry,5971
+Goa,2006,Industry,6262
+Goa,2007,Industry,7176
+Goa,2008,Industry,7456
+Goa,2009,Industry,7995
+Goa,2010,Industry,8835
+Goa,2011,Industry,9686
+Goa,2012,Industry,10017
+Goa,2013,Industry,9530
+Gujarat,2005,Industry,81346
+Gujarat,2006,Industry,93251
+Gujarat,2007,Industry,102043
+Gujarat,2008,Industry,113070
+Gujarat,2009,Industry,120437
+Gujarat,2010,Industry,146026
+Gujarat,2011,Industry,150635
+Gujarat,2012,Industry,156199
+Gujarat,2013,Industry,167325
+Haryana,2005,Industry,31518
+Haryana,2006,Industry,34195
+Haryana,2007,Industry,37347
+Haryana,2008,Industry,39809
+Haryana,2009,Industry,41201
+Haryana,2010,Industry,45904
+Haryana,2011,Industry,48476
+Haryana,2012,Industry,50843
+Haryana,2013,Industry,53089
+Haryana,2014,Industry,54987
+Himachal Pradesh,2005,Industry,9240
+Himachal Pradesh,2006,Industry,10026
+Himachal Pradesh,2007,Industry,11384
+Himachal Pradesh,2008,Industry,12441
+Himachal Pradesh,2009,Industry,13623
+Himachal Pradesh,2010,Industry,15529
+Himachal Pradesh,2011,Industry,16137
+Himachal Pradesh,2012,Industry,16958
+Himachal Pradesh,2013,Industry,17543
+Himachal Pradesh,2014,Industry,17970
+Jammu Kashmir,2005,Industry,7708
+Jammu Kashmir,2006,Industry,8065
+Jammu Kashmir,2007,Industry,8853
+Jammu Kashmir,2008,Industry,9462
+Jammu Kashmir,2009,Industry,9500
+Jammu Kashmir,2010,Industry,9916
+Jammu Kashmir,2011,Industry,9660
+Jammu Kashmir,2012,Industry,10061
+Jammu Kashmir,2013,Industry,10545
+Jammu Kashmir,2014,Industry,10669
+Jharkhand,2005,Industry,19679
+Jharkhand,2006,Industry,21279
+Jharkhand,2007,Industry,23165
+Jharkhand,2008,Industry,26009
+Jharkhand,2009,Industry,28291
+Jharkhand,2010,Industry,34245
+Jharkhand,2011,Industry,39356
+Jharkhand,2012,Industry,40301
+Jharkhand,2013,Industry,44948
+Jharkhand,2014,Industry,50171
+Karnataka,2005,Industry,50489
+Karnataka,2006,Industry,54716
+Karnataka,2007,Industry,64043
+Karnataka,2008,Industry,70983
+Karnataka,2009,Industry,74633
+Karnataka,2010,Industry,73542
+Karnataka,2011,Industry,80547
+Karnataka,2012,Industry,83052
+Karnataka,2013,Industry,83373
+Karnataka,2014,Industry,85138
+Kerala,2005,Industry,27349
+Kerala,2006,Industry,30058
+Kerala,2007,Industry,32077
+Kerala,2008,Industry,34576
+Kerala,2009,Industry,34729
+Kerala,2010,Industry,37446
+Kerala,2011,Industry,42523
+Kerala,2012,Industry,45576
+Kerala,2013,Industry,53967
+Madhya Pradesh,2005,Industry,30658
+Madhya Pradesh,2006,Industry,32099
+Madhya Pradesh,2007,Industry,37462
+Madhya Pradesh,2008,Industry,39686
+Madhya Pradesh,2009,Industry,47218
+Madhya Pradesh,2010,Industry,50458
+Madhya Pradesh,2011,Industry,53920
+Madhya Pradesh,2012,Industry,56642
+Madhya Pradesh,2013,Industry,59747
+Madhya Pradesh,2014,Industry,61029
+Maharashtra,2005,Industry,123022
+Maharashtra,2006,Industry,146308
+Maharashtra,2007,Industry,169451
+Maharashtra,2008,Industry,189333
+Maharashtra,2009,Industry,187322
+Maharashtra,2010,Industry,200235
+Maharashtra,2011,Industry,227552
+Maharashtra,2012,Industry,228427
+Maharashtra,2013,Industry,234651
+Maharashtra,2014,Industry,255243
+Manipur,2005,Industry,1882
+Manipur,2006,Industry,2020
+Manipur,2007,Industry,2068
+Manipur,2008,Industry,2130
+Manipur,2009,Industry,2173
+Manipur,2010,Industry,2329
+Manipur,2011,Industry,1983
+Manipur,2012,Industry,2071
+Manipur,2013,Industry,2112
+Meghalaya,2005,Industry,1715
+Meghalaya,2006,Industry,1866
+Meghalaya,2007,Industry,2107
+Meghalaya,2008,Industry,2302
+Meghalaya,2009,Industry,2710
+Meghalaya,2010,Industry,2875
+Meghalaya,2011,Industry,3066
+Meghalaya,2012,Industry,3841
+Meghalaya,2013,Industry,3774
+Meghalaya,2014,Industry,4224
+Mizoram,2005,Industry,445
+Mizoram,2006,Industry,572
+Mizoram,2007,Industry,578
+Mizoram,2008,Industry,653
+Mizoram,2009,Industry,763
+Mizoram,2010,Industry,788
+Mizoram,2011,Industry,819
+Mizoram,2012,Industry,838
+Mizoram,2013,Industry,856
+Nagaland,2005,Industry,752
+Nagaland,2006,Industry,880
+Nagaland,2007,Industry,1011
+Nagaland,2008,Industry,1112
+Nagaland,2009,Industry,1285
+Nagaland,2010,Industry,1381
+Nagaland,2011,Industry,1175
+Nagaland,2012,Industry,1326
+Nagaland,2013,Industry,1439
+Nagaland,2014,Industry,1550
+NCT of Delhi,2005,Industry,18503
+NCT of Delhi,2006,Industry,19526
+NCT of Delhi,2007,Industry,20915
+NCT of Delhi,2008,Industry,21979
+NCT of Delhi,2009,Industry,23254
+NCT of Delhi,2010,Industry,23461
+NCT of Delhi,2011,Industry,21962
+NCT of Delhi,2012,Industry,21072
+NCT of Delhi,2013,Industry,21442
+NCT of Delhi,2014,Industry,21733
+Odisha,2005,Industry,26522
+Odisha,2006,Industry,27221
+Odisha,2007,Industry,33044
+Odisha,2008,Industry,38805
+Odisha,2009,Industry,40842
+Odisha,2010,Industry,39761
+Odisha,2011,Industry,42980
+Odisha,2012,Industry,45102
+Odisha,2013,Industry,49379
+Odisha,2014,Industry,52214
+Puducherry,2005,Industry,2888
+Puducherry,2006,Industry,3895
+Puducherry,2007,Industry,3660
+Puducherry,2008,Industry,3901
+Puducherry,2009,Industry,4093
+Puducherry,2010,Industry,4723
+Puducherry,2011,Industry,4432
+Puducherry,2012,Industry,4511
+Puducherry,2013,Industry,4620
+Puducherry,2014,Industry,4744
+Punjab,2005,Industry,23979
+Punjab,2006,Industry,26654
+Punjab,2007,Industry,32363
+Punjab,2008,Industry,37738
+Punjab,2009,Industry,39337
+Punjab,2010,Industry,42786
+Punjab,2011,Industry,45472
+Punjab,2012,Industry,46539
+Punjab,2013,Industry,47811
+Punjab,2014,Industry,49029
+Rajasthan,2005,Industry,39037
+Rajasthan,2006,Industry,42382
+Rajasthan,2007,Industry,49878
+Rajasthan,2008,Industry,51185
+Rajasthan,2009,Industry,54812
+Rajasthan,2010,Industry,60668
+Rajasthan,2011,Industry,63226
+Rajasthan,2012,Industry,64562
+Rajasthan,2013,Industry,67534
+Rajasthan,2014,Industry,69933
+Sikkim,2005,Industry,502
+Sikkim,2006,Industry,561
+Sikkim,2007,Industry,600
+Sikkim,2008,Industry,660
+Sikkim,2009,Industry,890
+Sikkim,2010,Industry,2426
+Sikkim,2011,Industry,2833
+Sikkim,2012,Industry,3137
+Sikkim,2013,Industry,3409
+Sikkim,2014,Industry,3728
+Tamil Nadu,2005,Industry,69313
+Tamil Nadu,2006,Industry,79072
+Tamil Nadu,2007,Industry,89700
+Tamil Nadu,2008,Industry,93158
+Tamil Nadu,2009,Industry,91241
+Tamil Nadu,2010,Industry,110336
+Tamil Nadu,2011,Industry,127239
+Tamil Nadu,2012,Industry,132448
+Tamil Nadu,2013,Industry,135256
+Tamil Nadu,2014,Industry,139469
+Tripura,2005,Industry,2159
+Tripura,2006,Industry,2385
+Tripura,2007,Industry,2670
+Tripura,2008,Industry,2696
+Tripura,2009,Industry,2957
+Tripura,2010,Industry,3330
+Tripura,2011,Industry,3336
+Tripura,2012,Industry,3357
+Tripura,2013,Industry,3449
+Uttar Pradesh,2005,Industry,60660
+Uttar Pradesh,2006,Industry,67075
+Uttar Pradesh,2007,Industry,76112
+Uttar Pradesh,2008,Industry,82654
+Uttar Pradesh,2009,Industry,83790
+Uttar Pradesh,2010,Industry,89913
+Uttar Pradesh,2011,Industry,96063
+Uttar Pradesh,2012,Industry,96410
+Uttar Pradesh,2013,Industry,98371
+Uttar Pradesh,2014,Industry,98724
+Uttarakhand,2005,Industry,6996
+Uttarakhand,2006,Industry,8908
+Uttarakhand,2007,Industry,10716
+Uttarakhand,2008,Industry,13189
+Uttarakhand,2009,Industry,14824
+Uttarakhand,2010,Industry,17740
+Uttarakhand,2011,Industry,20181
+Uttarakhand,2012,Industry,22610
+Uttarakhand,2013,Industry,23793
+Uttarakhand,2014,Industry,25292
+West Bengal,2005,Industry,45194
+West Bengal,2006,Industry,46686
+West Bengal,2007,Industry,50752
+West Bengal,2008,Industry,54229
+West Bengal,2009,Industry,53281
+West Bengal,2010,Industry,58439
+West Bengal,2011,Industry,61840
+West Bengal,2012,Industry,60610
+West Bengal,2013,Industry,63266
+West Bengal,2014,Industry,68798
+A&N Islands,2005,Manufacturing,23
+A&N Islands,2006,Manufacturing,19
+A&N Islands,2007,Manufacturing,23
+A&N Islands,2008,Manufacturing,26
+A&N Islands,2009,Manufacturing,26
+A&N Islands,2010,Manufacturing,27
+A&N Islands,2011,Manufacturing,27
+A&N Islands,2012,Manufacturing,31
+A&N Islands,2013,Manufacturing,32
+A&N Islands,2014,Manufacturing,26
+Andhra Pradesh,2005,Manufacturing,27331
+Andhra Pradesh,2006,Manufacturing,28756
+Andhra Pradesh,2007,Manufacturing,33838
+Andhra Pradesh,2008,Manufacturing,36357
+Andhra Pradesh,2009,Manufacturing,41308
+Andhra Pradesh,2010,Manufacturing,42360
+Andhra Pradesh,2011,Manufacturing,49867
+Andhra Pradesh,2012,Manufacturing,58118
+Andhra Pradesh,2013,Manufacturing,54815
+Andhra Pradesh,2014,Manufacturing,56722
+Arunachal Pradesh,2005,Manufacturing,72
+Arunachal Pradesh,2006,Manufacturing,80
+Arunachal Pradesh,2007,Manufacturing,91
+Arunachal Pradesh,2008,Manufacturing,104
+Arunachal Pradesh,2009,Manufacturing,105
+Arunachal Pradesh,2010,Manufacturing,108
+Arunachal Pradesh,2011,Manufacturing,122
+Arunachal Pradesh,2012,Manufacturing,127
+Arunachal Pradesh,2013,Manufacturing,126
+Arunachal Pradesh,2014,Manufacturing,129
+Assam,2005,Manufacturing,5621
+Assam,2006,Manufacturing,5241
+Assam,2007,Manufacturing,5145
+Assam,2008,Manufacturing,4810
+Assam,2009,Manufacturing,4603
+Assam,2010,Manufacturing,5620
+Assam,2011,Manufacturing,5934
+Assam,2012,Manufacturing,6162
+Assam,2013,Manufacturing,6361
+Assam,2014,Manufacturing,6590
+Bihar,2005,Manufacturing,4379
+Bihar,2006,Manufacturing,4104
+Bihar,2007,Manufacturing,4368
+Bihar,2008,Manufacturing,5446
+Bihar,2009,Manufacturing,6535
+Bihar,2010,Manufacturing,6270
+Bihar,2011,Manufacturing,7698
+Bihar,2012,Manufacturing,6990
+Bihar,2013,Manufacturing,7117
+Bihar,2014,Manufacturing,7377
+Chandigarh,2005,Manufacturing,561
+Chandigarh,2006,Manufacturing,519
+Chandigarh,2007,Manufacturing,636
+Chandigarh,2008,Manufacturing,710
+Chandigarh,2009,Manufacturing,714
+Chandigarh,2010,Manufacturing,847
+Chandigarh,2011,Manufacturing,856
+Chandigarh,2012,Manufacturing,840
+Chandigarh,2013,Manufacturing,827
+Chandigarh,2014,Manufacturing,830
+Chhattisgarh,2005,Manufacturing,10479
+Chhattisgarh,2006,Manufacturing,8552
+Chhattisgarh,2007,Manufacturing,12905
+Chhattisgarh,2008,Manufacturing,14537
+Chhattisgarh,2009,Manufacturing,14890
+Chhattisgarh,2010,Manufacturing,13273
+Chhattisgarh,2011,Manufacturing,12592
+Chhattisgarh,2012,Manufacturing,11632
+Chhattisgarh,2013,Manufacturing,11780
+Chhattisgarh,2014,Manufacturing,12406
+Goa,2005,Manufacturing,3809
+Goa,2006,Manufacturing,4006
+Goa,2007,Manufacturing,4421
+Goa,2008,Manufacturing,4577
+Goa,2009,Manufacturing,4837
+Goa,2010,Manufacturing,5252
+Goa,2011,Manufacturing,5678
+Goa,2012,Manufacturing,5830
+Goa,2013,Manufacturing,5930
+Gujarat,2005,Manufacturing,55443
+Gujarat,2006,Manufacturing,65683
+Gujarat,2007,Manufacturing,72537
+Gujarat,2008,Manufacturing,78244
+Gujarat,2009,Manufacturing,81582
+Gujarat,2010,Manufacturing,102526
+Gujarat,2011,Manufacturing,103237
+Gujarat,2012,Manufacturing,106108
+Gujarat,2013,Manufacturing,112881
+Haryana,2005,Manufacturing,20455
+Haryana,2006,Manufacturing,22022
+Haryana,2007,Manufacturing,24023
+Haryana,2008,Manufacturing,26052
+Haryana,2009,Manufacturing,26742
+Haryana,2010,Manufacturing,29577
+Haryana,2011,Manufacturing,31956
+Haryana,2012,Manufacturing,32793
+Haryana,2013,Manufacturing,34206
+Haryana,2014,Manufacturing,35070
+Himachal Pradesh,2005,Manufacturing,2772
+Himachal Pradesh,2006,Manufacturing,2961
+Himachal Pradesh,2007,Manufacturing,3353
+Himachal Pradesh,2008,Manufacturing,3593
+Himachal Pradesh,2009,Manufacturing,4566
+Himachal Pradesh,2010,Manufacturing,6185
+Himachal Pradesh,2011,Manufacturing,6894
+Himachal Pradesh,2012,Manufacturing,7389
+Himachal Pradesh,2013,Manufacturing,7623
+Himachal Pradesh,2014,Manufacturing,7820
+Jammu Kashmir,2005,Manufacturing,1672
+Jammu Kashmir,2006,Manufacturing,1860
+Jammu Kashmir,2007,Manufacturing,2131
+Jammu Kashmir,2008,Manufacturing,2316
+Jammu Kashmir,2009,Manufacturing,2555
+Jammu Kashmir,2010,Manufacturing,2820
+Jammu Kashmir,2011,Manufacturing,2899
+Jammu Kashmir,2012,Manufacturing,3068
+Jammu Kashmir,2013,Manufacturing,3248
+Jammu Kashmir,2014,Manufacturing,3136
+Jharkhand,2005,Manufacturing,6523
+Jharkhand,2006,Manufacturing,6733
+Jharkhand,2007,Manufacturing,6245
+Jharkhand,2008,Manufacturing,6297
+Jharkhand,2009,Manufacturing,7769
+Jharkhand,2010,Manufacturing,8333
+Jharkhand,2011,Manufacturing,10795
+Jharkhand,2012,Manufacturing,12659
+Jharkhand,2013,Manufacturing,12430
+Jharkhand,2014,Manufacturing,13473
+Karnataka,2005,Manufacturing,30599
+Karnataka,2006,Manufacturing,31702
+Karnataka,2007,Manufacturing,39316
+Karnataka,2008,Manufacturing,41887
+Karnataka,2009,Manufacturing,47109
+Karnataka,2010,Manufacturing,44314
+Karnataka,2011,Manufacturing,47074
+Karnataka,2012,Manufacturing,48861
+Karnataka,2013,Manufacturing,49286
+Karnataka,2014,Manufacturing,50174
+Kerala,2005,Manufacturing,10221
+Kerala,2006,Manufacturing,10433
+Kerala,2007,Manufacturing,11179
+Kerala,2008,Manufacturing,13165
+Kerala,2009,Manufacturing,13441
+Kerala,2010,Manufacturing,13485
+Kerala,2011,Manufacturing,15078
+Kerala,2012,Manufacturing,15733
+Kerala,2013,Manufacturing,17171
+Madhya Pradesh,2005,Manufacturing,12557
+Madhya Pradesh,2006,Manufacturing,13456
+Madhya Pradesh,2007,Manufacturing,17263
+Madhya Pradesh,2008,Manufacturing,18047
+Madhya Pradesh,2009,Manufacturing,21329
+Madhya Pradesh,2010,Manufacturing,22767
+Madhya Pradesh,2011,Manufacturing,22706
+Madhya Pradesh,2012,Manufacturing,23588
+Madhya Pradesh,2013,Manufacturing,24008
+Madhya Pradesh,2014,Manufacturing,23978
+Maharashtra,2005,Manufacturing,85476
+Maharashtra,2006,Manufacturing,106775
+Maharashtra,2007,Manufacturing,126830
+Maharashtra,2008,Manufacturing,137868
+Maharashtra,2009,Manufacturing,131900
+Maharashtra,2010,Manufacturing,141191
+Maharashtra,2011,Manufacturing,160584
+Maharashtra,2012,Manufacturing,153887
+Maharashtra,2013,Manufacturing,153707
+Maharashtra,2014,Manufacturing,164118
+Manipur,2005,Manufacturing,233
+Manipur,2006,Manufacturing,250
+Manipur,2007,Manufacturing,278
+Manipur,2008,Manufacturing,329
+Manipur,2009,Manufacturing,324
+Manipur,2010,Manufacturing,349
+Manipur,2011,Manufacturing,376
+Manipur,2012,Manufacturing,417
+Manipur,2013,Manufacturing,433
+Meghalaya,2005,Manufacturing,179
+Meghalaya,2006,Manufacturing,314
+Meghalaya,2007,Manufacturing,492
+Meghalaya,2008,Manufacturing,550
+Meghalaya,2009,Manufacturing,524
+Meghalaya,2010,Manufacturing,627
+Meghalaya,2011,Manufacturing,699
+Meghalaya,2012,Manufacturing,713
+Meghalaya,2013,Manufacturing,801
+Meghalaya,2014,Manufacturing,909
+Mizoram,2005,Manufacturing,38
+Mizoram,2006,Manufacturing,38
+Mizoram,2007,Manufacturing,45
+Mizoram,2008,Manufacturing,54
+Mizoram,2009,Manufacturing,52
+Mizoram,2010,Manufacturing,50
+Mizoram,2011,Manufacturing,54
+Mizoram,2012,Manufacturing,72
+Mizoram,2013,Manufacturing,82
+Nagaland,2005,Manufacturing,98
+Nagaland,2006,Manufacturing,119
+Nagaland,2007,Manufacturing,135
+Nagaland,2008,Manufacturing,153
+Nagaland,2009,Manufacturing,132
+Nagaland,2010,Manufacturing,211
+Nagaland,2011,Manufacturing,163
+Nagaland,2012,Manufacturing,178
+Nagaland,2013,Manufacturing,185
+Nagaland,2014,Manufacturing,194
+NCT of Delhi,2005,Manufacturing,7326
+NCT of Delhi,2006,Manufacturing,7934
+NCT of Delhi,2007,Manufacturing,8505
+NCT of Delhi,2008,Manufacturing,9420
+NCT of Delhi,2009,Manufacturing,9124
+NCT of Delhi,2010,Manufacturing,9434
+NCT of Delhi,2011,Manufacturing,10829
+NCT of Delhi,2012,Manufacturing,10717
+NCT of Delhi,2013,Manufacturing,10822
+NCT of Delhi,2014,Manufacturing,11003
+Odisha,2005,Manufacturing,9370
+Odisha,2006,Manufacturing,9607
+Odisha,2007,Manufacturing,12164
+Odisha,2008,Manufacturing,16184
+Odisha,2009,Manufacturing,18346
+Odisha,2010,Manufacturing,17109
+Odisha,2011,Manufacturing,18016
+Odisha,2012,Manufacturing,20257
+Odisha,2013,Manufacturing,22479
+Odisha,2014,Manufacturing,24075
+Puducherry,2005,Manufacturing,2045
+Puducherry,2006,Manufacturing,3009
+Puducherry,2007,Manufacturing,2726
+Puducherry,2008,Manufacturing,2782
+Puducherry,2009,Manufacturing,3078
+Puducherry,2010,Manufacturing,3687
+Puducherry,2011,Manufacturing,3376
+Puducherry,2012,Manufacturing,3373
+Puducherry,2013,Manufacturing,3433
+Puducherry,2014,Manufacturing,3521
+Punjab,2005,Manufacturing,14660
+Punjab,2006,Manufacturing,16143
+Punjab,2007,Manufacturing,20069
+Punjab,2008,Manufacturing,24122
+Punjab,2009,Manufacturing,24883
+Punjab,2010,Manufacturing,27879
+Punjab,2011,Manufacturing,30411
+Punjab,2012,Manufacturing,31348
+Punjab,2013,Manufacturing,32273
+Punjab,2014,Manufacturing,33267
+Rajasthan,2005,Manufacturing,15977
+Rajasthan,2006,Manufacturing,17600
+Rajasthan,2007,Manufacturing,21756
+Rajasthan,2008,Manufacturing,22388
+Rajasthan,2009,Manufacturing,25005
+Rajasthan,2010,Manufacturing,28320
+Rajasthan,2011,Manufacturing,26924
+Rajasthan,2012,Manufacturing,27947
+Rajasthan,2013,Manufacturing,28255
+Rajasthan,2014,Manufacturing,28082
+Sikkim,2005,Manufacturing,67
+Sikkim,2006,Manufacturing,69
+Sikkim,2007,Manufacturing,74
+Sikkim,2008,Manufacturing,85
+Sikkim,2009,Manufacturing,93
+Sikkim,2010,Manufacturing,1252
+Sikkim,2011,Manufacturing,1777
+Sikkim,2012,Manufacturing,2013
+Sikkim,2013,Manufacturing,2017
+Sikkim,2014,Manufacturing,2074
+Tamil Nadu,2005,Manufacturing,43433
+Tamil Nadu,2006,Manufacturing,49994
+Tamil Nadu,2007,Manufacturing,59369
+Tamil Nadu,2008,Manufacturing,59719
+Tamil Nadu,2009,Manufacturing,58934
+Tamil Nadu,2010,Manufacturing,76134
+Tamil Nadu,2011,Manufacturing,85508
+Tamil Nadu,2012,Manufacturing,86720
+Tamil Nadu,2013,Manufacturing,87692
+Tamil Nadu,2014,Manufacturing,91709
+Tripura,2005,Manufacturing,360
+Tripura,2006,Manufacturing,256
+Tripura,2007,Manufacturing,296
+Tripura,2008,Manufacturing,321
+Tripura,2009,Manufacturing,341
+Tripura,2010,Manufacturing,397
+Tripura,2011,Manufacturing,488
+Tripura,2012,Manufacturing,612
+Tripura,2013,Manufacturing,785
+Uttar Pradesh,2005,Manufacturing,35187
+Uttar Pradesh,2006,Manufacturing,37064
+Uttar Pradesh,2007,Manufacturing,44427
+Uttar Pradesh,2008,Manufacturing,48571
+Uttar Pradesh,2009,Manufacturing,44781
+Uttar Pradesh,2010,Manufacturing,51658
+Uttar Pradesh,2011,Manufacturing,55952
+Uttar Pradesh,2012,Manufacturing,55411
+Uttar Pradesh,2013,Manufacturing,56036
+Uttar Pradesh,2014,Manufacturing,55625
+Uttarakhand,2005,Manufacturing,3156
+Uttarakhand,2006,Manufacturing,4628
+Uttarakhand,2007,Manufacturing,5855
+Uttarakhand,2008,Manufacturing,8552
+Uttarakhand,2009,Manufacturing,10344
+Uttarakhand,2010,Manufacturing,12872
+Uttarakhand,2011,Manufacturing,14662
+Uttarakhand,2012,Manufacturing,16214
+Uttarakhand,2013,Manufacturing,17249
+Uttarakhand,2014,Manufacturing,17783
+West Bengal,2005,Manufacturing,23262
+West Bengal,2006,Manufacturing,22723
+West Bengal,2007,Manufacturing,25433
+West Bengal,2008,Manufacturing,28736
+West Bengal,2009,Manufacturing,28991
+West Bengal,2010,Manufacturing,32421
+West Bengal,2011,Manufacturing,34479
+West Bengal,2012,Manufacturing,33362
+West Bengal,2013,Manufacturing,35524
+West Bengal,2014,Manufacturing,37460
+A&N Islands,2005,Mining.and.Quarrying,5
+A&N Islands,2006,Mining.and.Quarrying,10
+A&N Islands,2007,Mining.and.Quarrying,17
+A&N Islands,2008,Mining.and.Quarrying,19
+A&N Islands,2009,Mining.and.Quarrying,17
+A&N Islands,2010,Mining.and.Quarrying,13
+A&N Islands,2011,Mining.and.Quarrying,12
+A&N Islands,2012,Mining.and.Quarrying,9
+A&N Islands,2013,Mining.and.Quarrying,10
+A&N Islands,2014,Mining.and.Quarrying,11
+Andhra Pradesh,2005,Mining.and.Quarrying,6271
+Andhra Pradesh,2006,Mining.and.Quarrying,6931
+Andhra Pradesh,2007,Mining.and.Quarrying,10350
+Andhra Pradesh,2008,Mining.and.Quarrying,11090
+Andhra Pradesh,2009,Mining.and.Quarrying,9366
+Andhra Pradesh,2010,Mining.and.Quarrying,9899
+Andhra Pradesh,2011,Mining.and.Quarrying,10803
+Andhra Pradesh,2012,Mining.and.Quarrying,10926
+Andhra Pradesh,2013,Mining.and.Quarrying,11704
+Andhra Pradesh,2014,Mining.and.Quarrying,10391
+Arunachal Pradesh,2005,Mining.and.Quarrying,79
+Arunachal Pradesh,2006,Mining.and.Quarrying,98
+Arunachal Pradesh,2007,Mining.and.Quarrying,95
+Arunachal Pradesh,2008,Mining.and.Quarrying,105
+Arunachal Pradesh,2009,Mining.and.Quarrying,108
+Arunachal Pradesh,2010,Mining.and.Quarrying,140
+Arunachal Pradesh,2011,Mining.and.Quarrying,138
+Arunachal Pradesh,2012,Mining.and.Quarrying,130
+Arunachal Pradesh,2013,Mining.and.Quarrying,110
+Arunachal Pradesh,2014,Mining.and.Quarrying,114
+Assam,2005,Mining.and.Quarrying,4679
+Assam,2006,Mining.and.Quarrying,4766
+Assam,2007,Mining.and.Quarrying,4830
+Assam,2008,Mining.and.Quarrying,5022
+Assam,2009,Mining.and.Quarrying,4223
+Assam,2010,Mining.and.Quarrying,4340
+Assam,2011,Mining.and.Quarrying,4247
+Assam,2012,Mining.and.Quarrying,4351
+Assam,2013,Mining.and.Quarrying,4449
+Assam,2014,Mining.and.Quarrying,4541
+Bihar,2005,Mining.and.Quarrying,42
+Bihar,2006,Mining.and.Quarrying,70
+Bihar,2007,Mining.and.Quarrying,58
+Bihar,2008,Mining.and.Quarrying,57
+Bihar,2009,Mining.and.Quarrying,126
+Bihar,2010,Mining.and.Quarrying,92
+Bihar,2011,Mining.and.Quarrying,93
+Bihar,2012,Mining.and.Quarrying,104
+Bihar,2013,Mining.and.Quarrying,92
+Bihar,2014,Mining.and.Quarrying,92
+Chandigarh,2005,Mining.and.Quarrying,0
+Chandigarh,2006,Mining.and.Quarrying,0
+Chandigarh,2007,Mining.and.Quarrying,0
+Chandigarh,2008,Mining.and.Quarrying,0
+Chandigarh,2009,Mining.and.Quarrying,0
+Chandigarh,2010,Mining.and.Quarrying,0
+Chandigarh,2011,Mining.and.Quarrying,0
+Chandigarh,2012,Mining.and.Quarrying,0
+Chandigarh,2013,Mining.and.Quarrying,0
+Chandigarh,2014,Mining.and.Quarrying,0
+Chhattisgarh,2005,Mining.and.Quarrying,5367
+Chhattisgarh,2006,Mining.and.Quarrying,5719
+Chhattisgarh,2007,Mining.and.Quarrying,6401
+Chhattisgarh,2008,Mining.and.Quarrying,6717
+Chhattisgarh,2009,Mining.and.Quarrying,7405
+Chhattisgarh,2010,Mining.and.Quarrying,7584
+Chhattisgarh,2011,Mining.and.Quarrying,8024
+Chhattisgarh,2012,Mining.and.Quarrying,8338
+Chhattisgarh,2013,Mining.and.Quarrying,8372
+Chhattisgarh,2014,Mining.and.Quarrying,9296
+Goa,2005,Mining.and.Quarrying,562
+Goa,2006,Mining.and.Quarrying,595
+Goa,2007,Mining.and.Quarrying,934
+Goa,2008,Mining.and.Quarrying,948
+Goa,2009,Mining.and.Quarrying,1116
+Goa,2010,Mining.and.Quarrying,1391
+Goa,2011,Mining.and.Quarrying,1293
+Goa,2012,Mining.and.Quarrying,1251
+Goa,2013,Mining.and.Quarrying,393
+Gujarat,2005,Mining.and.Quarrying,7026
+Gujarat,2006,Mining.and.Quarrying,7186
+Gujarat,2007,Mining.and.Quarrying,7239
+Gujarat,2008,Mining.and.Quarrying,7283
+Gujarat,2009,Mining.and.Quarrying,6895
+Gujarat,2010,Mining.and.Quarrying,6951
+Gujarat,2011,Mining.and.Quarrying,7201
+Gujarat,2012,Mining.and.Quarrying,7276
+Gujarat,2013,Mining.and.Quarrying,6918
+Haryana,2005,Mining.and.Quarrying,195
+Haryana,2006,Mining.and.Quarrying,359
+Haryana,2007,Mining.and.Quarrying,343
+Haryana,2008,Mining.and.Quarrying,356
+Haryana,2009,Mining.and.Quarrying,328
+Haryana,2010,Mining.and.Quarrying,166
+Haryana,2011,Mining.and.Quarrying,68
+Haryana,2012,Mining.and.Quarrying,78
+Haryana,2013,Mining.and.Quarrying,67
+Haryana,2014,Mining.and.Quarrying,67
+Himachal Pradesh,2005,Mining.and.Quarrying,64
+Himachal Pradesh,2006,Mining.and.Quarrying,66
+Himachal Pradesh,2007,Mining.and.Quarrying,72
+Himachal Pradesh,2008,Mining.and.Quarrying,70
+Himachal Pradesh,2009,Mining.and.Quarrying,76
+Himachal Pradesh,2010,Mining.and.Quarrying,138
+Himachal Pradesh,2011,Mining.and.Quarrying,150
+Himachal Pradesh,2012,Mining.and.Quarrying,133
+Himachal Pradesh,2013,Mining.and.Quarrying,149
+Himachal Pradesh,2014,Mining.and.Quarrying,150
+Jammu Kashmir,2005,Mining.and.Quarrying,28
+Jammu Kashmir,2006,Mining.and.Quarrying,41
+Jammu Kashmir,2007,Mining.and.Quarrying,58
+Jammu Kashmir,2008,Mining.and.Quarrying,66
+Jammu Kashmir,2009,Mining.and.Quarrying,86
+Jammu Kashmir,2010,Mining.and.Quarrying,79
+Jammu Kashmir,2011,Mining.and.Quarrying,84
+Jammu Kashmir,2012,Mining.and.Quarrying,90
+Jammu Kashmir,2013,Mining.and.Quarrying,273
+Jammu Kashmir,2014,Mining.and.Quarrying,503
+Jharkhand,2005,Mining.and.Quarrying,31162
+Jharkhand,2006,Mining.and.Quarrying,27327
+Jharkhand,2007,Mining.and.Quarrying,25656
+Jharkhand,2008,Mining.and.Quarrying,34380
+Jharkhand,2009,Mining.and.Quarrying,29029
+Jharkhand,2010,Mining.and.Quarrying,30982
+Jharkhand,2011,Mining.and.Quarrying,37585
+Jharkhand,2012,Mining.and.Quarrying,37367
+Jharkhand,2013,Mining.and.Quarrying,38697
+Jharkhand,2014,Mining.and.Quarrying,41025
+Karnataka,2005,Mining.and.Quarrying,1926
+Karnataka,2006,Mining.and.Quarrying,1882
+Karnataka,2007,Mining.and.Quarrying,1978
+Karnataka,2008,Mining.and.Quarrying,2813
+Karnataka,2009,Mining.and.Quarrying,2716
+Karnataka,2010,Mining.and.Quarrying,2448
+Karnataka,2011,Mining.and.Quarrying,2385
+Karnataka,2012,Mining.and.Quarrying,1233
+Karnataka,2013,Mining.and.Quarrying,1249
+Karnataka,2014,Mining.and.Quarrying,1272
+Kerala,2005,Mining.and.Quarrying,458
+Kerala,2006,Mining.and.Quarrying,585
+Kerala,2007,Mining.and.Quarrying,530
+Kerala,2008,Mining.and.Quarrying,547
+Kerala,2009,Mining.and.Quarrying,600
+Kerala,2010,Mining.and.Quarrying,807
+Kerala,2011,Mining.and.Quarrying,740
+Kerala,2012,Mining.and.Quarrying,873
+Kerala,2013,Mining.and.Quarrying,847
+Madhya Pradesh,2005,Mining.and.Quarrying,5449
+Madhya Pradesh,2006,Mining.and.Quarrying,5497
+Madhya Pradesh,2007,Mining.and.Quarrying,5989
+Madhya Pradesh,2008,Mining.and.Quarrying,6658
+Madhya Pradesh,2009,Mining.and.Quarrying,7073
+Madhya Pradesh,2010,Mining.and.Quarrying,7332
+Madhya Pradesh,2011,Mining.and.Quarrying,7101
+Madhya Pradesh,2012,Mining.and.Quarrying,7228
+Madhya Pradesh,2013,Mining.and.Quarrying,7922
+Madhya Pradesh,2014,Mining.and.Quarrying,7748
+Maharashtra,2005,Mining.and.Quarrying,3491
+Maharashtra,2006,Mining.and.Quarrying,3573
+Maharashtra,2007,Mining.and.Quarrying,3665
+Maharashtra,2008,Mining.and.Quarrying,3694
+Maharashtra,2009,Mining.and.Quarrying,3571
+Maharashtra,2010,Mining.and.Quarrying,3759
+Maharashtra,2011,Mining.and.Quarrying,3897
+Maharashtra,2012,Mining.and.Quarrying,4133
+Maharashtra,2013,Mining.and.Quarrying,4192
+Maharashtra,2014,Mining.and.Quarrying,4151
+Meghalaya,2005,Mining.and.Quarrying,613
+Meghalaya,2006,Mining.and.Quarrying,617
+Meghalaya,2007,Mining.and.Quarrying,651
+Meghalaya,2008,Mining.and.Quarrying,738
+Meghalaya,2009,Mining.and.Quarrying,634
+Meghalaya,2010,Mining.and.Quarrying,666
+Meghalaya,2011,Mining.and.Quarrying,777
+Meghalaya,2012,Mining.and.Quarrying,835
+Meghalaya,2013,Mining.and.Quarrying,659
+Meghalaya,2014,Mining.and.Quarrying,667
+Mizoram,2005,Mining.and.Quarrying,8
+Mizoram,2006,Mining.and.Quarrying,6
+Mizoram,2007,Mining.and.Quarrying,10
+Mizoram,2008,Mining.and.Quarrying,14
+Mizoram,2009,Mining.and.Quarrying,20
+Mizoram,2010,Mining.and.Quarrying,12
+Mizoram,2011,Mining.and.Quarrying,13
+Mizoram,2012,Mining.and.Quarrying,17
+Mizoram,2013,Mining.and.Quarrying,11
+Nagaland,2005,Mining.and.Quarrying,7
+Nagaland,2006,Mining.and.Quarrying,8
+Nagaland,2007,Mining.and.Quarrying,9
+Nagaland,2008,Mining.and.Quarrying,10
+Nagaland,2009,Mining.and.Quarrying,11
+Nagaland,2010,Mining.and.Quarrying,12
+Nagaland,2011,Mining.and.Quarrying,12
+Nagaland,2012,Mining.and.Quarrying,13
+Nagaland,2013,Mining.and.Quarrying,13
+Nagaland,2014,Mining.and.Quarrying,13
+Odisha,2005,Mining.and.Quarrying,5862
+Odisha,2006,Mining.and.Quarrying,6371
+Odisha,2007,Mining.and.Quarrying,7643
+Odisha,2008,Mining.and.Quarrying,7944
+Odisha,2009,Mining.and.Quarrying,8655
+Odisha,2010,Mining.and.Quarrying,9130
+Odisha,2011,Mining.and.Quarrying,8748
+Odisha,2012,Mining.and.Quarrying,8140
+Odisha,2013,Mining.and.Quarrying,8165
+Odisha,2014,Mining.and.Quarrying,8669
+Punjab,2005,Mining.and.Quarrying,22
+Punjab,2006,Mining.and.Quarrying,22
+Punjab,2007,Mining.and.Quarrying,22
+Punjab,2008,Mining.and.Quarrying,27
+Punjab,2009,Mining.and.Quarrying,33
+Punjab,2010,Mining.and.Quarrying,28
+Punjab,2011,Mining.and.Quarrying,31
+Punjab,2012,Mining.and.Quarrying,18
+Punjab,2013,Mining.and.Quarrying,11
+Punjab,2014,Mining.and.Quarrying,12
+Rajasthan,2005,Mining.and.Quarrying,2717
+Rajasthan,2006,Mining.and.Quarrying,2866
+Rajasthan,2007,Mining.and.Quarrying,4097
+Rajasthan,2008,Mining.and.Quarrying,4405
+Rajasthan,2009,Mining.and.Quarrying,4109
+Rajasthan,2010,Mining.and.Quarrying,4894
+Rajasthan,2011,Mining.and.Quarrying,8080
+Rajasthan,2012,Mining.and.Quarrying,9776
+Rajasthan,2013,Mining.and.Quarrying,11827
+Rajasthan,2014,Mining.and.Quarrying,13324
+Sikkim,2005,Mining.and.Quarrying,2
+Sikkim,2006,Mining.and.Quarrying,2
+Sikkim,2007,Mining.and.Quarrying,2
+Sikkim,2008,Mining.and.Quarrying,2
+Sikkim,2009,Mining.and.Quarrying,4
+Sikkim,2010,Mining.and.Quarrying,4
+Sikkim,2011,Mining.and.Quarrying,5
+Sikkim,2012,Mining.and.Quarrying,7
+Sikkim,2013,Mining.and.Quarrying,12
+Sikkim,2014,Mining.and.Quarrying,15
+Tamil Nadu,2005,Mining.and.Quarrying,1633
+Tamil Nadu,2006,Mining.and.Quarrying,1554
+Tamil Nadu,2007,Mining.and.Quarrying,1622
+Tamil Nadu,2008,Mining.and.Quarrying,1641
+Tamil Nadu,2009,Mining.and.Quarrying,1611
+Tamil Nadu,2010,Mining.and.Quarrying,1761
+Tamil Nadu,2011,Mining.and.Quarrying,1816
+Tamil Nadu,2012,Mining.and.Quarrying,2055
+Tamil Nadu,2013,Mining.and.Quarrying,2178
+Tamil Nadu,2014,Mining.and.Quarrying,2309
+Tripura,2005,Mining.and.Quarrying,128
+Tripura,2006,Mining.and.Quarrying,131
+Tripura,2007,Mining.and.Quarrying,142
+Tripura,2008,Mining.and.Quarrying,146
+Tripura,2009,Mining.and.Quarrying,165
+Tripura,2010,Mining.and.Quarrying,182
+Tripura,2011,Mining.and.Quarrying,244
+Tripura,2012,Mining.and.Quarrying,263
+Tripura,2013,Mining.and.Quarrying,288
+Uttar Pradesh,2005,Mining.and.Quarrying,2739
+Uttar Pradesh,2006,Mining.and.Quarrying,3242
+Uttar Pradesh,2007,Mining.and.Quarrying,3293
+Uttar Pradesh,2008,Mining.and.Quarrying,3165
+Uttar Pradesh,2009,Mining.and.Quarrying,3635
+Uttar Pradesh,2010,Mining.and.Quarrying,3091
+Uttar Pradesh,2011,Mining.and.Quarrying,3547
+Uttar Pradesh,2012,Mining.and.Quarrying,2473
+Uttar Pradesh,2013,Mining.and.Quarrying,2315
+Uttar Pradesh,2014,Mining.and.Quarrying,2218
+Uttarakhand,2005,Mining.and.Quarrying,299
+Uttarakhand,2006,Mining.and.Quarrying,396
+Uttarakhand,2007,Mining.and.Quarrying,378
+Uttarakhand,2008,Mining.and.Quarrying,384
+Uttarakhand,2009,Mining.and.Quarrying,313
+Uttarakhand,2010,Mining.and.Quarrying,268
+Uttarakhand,2011,Mining.and.Quarrying,340
+Uttarakhand,2012,Mining.and.Quarrying,367
+Uttarakhand,2013,Mining.and.Quarrying,395
+Uttarakhand,2014,Mining.and.Quarrying,426
+West Bengal,2005,Mining.and.Quarrying,2849
+West Bengal,2006,Mining.and.Quarrying,2859
+West Bengal,2007,Mining.and.Quarrying,2987
+West Bengal,2008,Mining.and.Quarrying,2597
+West Bengal,2009,Mining.and.Quarrying,2673
+West Bengal,2010,Mining.and.Quarrying,2668
+West Bengal,2011,Mining.and.Quarrying,2537
+West Bengal,2012,Mining.and.Quarrying,2873
+West Bengal,2013,Mining.and.Quarrying,3125
+West Bengal,2014,Mining.and.Quarrying,3368
+A&N Islands,2005,Services,1014
+A&N Islands,2006,Services,1087
+A&N Islands,2007,Services,1113
+A&N Islands,2008,Services,1197
+A&N Islands,2009,Services,1688
+A&N Islands,2010,Services,2060
+A&N Islands,2011,Services,2264
+A&N Islands,2012,Services,2521
+A&N Islands,2013,Services,2739
+A&N Islands,2014,Services,2920
+Andhra Pradesh,2005,Services,113812
+Andhra Pradesh,2006,Services,126379
+Andhra Pradesh,2007,Services,142153
+Andhra Pradesh,2008,Services,156795
+Andhra Pradesh,2009,Services,171740
+Andhra Pradesh,2010,Services,183874
+Andhra Pradesh,2011,Services,211533
+Andhra Pradesh,2012,Services,228737
+Andhra Pradesh,2013,Services,244633
+Andhra Pradesh,2014,Services,262256
+Arunachal Pradesh,2005,Services,1150
+Arunachal Pradesh,2006,Services,1227
+Arunachal Pradesh,2007,Services,1331
+Arunachal Pradesh,2008,Services,1435
+Arunachal Pradesh,2009,Services,1606
+Arunachal Pradesh,2010,Services,2160
+Arunachal Pradesh,2011,Services,1986
+Arunachal Pradesh,2012,Services,2155
+Arunachal Pradesh,2013,Services,2183
+Arunachal Pradesh,2014,Services,2381
+Assam,2005,Services,25037
+Assam,2006,Services,27022
+Assam,2007,Services,29332
+Assam,2008,Services,31617
+Assam,2009,Services,33809
+Assam,2010,Services,37193
+Assam,2011,Services,41549
+Assam,2012,Services,44123
+Assam,2013,Services,47571
+Assam,2014,Services,50880
+Bihar,2005,Services,42545
+Bihar,2006,Services,43003
+Bihar,2007,Services,48153
+Bihar,2008,Services,52453
+Bihar,2009,Services,58771
+Bihar,2010,Services,65920
+Bihar,2011,Services,72517
+Bihar,2012,Services,81290
+Bihar,2013,Services,93476
+Bihar,2014,Services,109613
+Chandigarh,2005,Services,6975
+Chandigarh,2006,Services,7777
+Chandigarh,2007,Services,8603
+Chandigarh,2008,Services,9307
+Chandigarh,2009,Services,10849
+Chandigarh,2010,Services,11203
+Chandigarh,2011,Services,11453
+Chandigarh,2012,Services,11828
+Chandigarh,2013,Services,12350
+Chandigarh,2014,Services,13709
+Chhattisgarh,2005,Services,16482
+Chhattisgarh,2006,Services,17539
+Chhattisgarh,2007,Services,19536
+Chhattisgarh,2008,Services,21466
+Chhattisgarh,2009,Services,23979
+Chhattisgarh,2010,Services,26264
+Chhattisgarh,2011,Services,30316
+Chhattisgarh,2012,Services,32066
+Chhattisgarh,2013,Services,34077
+Chhattisgarh,2014,Services,36848
+Goa,2005,Services,5745
+Goa,2006,Services,6176
+Goa,2007,Services,6829
+Goa,2008,Services,7368
+Goa,2009,Services,8496
+Goa,2010,Services,9430
+Goa,2011,Services,11813
+Goa,2012,Services,16014
+Goa,2013,Services,17657
+Gujarat,2005,Services,89321
+Gujarat,2006,Services,100263
+Gujarat,2007,Services,111383
+Gujarat,2008,Services,124747
+Gujarat,2009,Services,139564
+Gujarat,2010,Services,148059
+Gujarat,2011,Services,168237
+Gujarat,2012,Services,188383
+Gujarat,2013,Services,212301
+Haryana,2005,Services,42152
+Haryana,2006,Services,48688
+Haryana,2007,Services,54198
+Haryana,2008,Services,61577
+Haryana,2009,Services,68705
+Haryana,2010,Services,80383
+Haryana,2011,Services,87741
+Haryana,2012,Services,96354
+Haryana,2013,Services,104301
+Haryana,2014,Services,113590
+Himachal Pradesh,2005,Services,8703
+Himachal Pradesh,2006,Services,9569
+Himachal Pradesh,2007,Services,10629
+Himachal Pradesh,2008,Services,11428
+Himachal Pradesh,2009,Services,12604
+Himachal Pradesh,2010,Services,14167
+Himachal Pradesh,2011,Services,15572
+Himachal Pradesh,2012,Services,17858
+Himachal Pradesh,2013,Services,19172
+Himachal Pradesh,2014,Services,20484
+Jammu Kashmir,2005,Services,11935
+Jammu Kashmir,2006,Services,13138
+Jammu Kashmir,2007,Services,13988
+Jammu Kashmir,2008,Services,15288
+Jammu Kashmir,2009,Services,17054
+Jammu Kashmir,2010,Services,18237
+Jammu Kashmir,2011,Services,19864
+Jammu Kashmir,2012,Services,22303
+Jammu Kashmir,2013,Services,23987
+Jammu Kashmir,2014,Services,25669
+Jharkhand,2005,Services,20129
+Jharkhand,2006,Services,15597
+Jharkhand,2007,Services,13653
+Jharkhand,2008,Services,21985
+Jharkhand,2009,Services,14998
+Jharkhand,2010,Services,15773
+Jharkhand,2011,Services,19290
+Jharkhand,2012,Services,16692
+Jharkhand,2013,Services,17808
+Jharkhand,2014,Services,18378
+Karnataka,2005,Services,85069
+Karnataka,2006,Services,95277
+Karnataka,2007,Services,105307
+Karnataka,2008,Services,119788
+Karnataka,2009,Services,131509
+Karnataka,2010,Services,134211
+Karnataka,2011,Services,145895
+Karnataka,2012,Services,156521
+Karnataka,2013,Services,172961
+Karnataka,2014,Services,186785
+Kerala,2005,Services,71071
+Kerala,2006,Services,79354
+Kerala,2007,Services,89082
+Kerala,2008,Services,99262
+Kerala,2009,Services,107274
+Kerala,2010,Services,119792
+Kerala,2011,Services,128289
+Kerala,2012,Services,140353
+Kerala,2013,Services,148019
+Madhya Pradesh,2005,Services,51031
+Madhya Pradesh,2006,Services,53382
+Madhya Pradesh,2007,Services,58210
+Madhya Pradesh,2008,Services,62585
+Madhya Pradesh,2009,Services,69030
+Madhya Pradesh,2010,Services,77135
+Madhya Pradesh,2011,Services,84156
+Madhya Pradesh,2012,Services,91417
+Madhya Pradesh,2013,Services,98824
+Madhya Pradesh,2014,Services,108248
+Maharashtra,2005,Services,247531
+Maharashtra,2006,Services,275559
+Maharashtra,2007,Services,309258
+Maharashtra,2008,Services,341857
+Maharashtra,2009,Services,369062
+Maharashtra,2010,Services,412352
+Maharashtra,2011,Services,448743
+Maharashtra,2012,Services,483621
+Maharashtra,2013,Services,526105
+Maharashtra,2014,Services,574869
+Manipur,2005,Services,1981
+Manipur,2006,Services,2172
+Manipur,2007,Services,2232
+Manipur,2008,Services,2375
+Manipur,2009,Services,2582
+Manipur,2010,Services,2658
+Manipur,2011,Services,3280
+Manipur,2012,Services,3813
+Manipur,2013,Services,4024
+Meghalaya,2005,Services,3320
+Meghalaya,2006,Services,3612
+Meghalaya,2007,Services,3897
+Meghalaya,2008,Services,4061
+Meghalaya,2009,Services,4619
+Meghalaya,2010,Services,5006
+Meghalaya,2011,Services,5604
+Meghalaya,2012,Services,6061
+Meghalaya,2013,Services,6337
+Meghalaya,2014,Services,7280
+Mizoram,2005,Services,1606
+Mizoram,2006,Services,1657
+Mizoram,2007,Services,1785
+Mizoram,2008,Services,1950
+Mizoram,2009,Services,2197
+Mizoram,2010,Services,2563
+Mizoram,2011,Services,3116
+Mizoram,2012,Services,3002
+Mizoram,2013,Services,3335
+Nagaland,2005,Services,3057
+Nagaland,2006,Services,3475
+Nagaland,2007,Services,3826
+Nagaland,2008,Services,4219
+Nagaland,2009,Services,4359
+Nagaland,2010,Services,4743
+Nagaland,2011,Services,5544
+Nagaland,2012,Services,6027
+Nagaland,2013,Services,6457
+Nagaland,2014,Services,6931
+NCT of Delhi,2005,Services,80727
+NCT of Delhi,2006,Services,89824
+NCT of Delhi,2007,Services,102096
+NCT of Delhi,2008,Services,114943
+NCT of Delhi,2009,Services,131505
+NCT of Delhi,2010,Services,143869
+NCT of Delhi,2011,Services,157393
+NCT of Delhi,2012,Services,175038
+NCT of Delhi,2013,Services,193070
+NCT of Delhi,2014,Services,212918
+Odisha,2005,Services,32951
+Odisha,2006,Services,36057
+Odisha,2007,Services,40425
+Odisha,2008,Services,43912
+Odisha,2009,Services,49466
+Odisha,2010,Services,53998
+Odisha,2011,Services,59639
+Odisha,2012,Services,63254
+Odisha,2013,Services,67111
+Odisha,2014,Services,72914
+Puducherry,2005,Services,2561
+Puducherry,2006,Services,2998
+Puducherry,2007,Services,3469
+Puducherry,2008,Services,3873
+Puducherry,2009,Services,4187
+Puducherry,2010,Services,5060
+Puducherry,2011,Services,5881
+Puducherry,2012,Services,6423
+Puducherry,2013,Services,7590
+Puducherry,2014,Services,8492
+Punjab,2005,Services,41247
+Punjab,2006,Services,43988
+Punjab,2007,Services,47810
+Punjab,2008,Services,51405
+Punjab,2009,Services,56322
+Punjab,2010,Services,61184
+Punjab,2011,Services,66963
+Punjab,2012,Services,74878
+Punjab,2013,Services,80835
+Punjab,2014,Services,88091
+Rajasthan,2005,Services,55978
+Rajasthan,2006,Services,61072
+Rajasthan,2007,Services,67014
+Rajasthan,2008,Services,72965
+Rajasthan,2009,Services,82373
+Rajasthan,2010,Services,89212
+Rajasthan,2011,Services,100232
+Rajasthan,2012,Services,110045
+Rajasthan,2013,Services,117146
+Rajasthan,2014,Services,125406
+Sikkim,2005,Services,914
+Sikkim,2006,Services,1012
+Sikkim,2007,Services,1087
+Sikkim,2008,Services,1168
+Sikkim,2009,Services,1280
+Sikkim,2010,Services,1594
+Sikkim,2011,Services,1552
+Sikkim,2012,Services,1610
+Sikkim,2013,Services,1730
+Sikkim,2014,Services,1841
+Tamil Nadu,2005,Services,125329
+Tamil Nadu,2006,Services,142904
+Tamil Nadu,2007,Services,166586
+Tamil Nadu,2008,Services,182131
+Tamil Nadu,2009,Services,201369
+Tamil Nadu,2010,Services,215260
+Tamil Nadu,2011,Services,242823
+Tamil Nadu,2012,Services,264118
+Tamil Nadu,2013,Services,280088
+Tamil Nadu,2014,Services,306162
+Tripura,2005,Services,4513
+Tripura,2006,Services,4733
+Tripura,2007,Services,5042
+Tripura,2008,Services,5375
+Tripura,2009,Services,5985
+Tripura,2010,Services,6733
+Tripura,2011,Services,7436
+Tripura,2012,Services,8346
+Tripura,2013,Services,9411
+Uttar Pradesh,2005,Services,122610
+Uttar Pradesh,2006,Services,131358
+Uttar Pradesh,2007,Services,142808
+Uttar Pradesh,2008,Services,155396
+Uttar Pradesh,2009,Services,173573
+Uttar Pradesh,2010,Services,190486
+Uttar Pradesh,2011,Services,209131
+Uttar Pradesh,2012,Services,225780
+Uttar Pradesh,2013,Services,244055
+Uttar Pradesh,2014,Services,263867
+Uttarakhand,2005,Services,12269
+Uttarakhand,2006,Services,14090
+Uttarakhand,2007,Services,15882
+Uttarakhand,2008,Services,19124
+Uttarakhand,2009,Services,22510
+Uttarakhand,2010,Services,26829
+Uttarakhand,2011,Services,29193
+Uttarakhand,2012,Services,31725
+Uttarakhand,2013,Services,33723
+Uttarakhand,2014,Services,35579
+West Bengal,2005,Services,113526
+West Bengal,2006,Services,124058
+West Bengal,2007,Services,136197
+West Bengal,2008,Services,148038
+West Bengal,2009,Services,162904
+West Bengal,2010,Services,175702
+West Bengal,2011,Services,190394
+West Bengal,2012,Services,205749
+West Bengal,2013,Services,222834
+West Bengal,2014,Services,243865
