@@ -1,0 +1,235 @@
+Indname,Year,Nos,No %age,Inv,Inv %age
+Mettallurgical Industries,2009,641,18.45,254285,24.44
+Mettallurgical Industries,2010,681,15.71,391805,22.57
+Mettallurgical Industries,2011,532,13.64,268895,17.46
+Mettallurgical Industries,2012,346,12.23,141983,25
+Mettallurgical Industries,2013,240,10.05,106893,20.17
+Mettallurgical Industries,2014,99,5.37,27239,6.73
+Fuels,2009,46,1.32,61743,5.94
+Fuels,2010,49,1.13,73015,4.21
+Fuels,2011,24,0.62,8575,0.56
+Fuels,2012,11,0.39,1804,0.32
+Fuels,2013,12,0.5,17868,3.37
+Fuels,2014,8,0.43,1870,0.46
+Boilers&Steam Gen.Plants,2009,3,0.09,410,0.04
+Boilers&Steam Gen.Plants,2010,3,0.07,1199,0.07
+Boilers&Steam Gen.Plants,2011,1,0.03,20,0
+Boilers&Steam Gen.Plants,2012,2,0.07,102,0.02
+Boilers&Steam Gen.Plants,2013,1,0.04,15,0
+Boilers&Steam Gen.Plants,2014,1,0.05,26,0.01
+Prime Movers,2009,87,2.5,4265,0.41
+Prime Movers,2010,147,3.39,5977,0.34
+Prime Movers,2011,184,4.72,9990,0.65
+Prime Movers,2012,140,4.95,14696,2.59
+Prime Movers,2013,94,3.94,7614,1.44
+Prime Movers,2014,34,1.84,1625,0.4
+Electrical Equpts,2009,419,12.06,472403,45.41
+Electrical Equpts,2010,546,12.59,928995,53.5
+Electrical Equpts,2011,348,8.92,778500,50.56
+Electrical Equpts,2012,172,6.08,144210,25.39
+Electrical Equpts,2013,122,5.11,82682,15.6
+Electrical Equpts,2014,147,7.98,34873,8.61
+Telecommunications,2009,14,0.4,5371,0.52
+Telecommunications,2010,18,0.42,948,0.05
+Telecommunications,2011,15,0.38,360,0.02
+Telecommunications,2012,7,0.25,49,0.01
+Telecommunications,2013,10,0.42,1049,0.2
+Telecommunications,2014,2,0.11,26,0.01
+Transportation,2009,60,1.73,5048,0.49
+Transportation,2010,72,1.66,12290,0.71
+Transportation,2011,97,2.49,9695,0.63
+Transportation,2012,70,2.48,24591,4.33
+Transportation,2013,59,2.47,7603,1.43
+Transportation,2014,56,3.04,6109,1.51
+Industrial Machinery,2009,68,1.96,5805,0.56
+Industrial Machinery,2010,78,1.8,3372,0.19
+Industrial Machinery,2011,84,2.15,4780,0.31
+Industrial Machinery,2012,51,1.8,2232,0.39
+Industrial Machinery,2013,57,2.39,5646,1.07
+Industrial Machinery,2014,40,2.17,3472,0.86
+Machine Tools,2009,4,0.12,174,0.02
+Machine Tools,2010,7,0.16,536,0.03
+Machine Tools,2011,4,0.1,1035,0.07
+Machine Tools,2012,4,0.14,46,0.01
+Machine Tools,2013,5,0.21,226,0.04
+Machine Tools,2014,1,0.05,21,0.01
+Agricultural Machinery,2009,15,0.43,518,0.05
+Agricultural Machinery,2010,18,0.42,655,0.04
+Agricultural Machinery,2011,27,0.69,3136,0.2
+Agricultural Machinery,2012,8,0.28,654,0.12
+Agricultural Machinery,2013,9,0.38,727,0.14
+Agricultural Machinery,2014,4,0.22,673,0.17
+Earth Moving Machinery,2009,2,0.06,112,0.01
+Earth Moving Machinery,2010,3,0.07,44,0
+Earth Moving Machinery,2011,9,0.23,779,0.05
+Earth Moving Machinery,2012,5,0.18,265,0.05
+Earth Moving Machinery,2013,6,0.25,634,0.12
+Earth Moving Machinery,2014,3,0.16,601,0.15
+Misc.Mechanical Engg.Ind,2009,167,4.81,12976,1.25
+Misc.Mechanical Engg.Ind,2010,206,4.75,11516,0.66
+Misc.Mechanical Engg.Ind,2011,186,4.77,15881,1.03
+Misc.Mechanical Engg.Ind,2012,163,5.76,7976,1.4
+Misc.Mechanical Engg.Ind,2013,130,5.45,4087,0.77
+Misc.Mechanical Engg.Ind,2014,94,5.1,3881,0.96
+Comm/Office/Hhold equpts,2009,6,0.17,1583,0.15
+Comm/Office/Hhold equpts,2010,12,0.28,181,0.01
+Comm/Office/Hhold equpts,2011,3,0.08,132,0.01
+Comm/Office/Hhold equpts,2012,2,0.07,11,0
+Comm/Office/Hhold equpts,2013,4,0.17,123,0.02
+Comm/Office/Hhold equpts,2014,12,0.65,949,0.23
+Medical and Surgical Inst,2009,0,0,0,0
+Medical and Surgical Inst,2010,10,0.23,1212,0.07
+Medical and Surgical Inst,2011,12,0.31,195,0.01
+Medical and Surgical Inst,2012,2,0.07,74,0.01
+Medical and Surgical Inst,2013,8,0.34,710,0.13
+Medical and Surgical Inst,2014,3,0.16,131,0.03
+Industrial Instruments,2009,1,0.03,2,0
+Industrial Instruments,2010,3,0.07,24,0
+Industrial Instruments,2011,0,0,0,0
+Industrial Instruments,2012,2,0.07,50,0.01
+Industrial Instruments,2013,1,0.04,21,0
+Industrial Instruments,2014,3,0.16,95,0.02
+Scientific Instruments,2009,2,0.06,32,0
+Scientific Instruments,2010,14,0.32,432,0.02
+Scientific Instruments,2011,5,0.13,222,0.01
+Scientific Instruments,2012,5,0.18,174,0.03
+Scientific Instruments,2013,4,0.17,140,0.03
+Scientific Instruments,2014,0,0,0,0
+"Math,Survey,Drawing Inst",2009,0,0,0,0
+"Math,Survey,Drawing Inst",2010,0,0,0,0
+"Math,Survey,Drawing Inst",2011,0,0,0,0
+"Math,Survey,Drawing Inst",2012,0,0,0,0
+"Math,Survey,Drawing Inst",2013,0,0,0,0
+"Math,Survey,Drawing Inst",2014,0,0,0,0
+Fertilizers,2009,38,1.09,2183,0.21
+Fertilizers,2010,33,0.76,3068,0.18
+Fertilizers,2011,45,1.15,9046,0.59
+Fertilizers,2012,51,1.8,10443,1.84
+Fertilizers,2013,33,1.38,22494,4.24
+Fertilizers,2014,14,0.76,81754,20.18
+Chemicals(Except Fertilizers),2009,232,6.68,20833,2
+Chemicals(Except Fertilizers),2010,329,7.59,32768,1.89
+Chemicals(Except Fertilizers),2011,278,7.13,37785,2.45
+Chemicals(Except Fertilizers),2012,192,6.79,74271,13.08
+Chemicals(Except Fertilizers),2013,149,6.24,57891,10.92
+Chemicals(Except Fertilizers),2014,134,7.27,52932,13.07
+Photographic raw film/paper,2009,0,0,0,0
+Photographic raw film/paper,2010,0,0,0,0
+Photographic raw film/paper,2011,0,0,0,0
+Photographic raw film/paper,2012,0,0,0,0
+Photographic raw film/paper,2013,0,0,0,0
+Photographic raw film/paper,2014,2,0.11,16,0
+Dye Stuffs,2009,4,0.12,231,0.02
+Dye Stuffs,2010,9,0.21,535,0.03
+Dye Stuffs,2011,5,0.13,1177,0.08
+Dye Stuffs,2012,2,0.07,36,0.01
+Dye Stuffs,2013,1,0.04,102,0.02
+Dye Stuffs,2014,3,0.16,42,0.01
+Drugs and pharmaceuticals,2009,104,2.99,2776,0.27
+Drugs and pharmaceuticals,2010,134,3.09,16897,0.97
+Drugs and pharmaceuticals,2011,133,3.41,6741,0.44
+Drugs and pharmaceuticals,2012,105,3.71,8291,1.46
+Drugs and pharmaceuticals,2013,105,4.4,6900,1.3
+Drugs and pharmaceuticals,2014,86,4.67,3942,0.97
+Textiles,2009,326,9.38,9200,0.88
+Textiles,2010,427,9.85,26566,1.53
+Textiles,2011,370,9.49,26174,1.7
+Textiles,2012,327,11.56,14839,2.61
+Textiles,2013,302,12.65,81667,15.41
+Textiles,2014,260,14.11,16634,4.11
+Paper and Pulp,2009,79,2.27,6037,0.58
+Paper and Pulp,2010,77,1.78,6272,0.36
+Paper and Pulp,2011,64,1.64,5315,0.35
+Paper and Pulp,2012,67,2.37,7428,1.31
+Paper and Pulp,2013,52,2.18,3903,0.74
+Paper and Pulp,2014,48,2.6,2175,0.54
+Sugar,2009,73,2.1,4947,0.48
+Sugar,2010,96,2.21,7469,0.43
+Sugar,2011,126,3.23,16735,1.09
+Sugar,2012,62,2.19,5618,0.99
+Sugar,2013,28,1.17,2446,0.46
+Sugar,2014,38,2.06,3672,0.91
+Fermentation Industries,2009,75,2.16,4566,0.44
+Fermentation Industries,2010,69,1.59,3139,0.18
+Fermentation Industries,2011,112,2.87,6644,0.43
+Fermentation Industries,2012,48,1.7,4365,0.77
+Fermentation Industries,2013,52,2.18,4916,0.93
+Fermentation Industries,2014,28,1.52,2229,0.55
+Food Processing Industry,2009,157,4.52,6996,0.67
+Food Processing Industry,2010,204,4.7,8392,0.48
+Food Processing Industry,2011,147,3.77,10638,0.69
+Food Processing Industry,2012,143,5.06,7022,1.24
+Food Processing Industry,2013,161,6.74,10049,1.9
+Food Processing Industry,2014,169,9.17,10223,2.52
+Vegetable Oil & Vanaspathi,2009,114,3.28,3694,0.36
+Vegetable Oil & Vanaspathi,2010,93,2.14,3802,0.22
+Vegetable Oil & Vanaspathi,2011,78,2,3475,0.23
+Vegetable Oil & Vanaspathi,2012,36,1.27,1064,0.19
+Vegetable Oil & Vanaspathi,2013,27,1.13,3381,0.64
+Vegetable Oil & Vanaspathi,2014,23,1.25,534,0.13
+"Soaps, Cosmetics & Toiletries",2009,28,0.81,1626,0.16
+"Soaps, Cosmetics & Toiletries",2010,27,0.62,2886,0.17
+"Soaps, Cosmetics & Toiletries",2011,21,0.54,2380,0.15
+"Soaps, Cosmetics & Toiletries",2012,19,0.67,2106,0.37
+"Soaps, Cosmetics & Toiletries",2013,16,0.67,1593,0.3
+"Soaps, Cosmetics & Toiletries",2014,10,0.54,1895,0.47
+Rubber Goods,2009,28,0.81,2118,0.2
+Rubber Goods,2010,37,0.85,5819,0.34
+Rubber Goods,2011,41,1.05,8292,0.54
+Rubber Goods,2012,28,0.99,1987,0.35
+Rubber Goods,2013,33,1.38,7191,1.36
+Rubber Goods,2014,14,0.76,4790,1.18
+Leather,2009,7,0.2,106,0.01
+Leather,2010,12,0.28,161,0.01
+Leather,2011,10,0.26,474,0.03
+Leather,2012,4,0.14,26,0
+Leather,2013,8,0.34,550,0.1
+Leather,2014,6,0.33,136,0.03
+Glue and Gelatin,2009,2,0.06,27,0
+Glue and Gelatin,2010,4,0.09,19,0
+Glue and Gelatin,2011,1,0.03,16,0
+Glue and Gelatin,2012,0,0,0,0
+Glue and Gelatin,2013,1,0.04,55,0.01
+Glue and Gelatin,2014,4,0.22,919,0.23
+Glass,2009,27,0.78,558,0.05
+Glass,2010,21,0.48,1670,0.1
+Glass,2011,26,0.67,5610,0.36
+Glass,2012,11,0.39,211,0.04
+Glass,2013,10,0.42,579,0.11
+Glass,2014,5,0.27,206,0.05
+Ceramics,2009,17,0.49,818,0.08
+Ceramics,2010,65,1.5,1238,0.07
+Ceramics,2011,53,1.36,2115,0.14
+Ceramics,2012,21,0.74,1628,0.29
+Ceramics,2013,14,0.59,328,0.06
+Ceramics,2014,35,1.9,1517,0.37
+Cement and Gypsum,2009,143,4.12,52366,5.03
+Cement and Gypsum,2010,158,3.64,98410,5.67
+Cement and Gypsum,2011,135,3.46,73681,4.79
+Cement and Gypsum,2012,94,3.32,38268,6.74
+Cement and Gypsum,2013,65,2.72,32242,6.08
+Cement and Gypsum,2014,44,2.39,19754,4.88
+Timber Products,2009,2,0.06,96,0.01
+Timber Products,2010,4,0.09,122,0.01
+Timber Products,2011,3,0.08,488,0.03
+Timber Products,2012,4,0.14,469,0.08
+Timber Products,2013,2,0.08,1182,0.22
+Timber Products,2014,8,0.43,760,0.19
+Defence Industries,2009,6,0.17,396,0.04
+Defence Industries,2010,31,0.71,4520,0.26
+Defence Industries,2011,26,0.67,1970,0.13
+Defence Industries,2012,1,0.04,37,0.01
+Defence Industries,2013,19,0.8,239,0.05
+Defence Industries,2014,33,1.79,691,0.17
+Misc.Industry,2009,36,1.04,424,0.04
+Misc.Industry,2010,40,0.92,573,0.03
+Misc.Industry,2011,44,1.13,3503,0.23
+Misc.Industry,2012,32,1.13,487,0.09
+Misc.Industry,2013,25,1.05,324,0.06
+Misc.Industry,2014,44,2.39,1321,0.33
+Others,2009,442,12.72,95534,9.18
+Others,2010,599,13.81,79795,4.6
+Others,2011,651,16.69,215274,13.98
+Others,2012,591,20.9,50355,8.87
+Others,2013,522,21.87,56016,10.57
+Others,2014,328,17.8,117294,28.96

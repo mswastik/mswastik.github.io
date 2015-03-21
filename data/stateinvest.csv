@@ -1,0 +1,223 @@
+State,Year,Nos,Nos %age,Inv,Inv %age
+Andaman & Nicobar,2009,1,0.03,13,0
+Andaman & Nicobar,2010,0,0,0,0
+Andaman & Nicobar,2011,0,0,0,0
+Andaman & Nicobar,2012,1,0.04,31,0.01
+Andaman & Nicobar,2013,0,0,0,0
+Andaman & Nicobar,2014,0,0,0,0
+Andhra Pradesh,2009,199,5.73,93287,8.97
+Andhra Pradesh,2010,343,7.91,162574,9.36
+Andhra Pradesh,2011,260,6.67,91859,5.97
+Andhra Pradesh,2012,175,6.19,59392,10.46
+Andhra Pradesh,2013,130,5.45,17638,3.33
+Andhra Pradesh,2014,122,6.62,21526,5.31
+Arunachal Pradesh,2009,4,0.12,1303,0.13
+Arunachal Pradesh,2010,5,0.12,848,0.05
+Arunachal Pradesh,2011,7,0.18,1027,0.07
+Arunachal Pradesh,2012,3,0.11,41,0.01
+Arunachal Pradesh,2013,1,0.04,353,0.07
+Arunachal Pradesh,2014,2,0.11,41,0.01
+Assam,2009,45,1.29,2860,0.27
+Assam,2010,37,0.85,8423,0.49
+Assam,2011,32,0.82,1231,0.08
+Assam,2012,39,1.38,2845,0.5
+Assam,2013,37,1.55,1587,0.3
+Assam,2014,33,1.79,1882,0.46
+Bihar,2009,32,0.92,13710,1.32
+Bihar,2010,46,1.06,65190,3.75
+Bihar,2011,31,0.79,44026,2.86
+Bihar,2012,20,0.71,2374,0.42
+Bihar,2013,33,1.38,2315,0.44
+Bihar,2014,18,0.98,1449,0.36
+Chandigarh,2009,0,0,0,0
+Chandigarh,2010,1,0.02,24,0
+Chandigarh,2011,1,0.03,10,0
+Chandigarh,2012,1,0.04,22,0
+Chandigarh,2013,0,0,0,0
+Chandigarh,2014,0,0,0,0
+Chhattisgarh,2009,293,8.43,130630,12.56
+Chhattisgarh,2010,256,5.9,285583,16.45
+Chhattisgarh,2011,114,2.92,102266,6.64
+Chhattisgarh,2012,78,2.76,79575,14.01
+Chhattisgarh,2013,58,2.43,34143,6.44
+Chhattisgarh,2014,37,2.01,162584,40.14
+Dadra & Nagar Haveli,2009,50,1.44,1709,0.16
+Dadra & Nagar Haveli,2010,63,1.45,11148,0.64
+Dadra & Nagar Haveli,2011,55,1.41,3885,0.25
+Dadra & Nagar Haveli,2012,31,1.1,4014,0.71
+Dadra & Nagar Haveli,2013,30,1.26,1605,0.3
+Dadra & Nagar Haveli,2014,24,1.3,683,0.17
+Daman & Diu,2009,39,1.12,858,0.08
+Daman & Diu,2010,35,0.81,598,0.03
+Daman & Diu,2011,21,0.54,665,0.04
+Daman & Diu,2012,5,0.18,26,0
+Daman & Diu,2013,14,0.59,332,0.06
+Daman & Diu,2014,5,0.27,68,0.02
+Delhi,2009,21,0.6,289,0.03
+Delhi,2010,19,0.44,130,0.01
+Delhi,2011,12,0.31,68,0
+Delhi,2012,6,0.21,83,0.01
+Delhi,2013,5,0.21,83,0.02
+Delhi,2014,16,0.87,588,0.15
+Goa,2009,46,1.32,1382,0.13
+Goa,2010,39,0.9,2441,0.14
+Goa,2011,23,0.59,563,0.04
+Goa,2012,21,0.74,494,0.09
+Goa,2013,25,1.05,673,0.13
+Goa,2014,21,1.14,16448,4.06
+Gujarat,2009,376,10.82,142239,13.67
+Gujarat,2010,497,11.46,149718,8.62
+Gujarat,2011,544,13.95,142680,9.27
+Gujarat,2012,472,16.69,126201,22.22
+Gujarat,2013,354,14.83,94259,17.78
+Gujarat,2014,355,19.26,39620,9.78
+Haryana,2009,85,2.45,2423,0.23
+Haryana,2010,141,3.25,10436,0.6
+Haryana,2011,118,3.03,8700,0.57
+Haryana,2012,115,4.07,5894,1.04
+Haryana,2013,106,4.44,4172,0.79
+Haryana,2014,70,3.8,2681,0.66
+Himachal Pradesh,2009,41,1.18,6065,0.58
+Himachal Pradesh,2010,54,1.25,3580,0.21
+Himachal Pradesh,2011,36,0.92,1533,0.1
+Himachal Pradesh,2012,48,1.7,4798,0.84
+Himachal Pradesh,2013,13,0.54,449,0.08
+Himachal Pradesh,2014,27,1.47,979,0.24
+Jammu & Kashmir,2009,23,0.66,1223,0.12
+Jammu & Kashmir,2010,23,0.53,1234,0.07
+Jammu & Kashmir,2011,21,0.54,1523,0.1
+Jammu & Kashmir,2012,26,0.92,1529,0.27
+Jammu & Kashmir,2013,11,0.46,450,0.08
+Jammu & Kashmir,2014,12,0.65,297,0.07
+Jharkhand,2009,65,1.87,79502,7.64
+Jharkhand,2010,53,1.22,41549,2.39
+Jharkhand,2011,25,0.64,3198,0.21
+Jharkhand,2012,32,1.13,10315,1.82
+Jharkhand,2013,17,0.71,7739,1.46
+Jharkhand,2014,7,0.38,368,0.09
+Karnataka,2009,179,5.15,92054,8.85
+Karnataka,2010,269,6.2,140289,8.08
+Karnataka,2011,217,5.56,94147,6.11
+Karnataka,2012,169,5.98,47967,8.45
+Karnataka,2013,110,4.61,10050,1.9
+Karnataka,2014,89,4.83,21866,5.4
+Kerala,2009,8,0.23,171,0.02
+Kerala,2010,8,0.18,99,0.01
+Kerala,2011,12,0.31,3984,0.26
+Kerala,2012,6,0.21,124,0.02
+Kerala,2013,4,0.17,14264,2.69
+Kerala,2014,13,0.71,3276,0.81
+Lakshadweep,2009,0,0,0,0
+Lakshadweep,2010,0,0,0,0
+Lakshadweep,2011,0,0,0,0
+Lakshadweep,2012,0,0,0,0
+Lakshadweep,2013,0,0,0,0
+Lakshadweep,2014,0,0,0,0
+Madhya Pradesh,2009,182,5.24,66669,6.41
+Madhya Pradesh,2010,226,5.21,204286,11.77
+Madhya Pradesh,2011,191,4.9,104527,6.79
+Madhya Pradesh,2012,126,4.46,10563,1.86
+Madhya Pradesh,2013,114,4.78,88715,16.74
+Madhya Pradesh,2014,99,5.37,12283,3.03
+Maharashtra,2009,594,17.09,68073,6.54
+Maharashtra,2010,759,17.5,176259,10.15
+Maharashtra,2011,975,25,133730,8.69
+Maharashtra,2012,533,18.85,70181,12.36
+Maharashtra,2013,452,18.94,53402,10.07
+Maharashtra,2014,287,15.57,40701,10.05
+Manipur,2009,0,0,0,0
+Manipur,2010,1,0.02,0,0
+Manipur,2011,1,0.03,13,0
+Manipur,2012,1,0.04,68,0.01
+Manipur,2013,2,0.08,64,0.01
+Manipur,2014,3,0.16,78,0.02
+Meghalaya,2009,10,0.29,970,0.09
+Meghalaya,2010,14,0.32,1733,0.1
+Meghalaya,2011,6,0.15,2574,0.17
+Meghalaya,2012,3,0.11,1807,0.32
+Meghalaya,2013,5,0.21,159,0.03
+Meghalaya,2014,1,0.05,58,0.01
+Mizoram,2009,0,0,0,0
+Mizoram,2010,0,0,0,0
+Mizoram,2011,1,0.03,27,0
+Mizoram,2012,0,0,0,0
+Mizoram,2013,1,0.04,15,0
+Mizoram,2014,1,0.05,33,0.01
+Nagaland,2009,0,0,0,0
+Nagaland,2010,0,0,0,0
+Nagaland,2011,1,0.03,38,0
+Nagaland,2012,0,0,0,0
+Nagaland,2013,0,0,0,0
+Nagaland,2014,1,0.05,26,0.01
+Orissa,2009,99,2.85,167932,16.14
+Orissa,2010,179,4.13,315772,18.19
+Orissa,2011,119,3.05,321032,20.85
+Orissa,2012,58,2.05,63605,11.2
+Orissa,2013,40,1.68,98723,18.62
+Orissa,2014,27,1.47,28219,6.97
+Pondicherry,2009,14,0.4,712,0.07
+Pondicherry,2010,14,0.32,282,0.02
+Pondicherry,2011,8,0.21,44,0
+Pondicherry,2012,8,0.28,146,0.03
+Pondicherry,2013,6,0.25,201,0.04
+Pondicherry,2014,4,0.22,146,0.04
+Punjab,2009,68,1.96,9731,0.94
+Punjab,2010,103,2.38,6779,0.39
+Punjab,2011,113,2.9,13571,0.88
+Punjab,2012,80,2.83,4477,0.79
+Punjab,2013,49,2.05,2491,0.47
+Punjab,2014,61,3.31,3624,0.89
+Rajasthan,2009,88,2.53,13461,1.29
+Rajasthan,2010,125,2.88,29700,1.71
+Rajasthan,2011,166,4.26,23488,1.53
+Rajasthan,2012,163,5.76,18218,3.21
+Rajasthan,2013,151,6.33,36952,6.97
+Rajasthan,2014,78,4.23,7335,1.81
+Sikkim,2009,8,0.23,150,0.01
+Sikkim,2010,13,0.3,795,0.05
+Sikkim,2011,15,0.38,727,0.05
+Sikkim,2012,9,0.32,195,0.03
+Sikkim,2013,12,0.5,528,0.1
+Sikkim,2014,9,0.49,208,0.05
+Tamil Nadu,2009,236,6.79,67224,6.46
+Tamil Nadu,2010,237,5.47,38595,2.22
+Tamil Nadu,2011,258,6.62,73348,4.76
+Tamil Nadu,2012,197,6.97,21253,3.74
+Tamil Nadu,2013,168,7.04,27380,5.17
+Tamil Nadu,2014,96,5.21,14598,3.6
+Telengana,2009,120,3.45,11711,1.13
+Telengana,2010,176,4.06,13671,0.79
+Telengana,2011,132,3.38,12107,0.79
+Telengana,2012,91,3.22,16508,2.91
+Telengana,2013,134,5.61,7882,1.49
+Telengana,2014,117,6.35,6225,1.54
+Tripura,2009,2,0.06,83,0.01
+Tripura,2010,1,0.02,18,0
+Tripura,2011,3,0.08,71,0
+Tripura,2012,132,4.67,10984,1.93
+Tripura,2013,134,5.61,60,0.01
+Tripura,2014,2,0.11,16,0
+Uttar Pradesh,2009,176,5.06,10142,0.97
+Uttar Pradesh,2010,172,3.97,13793,0.79
+Uttar Pradesh,2011,165,4.23,43674,2.84
+Uttar Pradesh,2012,3,0.11,129,0.02
+Uttar Pradesh,2013,3,0.13,13336,2.52
+Uttar Pradesh,2014,108,5.86,12371,3.05
+Uttaranchal,2009,165,4.75,9293,0.89
+Uttaranchal,2010,217,5,7997,0.46
+Uttaranchal,2011,80,2.05,6877,0.45
+Uttaranchal,2012,134,4.74,13270,2.34
+Uttaranchal,2013,158,6.62,2012,0.38
+Uttaranchal,2014,38,2.06,1976,0.49
+West Bengal,2009,206,5.93,44390,4.27
+West Bengal,2010,209,4.82,42765,2.46
+West Bengal,2011,136,3.49,302515,19.65
+West Bengal,2012,42,1.49,1378,0.24
+West Bengal,2013,57,2.39,8054,1.52
+West Bengal,2014,60,3.26,2774,0.68
+Location in more than One State,2009,0,0,0,0
+Location in more than One State,2010,1,0.02,13,0
+Location in more than One State,2011,1,0.03,0,0
+Location in more than One State,2012,0,0,0,0
+Location in more than One State,2013,0,0,0,0
+Location in more than One State,2014,0,0,0,0

@@ -11,52 +11,50 @@
 <script src="js/colorbrewer.js"></script>
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/style (2).css" rel="stylesheet">
 <link href="css/dc.css" rel="stylesheet">
 </head>
-
 <div class="container-fluid">
 	<div class="row-fluid">
-		<div class="col-md-12">
+	<div class="col-md-12">
 			<div class="col-md-5" id="bar2"></div>
 			<div class="col-md-7">
 				<div class="row-fluid">
 					<div class="col-md-7" id="bar"></div>
 				<div class="row-fluid">
-					<div class="col-md-7" id="ring"></div>	
+					<div class="col-md-7" id="bar3"></div>	
 				</div></div></div></div>
 		</div>
 	</div>
-
 <script>
 	var parseDate = d3.time.format("%Y").parse;
-	var data=d3.csv("data/gsdpm.csv", function(error, data){
+	var data=d3.csv("data/sectorinvest.csv", function(error, data){
 		data.forEach(function(d) {
-		d.year=parseDate(d.year);
-		d.gdp=d3.round(d.gdp);
+		d.year=parseDate(d.Year);
+		d.nos=d3.round(d.Nos);
+		d.inv=d3.round(d.Inv);
 	});
 
 	var ndx=crossfilter(data);
 	var all = ndx.groupAll();
 	var timeDim = ndx.dimension(function(d){return d.year;});
-	var gdp = timeDim.group().reduceSum(dc.pluck('gdp')); 
-	
-	//Barchart of yearly GDP
-	var gdpbarchart = dc.barChart("#bar");
+	var inv = timeDim.group().reduceSum(dc.pluck('Inv'));
+
+	//Barchart of Proposed Investment
+	var invbarchart = dc.barChart("#bar");
 	var minDate = timeDim.bottom(1)[0].year;
 	var maxDate = timeDim.top(1)[0].year;
-	gdpbarchart.xUnits(function(){return 9;}); //manually setting bar width
-	gdpbarchart
-	.width(700).height(350)
+	invbarchart.xUnits(function(){return 7;}); //manually setting bar width
+	invbarchart
+	.width(550).height(350)
 	.dimension(timeDim)
-	.group(gdp)
+	.group(inv)
 	.elasticY(true)
 	.x(d3.time.scale().domain([minDate,maxDate]))
 	.margins({top: 10, left: 80, right: 20, bottom: 40});
 
-	//Barchart of State split
-	var stateDim = ndx.dimension(function(d){return d.State;});
-	var stat_tot = stateDim.group().reduceSum(function(d) { return d.gdp; });
+	//Rowchart of Statewise split
+	var stateDim = ndx.dimension(function(d){return d.Indname;});
+	var stat_tot = stateDim.group().reduceSum(function(d) { return d.Inv; });
 	var statebar = dc.rowChart("#bar2");
 	statebar
 	.margins({ top: 10, left: 10, right: 10, bottom: 120})
@@ -68,28 +66,23 @@
 	.ordering(function(d){return -d.value;})
 	.turnOnControls()
 	.colors(colorbrewer.BuPu[9])
-	.colorDomain([10000,700000])
+	.colorDomain([10000,200000])
 	.legend(dc.legend().x(960).y(120).gap(15))
 	.colorAccessor(function (d) {
             return d.value;
-        });
+        });	
 
-
-	//Piechart of Sector contribution to GDP
-	var sectorDim = ndx.dimension(function(d){return d.sector;});
-	var sect_tot = sectorDim.group().reduceSum(dc.pluck('gdp'));
-	var sectorpie = dc.pieChart("#ring");
-	sectorpie
-	.width(250).height(350)
-	.dimension(sectorDim)
-	.group(sect_tot)
-	.innerRadius(30)
-	.legend(dc.legend().x(260).y(50).gap(15))
-	.label(function(d) {
-		 return d3.round((d.value / d3.sum(sect_tot.all(), function(d){ return d.value;}))*100)+"%";})
-	.renderLabel(true)
-	.turnOnControls();
-
+	//Barchart of yearly Nos
+	var gdpbarchart = dc.barChart("#bar3");
+	var nos = timeDim.group().reduceSum(dc.pluck('Nos'));
+	gdpbarchart.xUnits(function(){return 7;}); //manually setting bar width
+	gdpbarchart
+	.width(550).height(350)
+	.dimension(timeDim)
+	.group(nos)
+	.elasticY(true)
+	.x(d3.time.scale().domain([minDate,maxDate]))
+	.margins({top: 10, left: 80, right: 20, bottom: 40});
 
 	dc.renderAll();
 });
