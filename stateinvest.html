@@ -12,6 +12,7 @@
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/dc.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/style (2).css">
 </head>
 <div class="container-fluid">
 	<div class="row-fluid">
@@ -65,8 +66,7 @@
 	.elasticX(true)
 	.ordering(function(d){return -d.value;})
 	.turnOnControls()
-	.colors(colorbrewer.BuPu[9])
-	.colorDomain([10000,200000])
+	.colors('purple')
 	.legend(dc.legend().x(960).y(120).gap(15))
 	.colorAccessor(function (d) {
             return d.value;

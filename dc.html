@@ -11,8 +11,8 @@
 <script src="js/colorbrewer.js"></script>
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/style (2).css" rel="stylesheet">
 <link href="css/dc.css" rel="stylesheet">
+<link href="css/style (2).css" rel="stylesheet">
 </head>
 
 <div class="container-fluid">
@@ -67,8 +67,7 @@
 	.elasticX(true)
 	.ordering(function(d){return -d.value;})
 	.turnOnControls()
-	.colors(colorbrewer.BuPu[9])
-	.colorDomain([10000,700000])
+	.colors('purple')
 	.legend(dc.legend().x(960).y(120).gap(15))
 	.colorAccessor(function (d) {
             return d.value;
