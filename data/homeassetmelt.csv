@@ -1,0 +1,456 @@
+State,TotalHousehold,Asset,percent,household
+A&N Islands,93376,RadioTransister,26.1,24371.136
+Andhra Pradesh,21024534,RadioTransister,9.3,1955281.662
+Arunachal Pradesh,261614,RadioTransister,22,57555.08
+Assam,6367295,RadioTransister,22.1,1407172.195
+Bihar,18940629,RadioTransister,25.8,4886682.282
+Chandigarh,235061,RadioTransister,28.1,66052.141
+Chhattisgarh,5622850,RadioTransister,11,618513.5
+Dadra & Nagar Haveli,73063,RadioTransister,15.5,11324.765
+Daman & Diu,60381,RadioTransister,21,12680.01
+Goa,322813,RadioTransister,31.1,100394.843
+Gujarat,12181718,RadioTransister,19.4,2363253.292
+Haryana,4717954,RadioTransister,17.4,820923.996
+Himachal Pradesh,1476581,RadioTransister,25.7,379481.317
+Jammu Kashmir,2015088,RadioTransister,47.2,951121.536
+Jharkhand,6181607,RadioTransister,17.5,1081781.225
+Karnataka,13179911,RadioTransister,22.3,2939120.153
+Kerala,7716370,RadioTransister,29.7,2291761.89
+Lakshadweep,10703,RadioTransister,20.2,2162.006
+Madhya Pradesh,14967597,RadioTransister,14.5,2170301.565
+Maharashtra,23830580,RadioTransister,19.5,4646963.1
+Manipur,507152,RadioTransister,54.4,275890.688
+Meghalaya,538299,RadioTransister,25.2,135651.348
+Mizoram,221077,RadioTransister,33.5,74060.795
+Nagaland,399965,RadioTransister,25,99991.25
+NCT of Delhi,3340538,RadioTransister,33.4,1115739.692
+Odisha,9661085,RadioTransister,11.4,1101363.69
+Puducherry,301276,RadioTransister,26.5,79838.14
+Punjab,5409699,RadioTransister,16.5,892600.335
+Rajasthan,12581303,RadioTransister,16.2,2038171.086
+Sikkim,128131,RadioTransister,23,29470.13
+Tamil Nadu,18493003,RadioTransister,22.7,4197911.681
+Tripura,842781,RadioTransister,12.8,107875.968
+Uttar Pradesh,32924266,RadioTransister,24.7,8132293.702
+Uttarakhand,1997068,RadioTransister,14.6,291571.928
+West Bengal,20067299,RadioTransister,18.3,3672315.717
+A&N Islands,93376,Television,68.5,63962.56
+Andhra Pradesh,21024534,Television,58.8,12362425.99
+Arunachal Pradesh,261614,Television,41.1,107523.354
+Assam,6367295,Television,27.5,1751006.125
+Bihar,18940629,Television,14.5,2746391.205
+Chandigarh,235061,Television,82.5,193925.325
+Chhattisgarh,5622850,Television,31.3,1759952.05
+Dadra & Nagar Haveli,73063,Television,47.2,34485.736
+Daman & Diu,60381,Television,61,36832.41
+Goa,322813,Television,81.1,261801.343
+Gujarat,12181718,Television,53.8,6553764.284
+Haryana,4717954,Television,67.9,3203490.766
+Himachal Pradesh,1476581,Television,74.4,1098576.264
+Jammu Kashmir,2015088,Television,51,1027694.88
+Jharkhand,6181607,Television,26.8,1656670.676
+Karnataka,13179911,Television,60,7907946.6
+Kerala,7716370,Television,76.8,5926172.16
+Lakshadweep,10703,Television,64.1,6860.623
+Madhya Pradesh,14967597,Television,32.1,4804598.637
+Maharashtra,23830580,Television,56.8,13535769.44
+Manipur,507152,Television,47.4,240390.048
+Meghalaya,538299,Television,33.7,181406.763
+Mizoram,221077,Television,55.1,121813.427
+Nagaland,399965,Television,37.9,151586.735
+NCT of Delhi,3340538,Television,88,2939673.44
+Odisha,9661085,Television,26.7,2579509.695
+Puducherry,301276,Television,81.8,246443.768
+Punjab,5409699,Television,82.6,4468411.374
+Rajasthan,12581303,Television,37.6,4730569.928
+Sikkim,128131,Television,54.7,70087.657
+Tamil Nadu,18493003,Television,87,16088912.61
+Tripura,842781,Television,44.9,378408.669
+Uttar Pradesh,32924266,Television,33.2,10930856.31
+Uttarakhand,1997068,Television,62,1238182.16
+West Bengal,20067299,Television,35.3,7083756.547
+A&N Islands,93376,TotalComputer,8.8,8217.088
+Andhra Pradesh,21024534,TotalComputer,8.4,1766060.856
+Arunachal Pradesh,261614,TotalComputer,8.2,21452.348
+Assam,6367295,TotalComputer,9.4,598525.73
+Bihar,18940629,TotalComputer,7.1,1344784.659
+Chandigarh,235061,TotalComputer,33.2,78040.252
+Chhattisgarh,5622850,TotalComputer,4.6,258651.1
+Dadra & Nagar Haveli,73063,TotalComputer,8.3,6064.229
+Daman & Diu,60381,TotalComputer,9.3,5615.433
+Goa,322813,TotalComputer,31.1,100394.843
+Gujarat,12181718,TotalComputer,8.8,1071991.184
+Haryana,4717954,TotalComputer,13.3,627487.882
+Himachal Pradesh,1476581,TotalComputer,8.4,124032.804
+Jammu Kashmir,2015088,TotalComputer,8.4,169267.392
+Jharkhand,6181607,TotalComputer,6.9,426530.883
+Karnataka,13179911,TotalComputer,12.8,1687028.608
+Kerala,7716370,TotalComputer,15.8,1219186.46
+Lakshadweep,10703,TotalComputer,14.1,1509.123
+Madhya Pradesh,14967597,TotalComputer,5.9,883088.223
+Maharashtra,23830580,TotalComputer,13.3,3169467.14
+Manipur,507152,TotalComputer,9.1,46150.832
+Meghalaya,538299,TotalComputer,7.6,40910.724
+Mizoram,221077,TotalComputer,15.2,33603.704
+Nagaland,399965,TotalComputer,8.9,35596.885
+NCT of Delhi,3340538,TotalComputer,29.1,972096.558
+Odisha,9661085,TotalComputer,5.1,492715.335
+Puducherry,301276,TotalComputer,13.6,40973.536
+Punjab,5409699,TotalComputer,12.8,692441.472
+Rajasthan,12581303,TotalComputer,6.9,868109.907
+Sikkim,128131,TotalComputer,11.5,14735.065
+Tamil Nadu,18493003,TotalComputer,10.6,1960258.318
+Tripura,842781,TotalComputer,7.3,61523.013
+Uttar Pradesh,32924266,TotalComputer,8.1,2666865.546
+Uttarakhand,1997068,TotalComputer,11,219677.48
+West Bengal,20067299,TotalComputer,8.3,1665585.817
+A&N Islands,93376,ComputerWithInternet,3.5,3268.16
+Andhra Pradesh,21024534,ComputerWithInternet,2.6,546637.884
+Arunachal Pradesh,261614,ComputerWithInternet,2,5232.28
+Assam,6367295,ComputerWithInternet,1.6,101876.72
+Bihar,18940629,ComputerWithInternet,0.9,170465.661
+Chandigarh,235061,ComputerWithInternet,18.8,44191.468
+Chhattisgarh,5622850,ComputerWithInternet,1.2,67474.2
+Dadra & Nagar Haveli,73063,ComputerWithInternet,2.8,2045.764
+Daman & Diu,60381,ComputerWithInternet,2.8,1690.668
+Goa,322813,ComputerWithInternet,12.7,40997.251
+Gujarat,12181718,ComputerWithInternet,3.1,377633.258
+Haryana,4717954,ComputerWithInternet,5.3,250051.562
+Himachal Pradesh,1476581,ComputerWithInternet,2.8,41344.268
+Jammu Kashmir,2015088,ComputerWithInternet,2.9,58437.552
+Jharkhand,6181607,ComputerWithInternet,1.5,92724.105
+Karnataka,13179911,ComputerWithInternet,4.8,632635.728
+Kerala,7716370,ComputerWithInternet,6.3,486131.31
+Lakshadweep,10703,ComputerWithInternet,3.1,331.793
+Madhya Pradesh,14967597,ComputerWithInternet,1.4,209546.358
+Maharashtra,23830580,ComputerWithInternet,5.8,1382173.64
+Manipur,507152,ComputerWithInternet,2.2,11157.344
+Meghalaya,538299,ComputerWithInternet,1.5,8074.485
+Mizoram,221077,ComputerWithInternet,2.5,5526.925
+Nagaland,399965,ComputerWithInternet,1.7,6799.405
+NCT of Delhi,3340538,ComputerWithInternet,17.6,587934.688
+Odisha,9661085,ComputerWithInternet,1.4,135255.19
+Puducherry,301276,ComputerWithInternet,6,18076.56
+Punjab,5409699,ComputerWithInternet,5.4,292123.746
+Rajasthan,12581303,ComputerWithInternet,1.8,226463.454
+Sikkim,128131,ComputerWithInternet,3.3,4228.323
+Tamil Nadu,18493003,ComputerWithInternet,4.2,776706.126
+Tripura,842781,ComputerWithInternet,1,8427.81
+Uttar Pradesh,32924266,ComputerWithInternet,1.9,625561.054
+Uttarakhand,1997068,ComputerWithInternet,3.2,63906.176
+West Bengal,20067299,ComputerWithInternet,2.2,441480.578
+A&N Islands,93376,ComputerWithoutInternet,5.3,4948.928
+Andhra Pradesh,21024534,ComputerWithoutInternet,5.8,1219422.972
+Arunachal Pradesh,261614,ComputerWithoutInternet,6.2,16220.068
+Assam,6367295,ComputerWithoutInternet,7.8,496649.01
+Bihar,18940629,ComputerWithoutInternet,6.2,1174318.998
+Chandigarh,235061,ComputerWithoutInternet,14.4,33848.784
+Chhattisgarh,5622850,ComputerWithoutInternet,3.4,191176.9
+Dadra & Nagar Haveli,73063,ComputerWithoutInternet,5.5,4018.465
+Daman & Diu,60381,ComputerWithoutInternet,6.5,3924.765
+Goa,322813,ComputerWithoutInternet,18.4,59397.592
+Gujarat,12181718,ComputerWithoutInternet,5.7,694357.926
+Haryana,4717954,ComputerWithoutInternet,8,377436.32
+Himachal Pradesh,1476581,ComputerWithoutInternet,5.6,82688.536
+Jammu Kashmir,2015088,ComputerWithoutInternet,5.5,110829.84
+Jharkhand,6181607,ComputerWithoutInternet,5.4,333806.778
+Karnataka,13179911,ComputerWithoutInternet,8,1054392.88
+Kerala,7716370,ComputerWithoutInternet,9.5,733055.15
+Lakshadweep,10703,ComputerWithoutInternet,11,1177.33
+Madhya Pradesh,14967597,ComputerWithoutInternet,4.5,673541.865
+Maharashtra,23830580,ComputerWithoutInternet,7.5,1787293.5
+Manipur,507152,ComputerWithoutInternet,6.9,34993.488
+Meghalaya,538299,ComputerWithoutInternet,6.1,32836.239
+Mizoram,221077,ComputerWithoutInternet,12.7,28076.779
+Nagaland,399965,ComputerWithoutInternet,7.2,28797.48
+NCT of Delhi,3340538,ComputerWithoutInternet,11.5,384161.87
+Odisha,9661085,ComputerWithoutInternet,3.7,357460.145
+Puducherry,301276,ComputerWithoutInternet,7.6,22896.976
+Punjab,5409699,ComputerWithoutInternet,7.4,400317.726
+Rajasthan,12581303,ComputerWithoutInternet,5.1,641646.453
+Sikkim,128131,ComputerWithoutInternet,8.2,10506.742
+Tamil Nadu,18493003,ComputerWithoutInternet,6.4,1183552.192
+Tripura,842781,ComputerWithoutInternet,6.3,53095.203
+Uttar Pradesh,32924266,ComputerWithoutInternet,6.2,2041304.492
+Uttarakhand,1997068,ComputerWithoutInternet,7.8,155771.304
+West Bengal,20067299,ComputerWithoutInternet,6.1,1224105.239
+A&N Islands,93376,TotalTelephone,83.6,78062.336
+Andhra Pradesh,21024534,TotalTelephone,63.1,13266480.95
+Arunachal Pradesh,261614,TotalTelephone,48.3,126359.562
+Assam,6367295,TotalTelephone,47.9,3049934.305
+Bihar,18940629,TotalTelephone,55.5,10512049.1
+Chandigarh,235061,TotalTelephone,89.3,209909.473
+Chhattisgarh,5622850,TotalTelephone,30.7,1726214.95
+Dadra & Nagar Haveli,73063,TotalTelephone,62.9,45956.627
+Daman & Diu,60381,TotalTelephone,86.4,52169.184
+Goa,322813,TotalTelephone,89.1,287626.383
+Gujarat,12181718,TotalTelephone,69,8405385.42
+Haryana,4717954,TotalTelephone,79.3,3741337.522
+Himachal Pradesh,1476581,TotalTelephone,82.3,1215226.163
+Jammu Kashmir,2015088,TotalTelephone,69.5,1400486.16
+Jharkhand,6181607,TotalTelephone,48,2967171.36
+Karnataka,13179911,TotalTelephone,71.6,9436816.276
+Kerala,7716370,TotalTelephone,89.7,6921583.89
+Lakshadweep,10703,TotalTelephone,93.7,10028.711
+Madhya Pradesh,14967597,TotalTelephone,46,6885094.62
+Maharashtra,23830580,TotalTelephone,69.1,16466930.78
+Manipur,507152,TotalTelephone,57.5,291612.4
+Meghalaya,538299,TotalTelephone,43,231468.57
+Mizoram,221077,TotalTelephone,72.7,160722.979
+Nagaland,399965,TotalTelephone,53.1,212381.415
+NCT of Delhi,3340538,TotalTelephone,90.8,3033208.504
+Odisha,9661085,TotalTelephone,39.8,3845111.83
+Puducherry,301276,TotalTelephone,80.9,243732.284
+Punjab,5409699,TotalTelephone,82.1,4441362.879
+Rajasthan,12581303,TotalTelephone,70.6,8882399.918
+Sikkim,128131,TotalTelephone,73,93535.63
+Tamil Nadu,18493003,TotalTelephone,74.9,13851259.25
+Tripura,842781,TotalTelephone,48.1,405377.661
+Uttar Pradesh,32924266,TotalTelephone,66.9,22026333.95
+Uttarakhand,1997068,TotalTelephone,74.6,1489812.728
+West Bengal,20067299,TotalTelephone,49.2,9873111.108
+A&N Islands,93376,Landline,3,2801.28
+Andhra Pradesh,21024534,Landline,4.1,862005.894
+Arunachal Pradesh,261614,Landline,2.9,7586.806
+Assam,6367295,Landline,2.2,140080.49
+Bihar,18940629,Landline,2.3,435634.467
+Chandigarh,235061,Landline,6,14103.66
+Chhattisgarh,5622850,Landline,1.5,84342.75
+Dadra & Nagar Haveli,73063,Landline,2.3,1680.449
+Daman & Diu,60381,Landline,4.1,2475.621
+Goa,322813,Landline,12.1,39060.373
+Gujarat,12181718,Landline,3.3,401996.694
+Haryana,4717954,Landline,4.5,212307.93
+Himachal Pradesh,1476581,Landline,7.4,109266.994
+Jammu Kashmir,2015088,Landline,3.6,72543.168
+Jharkhand,6181607,Landline,2,123632.14
+Karnataka,13179911,Landline,7,922593.77
+Kerala,7716370,Landline,11.6,895098.92
+Lakshadweep,10703,Landline,8.1,866.943
+Madhya Pradesh,14967597,Landline,2.4,359222.328
+Maharashtra,23830580,Landline,6.3,1501326.54
+Manipur,507152,Landline,3,15214.56
+Meghalaya,538299,Landline,1.5,8074.485
+Mizoram,221077,Landline,1.7,3758.309
+Nagaland,399965,Landline,1.3,5199.545
+NCT of Delhi,3340538,Landline,5.1,170367.438
+Odisha,9661085,Landline,1.8,173899.53
+Puducherry,301276,Landline,5.1,15365.076
+Punjab,5409699,Landline,6.7,362449.833
+Rajasthan,12581303,Landline,2.5,314532.575
+Sikkim,128131,Landline,1.8,2306.358
+Tamil Nadu,18493003,Landline,5.7,1054101.171
+Tripura,842781,Landline,2.1,17698.401
+Uttar Pradesh,32924266,Landline,3.3,1086500.778
+Uttarakhand,1997068,Landline,3.2,63906.176
+West Bengal,20067299,Landline,2.3,461547.877
+A&N Islands,93376,Mobile,72.1,67324.096
+Andhra Pradesh,21024534,Mobile,54.9,11542469.17
+Arunachal Pradesh,261614,Mobile,39.8,104122.372
+Assam,6367295,Mobile,43.5,2769773.325
+Bihar,18940629,Mobile,51.6,9773364.564
+Chandigarh,235061,Mobile,63.1,148323.491
+Chhattisgarh,5622850,Mobile,27.2,1529415.2
+Dadra & Nagar Haveli,73063,Mobile,57.3,41865.099
+Daman & Diu,60381,Mobile,76,45889.56
+Goa,322813,Mobile,53.8,173673.394
+Gujarat,12181718,Mobile,58.6,7138486.748
+Haryana,4717954,Mobile,66.9,3156311.226
+Himachal Pradesh,1476581,Mobile,61.5,908097.315
+Jammu Kashmir,2015088,Mobile,59.3,1194947.184
+Jharkhand,6181607,Mobile,44.1,2726088.687
+Karnataka,13179911,Mobile,56.5,7446649.715
+Kerala,7716370,Mobile,46.8,3611261.16
+Lakshadweep,10703,Mobile,46.5,4976.895
+Madhya Pradesh,14967597,Mobile,40.6,6076844.382
+Maharashtra,23830580,Mobile,53.7,12797021.46
+Manipur,507152,Mobile,52.3,265240.496
+Meghalaya,538299,Mobile,39.1,210474.909
+Mizoram,221077,Mobile,63.9,141268.203
+Nagaland,399965,Mobile,48.6,194382.99
+NCT of Delhi,3340538,Mobile,68.3,2281587.454
+Odisha,9661085,Mobile,35.6,3439346.26
+Puducherry,301276,Mobile,62.7,188900.052
+Punjab,5409699,Mobile,62.3,3370242.477
+Rajasthan,12581303,Mobile,62.5,7863314.375
+Sikkim,128131,Mobile,67.7,86744.687
+Tamil Nadu,18493003,Mobile,62.1,11484154.86
+Tripura,842781,Mobile,42.7,359867.487
+Uttar Pradesh,32924266,Mobile,61.2,20149650.79
+Uttarakhand,1997068,Mobile,64.8,1294100.064
+West Bengal,20067299,Mobile,42.9,8608871.271
+A&N Islands,93376,BothLandlineMobile,8.5,7936.96
+Andhra Pradesh,21024534,BothLandlineMobile,4.1,862005.894
+Arunachal Pradesh,261614,BothLandlineMobile,5.6,14650.384
+Assam,6367295,BothLandlineMobile,2.3,146447.785
+Bihar,18940629,BothLandlineMobile,1.7,321990.693
+Chandigarh,235061,BothLandlineMobile,20.1,47247.261
+Chhattisgarh,5622850,BothLandlineMobile,2,112457
+Dadra & Nagar Haveli,73063,BothLandlineMobile,3.3,2411.079
+Daman & Diu,60381,BothLandlineMobile,6.3,3804.003
+Goa,322813,BothLandlineMobile,23.3,75215.429
+Gujarat,12181718,BothLandlineMobile,7.1,864901.978
+Haryana,4717954,BothLandlineMobile,8,377436.32
+Himachal Pradesh,1476581,BothLandlineMobile,13.4,197861.854
+Jammu Kashmir,2015088,BothLandlineMobile,6.6,132995.808
+Jharkhand,6181607,BothLandlineMobile,1.9,117450.533
+Karnataka,13179911,BothLandlineMobile,8.1,1067572.791
+Kerala,7716370,BothLandlineMobile,31.3,2415223.81
+Lakshadweep,10703,BothLandlineMobile,39,4174.17
+Madhya Pradesh,14967597,BothLandlineMobile,3,449027.91
+Maharashtra,23830580,BothLandlineMobile,9.1,2168582.78
+Manipur,507152,BothLandlineMobile,2.2,11157.344
+Meghalaya,538299,BothLandlineMobile,2.4,12919.176
+Mizoram,221077,BothLandlineMobile,7.2,15917.544
+Nagaland,399965,BothLandlineMobile,3.2,12798.88
+NCT of Delhi,3340538,BothLandlineMobile,17.4,581253.612
+Odisha,9661085,BothLandlineMobile,2.4,231866.04
+Puducherry,301276,BothLandlineMobile,13.1,39467.156
+Punjab,5409699,BothLandlineMobile,13.2,714080.268
+Rajasthan,12581303,BothLandlineMobile,5.6,704552.968
+Sikkim,128131,BothLandlineMobile,3.6,4612.716
+Tamil Nadu,18493003,BothLandlineMobile,7.1,1313003.213
+Tripura,842781,BothLandlineMobile,3.3,27811.773
+Uttar Pradesh,32924266,BothLandlineMobile,2.4,790182.384
+Uttarakhand,1997068,BothLandlineMobile,6.6,131806.488
+West Bengal,20067299,BothLandlineMobile,4,802691.96
+A&N Islands,93376,Bicycle,18.3,17087.808
+Andhra Pradesh,21024534,Bicycle,32.1,6748875.414
+Arunachal Pradesh,261614,Bicycle,19.5,51014.73
+Assam,6367295,Bicycle,55,3502012.25
+Bihar,18940629,Bicycle,48.7,9224086.323
+Chandigarh,235061,Bicycle,57.5,135160.075
+Chhattisgarh,5622850,Bicycle,61,3429938.5
+Dadra & Nagar Haveli,73063,Bicycle,24.4,17827.372
+Daman & Diu,60381,Bicycle,30.4,18355.824
+Goa,322813,Bicycle,24.6,79411.998
+Gujarat,12181718,Bicycle,34.8,4239237.864
+Haryana,4717954,Bicycle,44.8,2113643.392
+Himachal Pradesh,1476581,Bicycle,9.5,140275.195
+Jammu Kashmir,2015088,Bicycle,10.3,207554.064
+Jharkhand,6181607,Bicycle,58.8,3634784.916
+Karnataka,13179911,Bicycle,33.9,4467989.829
+Kerala,7716370,Bicycle,20.5,1581855.85
+Lakshadweep,10703,Bicycle,84.3,9022.629
+Madhya Pradesh,14967597,Bicycle,39.7,5942136.009
+Maharashtra,23830580,Bicycle,30.5,7268326.9
+Manipur,507152,Bicycle,44.6,226189.792
+Meghalaya,538299,Bicycle,13.3,71593.767
+Mizoram,221077,Bicycle,4.3,9506.311
+Nagaland,399965,Bicycle,7.9,31597.235
+NCT of Delhi,3340538,Bicycle,30.6,1022204.628
+Odisha,9661085,Bicycle,61,5893261.85
+Puducherry,301276,Bicycle,51.5,155157.14
+Punjab,5409699,Bicycle,66.4,3592040.136
+Rajasthan,12581303,Bicycle,28.6,3598252.658
+Sikkim,128131,Bicycle,0.9,1153.179
+Tamil Nadu,18493003,Bicycle,45.2,8358837.356
+Tripura,842781,Bicycle,39.3,331212.933
+Uttar Pradesh,32924266,Bicycle,67.8,22322652.35
+Uttarakhand,1997068,Bicycle,31.3,625082.284
+West Bengal,20067299,Bicycle,57.2,11478495.03
+A&N Islands,93376,X2wheeler,24.7,23063.872
+Andhra Pradesh,21024534,X2wheeler,18.6,3910563.324
+Arunachal Pradesh,261614,X2wheeler,14,36625.96
+Assam,6367295,X2wheeler,10.2,649464.09
+Bihar,18940629,X2wheeler,8.1,1534190.949
+Chandigarh,235061,X2wheeler,46.7,109773.487
+Chhattisgarh,5622850,X2wheeler,15.6,877164.6
+Dadra & Nagar Haveli,73063,X2wheeler,25.5,18631.065
+Daman & Diu,60381,X2wheeler,31.5,19020.015
+Goa,322813,X2wheeler,56.9,183680.597
+Gujarat,12181718,X2wheeler,34.1,4153965.838
+Haryana,4717954,X2wheeler,33.3,1571078.682
+Himachal Pradesh,1476581,X2wheeler,15.5,228870.055
+Jammu Kashmir,2015088,X2wheeler,12.9,259946.352
+Jharkhand,6181607,X2wheeler,16.1,995238.727
+Karnataka,13179911,X2wheeler,25.6,3374057.216
+Kerala,7716370,X2wheeler,24.1,1859645.17
+Lakshadweep,10703,X2wheeler,38.4,4109.952
+Madhya Pradesh,14967597,X2wheeler,18.8,2813908.236
+Maharashtra,23830580,X2wheeler,24.9,5933814.42
+Manipur,507152,X2wheeler,19.8,100416.096
+Meghalaya,538299,X2wheeler,5.4,29068.146
+Mizoram,221077,X2wheeler,13.8,30508.626
+Nagaland,399965,X2wheeler,6.3,25197.795
+NCT of Delhi,3340538,X2wheeler,38.9,1299469.282
+Odisha,9661085,X2wheeler,14.5,1400857.325
+Puducherry,301276,X2wheeler,46.6,140394.616
+Punjab,5409699,X2wheeler,47.5,2569607.025
+Rajasthan,12581303,X2wheeler,24.1,3032094.023
+Sikkim,128131,X2wheeler,2.8,3587.668
+Tamil Nadu,18493003,X2wheeler,32.3,5973239.969
+Tripura,842781,X2wheeler,8.2,69108.042
+Uttar Pradesh,32924266,X2wheeler,19.6,6453156.136
+Uttarakhand,1997068,X2wheeler,22.9,457328.572
+West Bengal,20067299,X2wheeler,8.5,1705720.415
+A&N Islands,93376,X4wheeler,6.9,6442.944
+Andhra Pradesh,21024534,X4wheeler,2.7,567662.418
+Arunachal Pradesh,261614,X4wheeler,7.9,20667.506
+Assam,6367295,X4wheeler,3.8,241957.21
+Bihar,18940629,X4wheeler,1.7,321990.693
+Chandigarh,235061,X4wheeler,25.7,60410.677
+Chhattisgarh,5622850,X4wheeler,2.3,129325.55
+Dadra & Nagar Haveli,73063,X4wheeler,5.7,4164.591
+Daman & Diu,60381,X4wheeler,5.9,3562.479
+Goa,322813,X4wheeler,24.6,79411.998
+Gujarat,12181718,X4wheeler,6.1,743084.798
+Haryana,4717954,X4wheeler,10.5,495385.17
+Himachal Pradesh,1476581,X4wheeler,8.3,122556.223
+Jammu Kashmir,2015088,X4wheeler,7.5,151131.6
+Jharkhand,6181607,X4wheeler,2.8,173084.996
+Karnataka,13179911,X4wheeler,6.3,830334.393
+Kerala,7716370,X4wheeler,10.2,787069.74
+Lakshadweep,10703,X4wheeler,2.3,246.169
+Madhya Pradesh,14967597,X4wheeler,2.7,404125.119
+Maharashtra,23830580,X4wheeler,5.9,1406004.22
+Manipur,507152,X4wheeler,6,30429.12
+Meghalaya,538299,X4wheeler,5.4,29068.146
+Mizoram,221077,X4wheeler,7.3,16138.621
+Nagaland,399965,X4wheeler,7.8,31197.27
+NCT of Delhi,3340538,X4wheeler,20.7,691491.366
+Odisha,9661085,X4wheeler,1.8,173899.53
+Puducherry,301276,X4wheeler,5.6,16871.456
+Punjab,5409699,X4wheeler,13.1,708670.569
+Rajasthan,12581303,X4wheeler,4.7,591321.241
+Sikkim,128131,X4wheeler,8.3,10634.873
+Tamil Nadu,18493003,X4wheeler,4.3,795199.129
+Tripura,842781,X4wheeler,2.2,18541.182
+Uttar Pradesh,32924266,X4wheeler,3.8,1251122.108
+Uttarakhand,1997068,X4wheeler,6.2,123818.216
+West Bengal,20067299,X4wheeler,2.2,441480.578
+A&N Islands,93376,Nonepossesed,8.1,7563.456
+Andhra Pradesh,21024534,Nonepossesed,19.4,4078759.596
+Arunachal Pradesh,261614,Nonepossesed,30.7,80315.498
+Assam,6367295,Nonepossesed,23.6,1502681.62
+Bihar,18940629,Nonepossesed,25.6,4848801.024
+Chandigarh,235061,Nonepossesed,2.3,5406.403
+Chhattisgarh,5622850,Nonepossesed,27.1,1523792.35
+Dadra & Nagar Haveli,73063,Nonepossesed,24.9,18192.687
+Daman & Diu,60381,Nonepossesed,7.6,4588.956
+Goa,322813,Nonepossesed,4.6,14849.398
+Gujarat,12181718,Nonepossesed,18.7,2277981.266
+Haryana,4717954,Nonepossesed,9.4,443487.676
+Himachal Pradesh,1476581,Nonepossesed,8.9,131415.709
+Jammu Kashmir,2015088,Nonepossesed,17.3,348610.224
+Jharkhand,6181607,Nonepossesed,21,1298137.47
+Karnataka,13179911,Nonepossesed,14.3,1884727.273
+Kerala,7716370,Nonepossesed,4.8,370385.76
+Lakshadweep,10703,Nonepossesed,1.9,203.357
+Madhya Pradesh,14967597,Nonepossesed,32.6,4879436.622
+Maharashtra,23830580,Nonepossesed,19,4527810.2
+Manipur,507152,Nonepossesed,17.2,87230.144
+Meghalaya,538299,Nonepossesed,35.8,192711.042
+Mizoram,221077,Nonepossesed,19,42004.63
+Nagaland,399965,Nonepossesed,32.3,129188.695
+NCT of Delhi,3340538,Nonepossesed,2.9,96875.602
+Odisha,9661085,Nonepossesed,25.5,2463576.675
+Puducherry,301276,Nonepossesed,6.2,18679.112
+Punjab,5409699,Nonepossesed,4.4,238026.756
+Rajasthan,12581303,Nonepossesed,21.2,2667236.236
+Sikkim,128131,Nonepossesed,18.2,23319.842
+Tamil Nadu,18493003,Nonepossesed,5.1,943143.153
+Tripura,842781,Nonepossesed,27.8,234293.118
+Uttar Pradesh,32924266,Nonepossesed,11.4,3753366.324
+Uttarakhand,1997068,Nonepossesed,13.8,275595.384
+West Bengal,20067299,Nonepossesed,22.8,4575344.172
