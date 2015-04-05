@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<script src="js/topojson.v0.min.js"></script>
+<script src="js/d3.v3.min.js"></script>
+<script type="text/javascript" src="js/crossfilter.min.js"></script>
+<script type="text/javascript" src="js/dc.min.js"></script>
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/dc.css" rel="stylesheet">
+<body>
+<div id="map">
+</div>
+
+<script>
+    d3.csv("data/districtgdp1.csv", function(csv){
+      var data =crossfilter(csv);
+      var district = data.dimension(function(d){return d["District"];});
+      var gdp = district.group().reduceSum(function(d){return d["GDP"];});
+    
+    // load and display the World
+    cc= dc.geoChoroplethChart("#map");
+    d3.json("india.json", function(topology) {
+        cc.width(990)
+          .height(450)
+          .overlayGeoJson(topology.features, "india", function(d){return d.properties.district_n;})
+          .dimension(district)
+          .group(gdp)
+          .colors('purple');
+    });
+    });
+
+</script>
+</body>
+</html>

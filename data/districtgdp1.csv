@@ -1,4 +1,4 @@
-Year,State,District,GDP,GDPKC
+year,State,District,GDP,GDPKC
 1999,ANDHRA PRADESH,Adilabad,3463.28,3.46328
 2000,ANDHRA PRADESH,Adilabad,3917.43,3.91743
 2001,ANDHRA PRADESH,Adilabad,4449.99,4.44999
@@ -26,24 +26,24 @@ Year,State,District,GDP,GDPKC
 2005,ANDHRA PRADESH,Chittoor,9269.71,9.26971
 2006,ANDHRA PRADESH,Chittoor,10471.17,10.47117
 2007,ANDHRA PRADESH,Chittoor,12603.92,12.60392
-1999,ANDHRA PRADESH,Godavari.East,9507.67,9.50767
-2000,ANDHRA PRADESH,Godavari.East,9950.68,9.95068
-2001,ANDHRA PRADESH,Godavari.East,11010.29,11.01029
-2002,ANDHRA PRADESH,Godavari.East,12266.78,12.26678
-2003,ANDHRA PRADESH,Godavari.East,13804.19,13.80419
-2004,ANDHRA PRADESH,Godavari.East,15474.4,15.4744
-2005,ANDHRA PRADESH,Godavari.East,16087.56,16.08756
-2006,ANDHRA PRADESH,Godavari.East,18408.7,18.4087
-2007,ANDHRA PRADESH,Godavari.East,20635.19,20.63519
-1999,ANDHRA PRADESH,Godavari.West,7398,7.398
-2000,ANDHRA PRADESH,Godavari.West,8050.83,8.05083
-2001,ANDHRA PRADESH,Godavari.West,8124.87,8.12487
-2002,ANDHRA PRADESH,Godavari.West,9254.21,9.25421
-2003,ANDHRA PRADESH,Godavari.West,10901.13,10.90113
-2004,ANDHRA PRADESH,Godavari.West,12138.44,12.13844
-2005,ANDHRA PRADESH,Godavari.West,12058.39,12.05839
-2006,ANDHRA PRADESH,Godavari.West,13530.76,13.53076
-2007,ANDHRA PRADESH,Godavari.West,16302.43,16.30243
+1999,ANDHRA PRADESH,East Godavari,9507.67,9.50767
+2000,ANDHRA PRADESH,East Godavari,9950.68,9.95068
+2001,ANDHRA PRADESH,East Godavari,11010.29,11.01029
+2002,ANDHRA PRADESH,East Godavari,12266.78,12.26678
+2003,ANDHRA PRADESH,East Godavari,13804.19,13.80419
+2004,ANDHRA PRADESH,East Godavari,15474.4,15.4744
+2005,ANDHRA PRADESH,East Godavari,16087.56,16.08756
+2006,ANDHRA PRADESH,East Godavari,18408.7,18.4087
+2007,ANDHRA PRADESH,East Godavari,20635.19,20.63519
+1999,ANDHRA PRADESH,West Godavari,7398,7.398
+2000,ANDHRA PRADESH,West Godavari,8050.83,8.05083
+2001,ANDHRA PRADESH,West Godavari,8124.87,8.12487
+2002,ANDHRA PRADESH,West Godavari,9254.21,9.25421
+2003,ANDHRA PRADESH,West Godavari,10901.13,10.90113
+2004,ANDHRA PRADESH,West Godavari,12138.44,12.13844
+2005,ANDHRA PRADESH,West Godavari,12058.39,12.05839
+2006,ANDHRA PRADESH,West Godavari,13530.76,13.53076
+2007,ANDHRA PRADESH,West Godavari,16302.43,16.30243
 1999,ANDHRA PRADESH,Guntur,7905.62,7.90562
 2000,ANDHRA PRADESH,Guntur,8861.76,8.86176
 2001,ANDHRA PRADESH,Guntur,9820.75,9.82075
@@ -62,15 +62,15 @@ Year,State,District,GDP,GDPKC
 2005,ANDHRA PRADESH,Hyderabad,18478.52,18.47852
 2006,ANDHRA PRADESH,Hyderabad,21709.21,21.70921
 2007,ANDHRA PRADESH,Hyderabad,25271.83,25.27183
-1999,ANDHRA PRADESH,Kadapa..Cuddapah.,3822.76,3.82276
-2000,ANDHRA PRADESH,Kadapa..Cuddapah.,4431.22,4.43122
-2001,ANDHRA PRADESH,Kadapa..Cuddapah.,4337.12,4.33712
-2002,ANDHRA PRADESH,Kadapa..Cuddapah.,4697.22,4.69722
-2003,ANDHRA PRADESH,Kadapa..Cuddapah.,5200.31,5.20031
-2004,ANDHRA PRADESH,Kadapa..Cuddapah.,6170.81,6.17081
-2005,ANDHRA PRADESH,Kadapa..Cuddapah.,6158.4,6.1584
-2006,ANDHRA PRADESH,Kadapa..Cuddapah.,12811.88,12.81188
-2007,ANDHRA PRADESH,Kadapa..Cuddapah.,14292.87,14.29287
+1999,ANDHRA PRADESH,Kadapa,3822.76,3.82276
+2000,ANDHRA PRADESH,Kadapa,4431.22,4.43122
+2001,ANDHRA PRADESH,Kadapa,4337.12,4.33712
+2002,ANDHRA PRADESH,Kadapa,4697.22,4.69722
+2003,ANDHRA PRADESH,Kadapa,5200.31,5.20031
+2004,ANDHRA PRADESH,Kadapa,6170.81,6.17081
+2005,ANDHRA PRADESH,Kadapa,6158.4,6.1584
+2006,ANDHRA PRADESH,Kadapa,12811.88,12.81188
+2007,ANDHRA PRADESH,Kadapa,14292.87,14.29287
 1999,ANDHRA PRADESH,Karimnagar,6470.23,6.47023
 2000,ANDHRA PRADESH,Karimnagar,6760.78,6.76078
 2001,ANDHRA PRADESH,Karimnagar,7203.94,7.20394
@@ -107,15 +107,15 @@ Year,State,District,GDP,GDPKC
 2005,ANDHRA PRADESH,Kurnool,9341.92,9.34192
 2006,ANDHRA PRADESH,Kurnool,9688.32,9.68832
 2007,ANDHRA PRADESH,Kurnool,12315.44,12.31544
-1999,ANDHRA PRADESH,Mahabubnagar,3796.76,3.79676
-2000,ANDHRA PRADESH,Mahabubnagar,4511.9,4.5119
-2001,ANDHRA PRADESH,Mahabubnagar,5027.4,5.0274
-2002,ANDHRA PRADESH,Mahabubnagar,5356.34,5.35634
-2003,ANDHRA PRADESH,Mahabubnagar,5825.04,5.82504
-2004,ANDHRA PRADESH,Mahabubnagar,6380.28,6.38028
-2005,ANDHRA PRADESH,Mahabubnagar,8693.37,8.69337
-2006,ANDHRA PRADESH,Mahabubnagar,9071.51,9.07151
-2007,ANDHRA PRADESH,Mahabubnagar,11529.95,11.52995
+1999,ANDHRA PRADESH,Mahbubnagar,3796.76,3.79676
+2000,ANDHRA PRADESH,Mahbubnagar,4511.9,4.5119
+2001,ANDHRA PRADESH,Mahbubnagar,5027.4,5.0274
+2002,ANDHRA PRADESH,Mahbubnagar,5356.34,5.35634
+2003,ANDHRA PRADESH,Mahbubnagar,5825.04,5.82504
+2004,ANDHRA PRADESH,Mahbubnagar,6380.28,6.38028
+2005,ANDHRA PRADESH,Mahbubnagar,8693.37,8.69337
+2006,ANDHRA PRADESH,Mahbubnagar,9071.51,9.07151
+2007,ANDHRA PRADESH,Mahbubnagar,11529.95,11.52995
 1999,ANDHRA PRADESH,Medak,6681.38,6.68138
 2000,ANDHRA PRADESH,Medak,6334.25,6.33425
 2001,ANDHRA PRADESH,Medak,7018.88,7.01888
@@ -179,15 +179,15 @@ Year,State,District,GDP,GDPKC
 2005,ANDHRA PRADESH,Srikakulam,5176.38,5.17638
 2006,ANDHRA PRADESH,Srikakulam,6036.4,6.0364
 2007,ANDHRA PRADESH,Srikakulam,7114.9,7.1149
-1999,ANDHRA PRADESH,Visakapatnam,7917.36,7.91736
-2000,ANDHRA PRADESH,Visakapatnam,9739.3,9.7393
-2001,ANDHRA PRADESH,Visakapatnam,10609.61,10.60961
-2002,ANDHRA PRADESH,Visakapatnam,12376.11,12.37611
-2003,ANDHRA PRADESH,Visakapatnam,15078.51,15.07851
-2004,ANDHRA PRADESH,Visakapatnam,18192.59,18.19259
-2005,ANDHRA PRADESH,Visakapatnam,18923.1,18.9231
-2006,ANDHRA PRADESH,Visakapatnam,21695.85,21.69585
-2007,ANDHRA PRADESH,Visakapatnam,24837.47,24.83747
+1999,ANDHRA PRADESH,Visakhapatnam,7917.36,7.91736
+2000,ANDHRA PRADESH,Visakhapatnam,9739.3,9.7393
+2001,ANDHRA PRADESH,Visakhapatnam,10609.61,10.60961
+2002,ANDHRA PRADESH,Visakhapatnam,12376.11,12.37611
+2003,ANDHRA PRADESH,Visakhapatnam,15078.51,15.07851
+2004,ANDHRA PRADESH,Visakhapatnam,18192.59,18.19259
+2005,ANDHRA PRADESH,Visakhapatnam,18923.1,18.9231
+2006,ANDHRA PRADESH,Visakhapatnam,21695.85,21.69585
+2007,ANDHRA PRADESH,Visakhapatnam,24837.47,24.83747
 1999,ANDHRA PRADESH,Vizianagaram,2636.85,2.63685
 2000,ANDHRA PRADESH,Vizianagaram,2862.63,2.86263
 2001,ANDHRA PRADESH,Vizianagaram,3244.55,3.24455
@@ -215,33 +215,33 @@ Year,State,District,GDP,GDPKC
 2005,Arunachal,Changlang,321.09,0.32109
 2006,Arunachal,Changlang,359.78,0.35978
 2007,Arunachal,Changlang,396.73,0.39673
-1999,Arunachal,Dibang.Valley,86.85,0.08685
-2000,Arunachal,Dibang.Valley,95.83,0.09583
-2001,Arunachal,Dibang.Valley,118.97,0.11897
-2002,Arunachal,Dibang.Valley,112.02,0.11202
-2003,Arunachal,Dibang.Valley,129.68,0.12968
-2004,Arunachal,Dibang.Valley,159.96,0.15996
-2005,Arunachal,Dibang.Valley,160.67,0.16067
-2006,Arunachal,Dibang.Valley,190.63,0.19063
-2007,Arunachal,Dibang.Valley,205.39,0.20539
-1999,Arunachal,Kameng.East,71.64,0.07164
-2000,Arunachal,Kameng.East,80.12,0.08012
-2001,Arunachal,Kameng.East,96.85,0.09685
-2002,Arunachal,Kameng.East,92.84,0.09284
-2003,Arunachal,Kameng.East,107.53,0.10753
-2004,Arunachal,Kameng.East,129.66,0.12966
-2005,Arunachal,Kameng.East,130.6,0.1306
-2006,Arunachal,Kameng.East,153.85,0.15385
-2007,Arunachal,Kameng.East,165.79,0.16579
-1999,Arunachal,Kameng.West,150.66,0.15066
-2000,Arunachal,Kameng.West,166.32,0.16632
-2001,Arunachal,Kameng.West,206.53,0.20653
-2002,Arunachal,Kameng.West,196.59,0.19659
-2003,Arunachal,Kameng.West,222.36,0.22236
-2004,Arunachal,Kameng.West,276.34,0.27634
-2005,Arunachal,Kameng.West,276.45,0.27645
-2006,Arunachal,Kameng.West,326.34,0.32634
-2007,Arunachal,Kameng.West,351.54,0.35154
+1999,Arunachal,Dibang Valley,86.85,0.08685
+2000,Arunachal,Dibang Valley,95.83,0.09583
+2001,Arunachal,Dibang Valley,118.97,0.11897
+2002,Arunachal,Dibang Valley,112.02,0.11202
+2003,Arunachal,Dibang Valley,129.68,0.12968
+2004,Arunachal,Dibang Valley,159.96,0.15996
+2005,Arunachal,Dibang Valley,160.67,0.16067
+2006,Arunachal,Dibang Valley,190.63,0.19063
+2007,Arunachal,Dibang Valley,205.39,0.20539
+1999,Arunachal,East Kameng,71.64,0.07164
+2000,Arunachal,East Kameng,80.12,0.08012
+2001,Arunachal,East Kameng,96.85,0.09685
+2002,Arunachal,East Kameng,92.84,0.09284
+2003,Arunachal,East Kameng,107.53,0.10753
+2004,Arunachal,East Kameng,129.66,0.12966
+2005,Arunachal,East Kameng,130.6,0.1306
+2006,Arunachal,East Kameng,153.85,0.15385
+2007,Arunachal,East Kameng,165.79,0.16579
+1999,Arunachal,West Kameng,150.66,0.15066
+2000,Arunachal,West Kameng,166.32,0.16632
+2001,Arunachal,West Kameng,206.53,0.20653
+2002,Arunachal,West Kameng,196.59,0.19659
+2003,Arunachal,West Kameng,222.36,0.22236
+2004,Arunachal,West Kameng,276.34,0.27634
+2005,Arunachal,West Kameng,276.45,0.27645
+2006,Arunachal,West Kameng,326.34,0.32634
+2007,Arunachal,West Kameng,351.54,0.35154
 1999,Arunachal,Lohit,191.85,0.19185
 2000,Arunachal,Lohit,213.88,0.21388
 2001,Arunachal,Lohit,253.83,0.25383
@@ -260,51 +260,51 @@ Year,State,District,GDP,GDPKC
 2005,Arunachal,Papumpare,422.14,0.42214
 2006,Arunachal,Papumpare,492.55,0.49255
 2007,Arunachal,Papumpare,533.65,0.53365
-1999,Arunachal,Siang.East,120,0.12
-2000,Arunachal,Siang.East,132.31,0.13231
-2001,Arunachal,Siang.East,150.33,0.15033
-2002,Arunachal,Siang.East,149.19,0.14919
-2003,Arunachal,Siang.East,171.11,0.17111
-2004,Arunachal,Siang.East,201.09,0.20109
-2005,Arunachal,Siang.East,208.17,0.20817
-2006,Arunachal,Siang.East,242.15,0.24215
-2007,Arunachal,Siang.East,262.69,0.26269
-1999,Arunachal,Siang.Upper,50.91,0.05091
-2000,Arunachal,Siang.Upper,56.86,0.05686
-2001,Arunachal,Siang.Upper,70.85,0.07085
-2002,Arunachal,Siang.Upper,67.51,0.06751
-2003,Arunachal,Siang.Upper,79.84,0.07984
-2004,Arunachal,Siang.Upper,99.67,0.09967
-2005,Arunachal,Siang.Upper,99.15,0.09915
-2006,Arunachal,Siang.Upper,117.29,0.11729
-2007,Arunachal,Siang.Upper,126.27,0.12627
-1999,Arunachal,Siang.West,139.65,0.13965
-2000,Arunachal,Siang.West,155.59,0.15559
-2001,Arunachal,Siang.West,181.6,0.1816
-2002,Arunachal,Siang.West,177.67,0.17767
-2003,Arunachal,Siang.West,204.5,0.2045
-2004,Arunachal,Siang.West,244.06,0.24406
-2005,Arunachal,Siang.West,248.6,0.2486
-2006,Arunachal,Siang.West,290.64,0.29064
-2007,Arunachal,Siang.West,314.18,0.31418
-1999,Arunachal,Subansiri.Lower,120.14,0.12014
-2000,Arunachal,Subansiri.Lower,135.47,0.13547
-2001,Arunachal,Subansiri.Lower,152.51,0.15251
-2002,Arunachal,Subansiri.Lower,154.94,0.15494
-2003,Arunachal,Subansiri.Lower,182.83,0.18283
-2004,Arunachal,Subansiri.Lower,217.87,0.21787
-2005,Arunachal,Subansiri.Lower,223.79,0.22379
-2006,Arunachal,Subansiri.Lower,258.58,0.25858
-2007,Arunachal,Subansiri.Lower,280.74,0.28074
-1999,Arunachal,Subansiri.Upper,65.45,0.06545
-2000,Arunachal,Subansiri.Upper,72.98,0.07298
-2001,Arunachal,Subansiri.Upper,86.78,0.08678
-2002,Arunachal,Subansiri.Upper,84.48,0.08448
-2003,Arunachal,Subansiri.Upper,98.5,0.0985
-2004,Arunachal,Subansiri.Upper,118.16,0.11816
-2005,Arunachal,Subansiri.Upper,119.54,0.11954
-2006,Arunachal,Subansiri.Upper,139.91,0.13991
-2007,Arunachal,Subansiri.Upper,151.17,0.15117
+1999,Arunachal,East Siang,120,0.12
+2000,Arunachal,East Siang,132.31,0.13231
+2001,Arunachal,East Siang,150.33,0.15033
+2002,Arunachal,East Siang,149.19,0.14919
+2003,Arunachal,East Siang,171.11,0.17111
+2004,Arunachal,East Siang,201.09,0.20109
+2005,Arunachal,East Siang,208.17,0.20817
+2006,Arunachal,East Siang,242.15,0.24215
+2007,Arunachal,East Siang,262.69,0.26269
+1999,Arunachal,Upper Siang,50.91,0.05091
+2000,Arunachal,Upper Siang,56.86,0.05686
+2001,Arunachal,Upper Siang,70.85,0.07085
+2002,Arunachal,Upper Siang,67.51,0.06751
+2003,Arunachal,Upper Siang,79.84,0.07984
+2004,Arunachal,Upper Siang,99.67,0.09967
+2005,Arunachal,Upper Siang,99.15,0.09915
+2006,Arunachal,Upper Siang,117.29,0.11729
+2007,Arunachal,Upper Siang,126.27,0.12627
+1999,Arunachal,West Siang,139.65,0.13965
+2000,Arunachal,West Siang,155.59,0.15559
+2001,Arunachal,West Siang,181.6,0.1816
+2002,Arunachal,West Siang,177.67,0.17767
+2003,Arunachal,West Siang,204.5,0.2045
+2004,Arunachal,West Siang,244.06,0.24406
+2005,Arunachal,West Siang,248.6,0.2486
+2006,Arunachal,West Siang,290.64,0.29064
+2007,Arunachal,West Siang,314.18,0.31418
+1999,Arunachal,Subansiri Lower,120.14,0.12014
+2000,Arunachal,Subansiri Lower,135.47,0.13547
+2001,Arunachal,Subansiri Lower,152.51,0.15251
+2002,Arunachal,Subansiri Lower,154.94,0.15494
+2003,Arunachal,Subansiri Lower,182.83,0.18283
+2004,Arunachal,Subansiri Lower,217.87,0.21787
+2005,Arunachal,Subansiri Lower,223.79,0.22379
+2006,Arunachal,Subansiri Lower,258.58,0.25858
+2007,Arunachal,Subansiri Lower,280.74,0.28074
+1999,Arunachal,Subansiri Upper,65.45,0.06545
+2000,Arunachal,Subansiri Upper,72.98,0.07298
+2001,Arunachal,Subansiri Upper,86.78,0.08678
+2002,Arunachal,Subansiri Upper,84.48,0.08448
+2003,Arunachal,Subansiri Upper,98.5,0.0985
+2004,Arunachal,Subansiri Upper,118.16,0.11816
+2005,Arunachal,Subansiri Upper,119.54,0.11954
+2006,Arunachal,Subansiri Upper,139.91,0.13991
+2007,Arunachal,Subansiri Upper,151.17,0.15117
 1999,Arunachal,Tawang,82.3,0.0823
 2000,Arunachal,Tawang,90.82,0.09082
 2001,Arunachal,Tawang,114.65,0.11465
@@ -359,11 +359,6 @@ Year,State,District,GDP,GDPKC
 2005,Assam,Cachar,2825.83,2.82583
 2006,Assam,Cachar,3127.56,3.12756
 2007,Assam,Cachar,3445.18,3.44518
-1999,Assam,Chirang,NA,NA
-2000,Assam,Chirang,NA,NA
-2001,Assam,Chirang,NA,NA
-2002,Assam,Chirang,NA,NA
-2003,Assam,Chirang,NA,NA
 2004,Assam,Chirang,617.81,0.61781
 2005,Assam,Chirang,713.25,0.71325
 2006,Assam,Chirang,735.6,0.7356
@@ -449,24 +444,19 @@ Year,State,District,GDP,GDPKC
 2005,Assam,Kamrup,3439.16,3.43916
 2006,Assam,Kamrup,3787.1,3.7871
 2007,Assam,Kamrup,4196.25,4.19625
-1999,Assam,Kamrup.Metropolitan,NA,NA
-2000,Assam,Kamrup.Metropolitan,NA,NA
-2001,Assam,Kamrup.Metropolitan,NA,NA
-2002,Assam,Kamrup.Metropolitan,NA,NA
-2003,Assam,Kamrup.Metropolitan,NA,NA
-2004,Assam,Kamrup.Metropolitan,4094.45,4.09445
-2005,Assam,Kamrup.Metropolitan,4155.77,4.15577
-2006,Assam,Kamrup.Metropolitan,4589.98,4.58998
-2007,Assam,Kamrup.Metropolitan,5098.58,5.09858
-1999,Assam,Karbi.Anglong,863.49,0.86349
-2000,Assam,Karbi.Anglong,910.71,0.91071
-2001,Assam,Karbi.Anglong,947,0.947
-2002,Assam,Karbi.Anglong,1030.19,1.03019
-2003,Assam,Karbi.Anglong,1122.65,1.12265
-2004,Assam,Karbi.Anglong,1584.02,1.58402
-2005,Assam,Karbi.Anglong,1894.43,1.89443
-2006,Assam,Karbi.Anglong,2076.07,2.07607
-2007,Assam,Karbi.Anglong,2288.99,2.28899
+2004,Assam,Kamrup Metropolitan,4094.45,4.09445
+2005,Assam,Kamrup Metropolitan,4155.77,4.15577
+2006,Assam,Kamrup Metropolitan,4589.98,4.58998
+2007,Assam,Kamrup Metropolitan,5098.58,5.09858
+1999,Assam,Karbi Anglong,863.49,0.86349
+2000,Assam,Karbi Anglong,910.71,0.91071
+2001,Assam,Karbi Anglong,947,0.947
+2002,Assam,Karbi Anglong,1030.19,1.03019
+2003,Assam,Karbi Anglong,1122.65,1.12265
+2004,Assam,Karbi Anglong,1584.02,1.58402
+2005,Assam,Karbi Anglong,1894.43,1.89443
+2006,Assam,Karbi Anglong,2076.07,2.07607
+2007,Assam,Karbi Anglong,2288.99,2.28899
 1999,Assam,Karimganj,977.87,0.97787
 2000,Assam,Karimganj,1012.26,1.01226
 2001,Assam,Karimganj,1068.52,1.06852
@@ -521,15 +511,15 @@ Year,State,District,GDP,GDPKC
 2005,Assam,Nalbari,1390.66,1.39066
 2006,Assam,Nalbari,1528.92,1.52892
 2007,Assam,Nalbari,1703.1,1.7031
-1999,Assam,North.Cachar.Hills,353.48,0.35348
-2000,Assam,North.Cachar.Hills,367.45,0.36745
-2001,Assam,North.Cachar.Hills,384.22,0.38422
-2002,Assam,North.Cachar.Hills,411.21,0.41121
-2003,Assam,North.Cachar.Hills,443.13,0.44313
-2004,Assam,North.Cachar.Hills,610.2,0.6102
-2005,Assam,North.Cachar.Hills,676.34,0.67634
-2006,Assam,North.Cachar.Hills,744.89,0.74489
-2007,Assam,North.Cachar.Hills,827.63,0.82763
+1999,Assam,North Cachar Hills,353.48,0.35348
+2000,Assam,North Cachar Hills,367.45,0.36745
+2001,Assam,North Cachar Hills,384.22,0.38422
+2002,Assam,North Cachar Hills,411.21,0.41121
+2003,Assam,North Cachar Hills,443.13,0.44313
+2004,Assam,North Cachar Hills,610.2,0.6102
+2005,Assam,North Cachar Hills,676.34,0.67634
+2006,Assam,North Cachar Hills,744.89,0.74489
+2007,Assam,North Cachar Hills,827.63,0.82763
 1999,Assam,Sivsagar,2523.9,2.5239
 2000,Assam,Sivsagar,2769.66,2.76966
 2001,Assam,Sivsagar,2810.4,2.8104
@@ -557,11 +547,6 @@ Year,State,District,GDP,GDPKC
 2005,Assam,Tinsukia,3893.33,3.89333
 2006,Assam,Tinsukia,4318.97,4.31897
 2007,Assam,Tinsukia,4739.41,4.73941
-1999,Assam,Udalguri,NA,NA
-2000,Assam,Udalguri,NA,NA
-2001,Assam,Udalguri,NA,NA
-2002,Assam,Udalguri,NA,NA
-2003,Assam,Udalguri,NA,NA
 2004,Assam,Udalguri,1176.95,1.17695
 2005,Assam,Udalguri,1279.96,1.27996
 2006,Assam,Udalguri,1401.53,1.40153
@@ -620,18 +605,18 @@ Year,State,District,GDP,GDPKC
 2002,Bihar,Buxar,875.85,0.87585
 2003,Bihar,Buxar,893.12,0.89312
 2004,Bihar,Buxar,885.79,0.88579
-1999,Bihar,Champaran.East,1764.31,1.76431
-2000,Bihar,Champaran.East,2139.98,2.13998
-2001,Bihar,Champaran.East,1845.69,1.84569
-2002,Bihar,Champaran.East,2507.76,2.50776
-2003,Bihar,Champaran.East,2336.93,2.33693
-2004,Bihar,Champaran.East,2398.25,2.39825
-1999,Bihar,Champaran.West,1657.79,1.65779
-2000,Bihar,Champaran.West,1988.86,1.98886
-2001,Bihar,Champaran.West,1938.21,1.93821
-2002,Bihar,Champaran.West,2045.05,2.04505
-2003,Bihar,Champaran.West,2142.13,2.14213
-2004,Bihar,Champaran.West,2191.45,2.19145
+1999,Bihar,Champaran East,1764.31,1.76431
+2000,Bihar,Champaran East,2139.98,2.13998
+2001,Bihar,Champaran East,1845.69,1.84569
+2002,Bihar,Champaran East,2507.76,2.50776
+2003,Bihar,Champaran East,2336.93,2.33693
+2004,Bihar,Champaran East,2398.25,2.39825
+1999,Bihar,Champaran West,1657.79,1.65779
+2000,Bihar,Champaran West,1988.86,1.98886
+2001,Bihar,Champaran West,1938.21,1.93821
+2002,Bihar,Champaran West,2045.05,2.04505
+2003,Bihar,Champaran West,2142.13,2.14213
+2004,Bihar,Champaran West,2191.45,2.19145
 1999,Bihar,Darbhanga,1516.72,1.51672
 2000,Bihar,Darbhanga,2007.67,2.00767
 2001,Bihar,Darbhanga,1910.09,1.91009
@@ -794,14 +779,14 @@ Year,State,District,GDP,GDPKC
 2002,Bihar,Vaishali,1769.52,1.76952
 2003,Bihar,Vaishali,1580.36,1.58036
 2004,Bihar,Vaishali,1918.33,1.91833
-1999,Chattisgarh,Baster,1166.66,1.16666
-2000,Chattisgarh,Baster,1040.94,1.04094
-2001,Chattisgarh,Baster,1387.03,1.38703
-2002,Chattisgarh,Baster,1409.83,1.40983
-2003,Chattisgarh,Baster,1873.24,1.87324
-2004,Chattisgarh,Baster,1948.67,1.94867
-2005,Chattisgarh,Baster,2412.36,2.41236
-2006,Chattisgarh,Baster,2668.01,2.66801
+1999,Chattisgarh,Bastar,1166.66,1.16666
+2000,Chattisgarh,Bastar,1040.94,1.04094
+2001,Chattisgarh,Bastar,1387.03,1.38703
+2002,Chattisgarh,Bastar,1409.83,1.40983
+2003,Chattisgarh,Bastar,1873.24,1.87324
+2004,Chattisgarh,Bastar,1948.67,1.94867
+2005,Chattisgarh,Bastar,2412.36,2.41236
+2006,Chattisgarh,Bastar,2668.01,2.66801
 1999,Chattisgarh,Bilaspur,2379.56,2.37956
 2000,Chattisgarh,Bilaspur,2238.31,2.23831
 2001,Chattisgarh,Bilaspur,2624.78,2.62478
@@ -810,22 +795,22 @@ Year,State,District,GDP,GDPKC
 2004,Chattisgarh,Bilaspur,3848.17,3.84817
 2005,Chattisgarh,Bilaspur,4732.62,4.73262
 2006,Chattisgarh,Bilaspur,5605.11,5.60511
-1999,Chattisgarh,Damtari,748.12,0.74812
-2000,Chattisgarh,Damtari,698.69,0.69869
-2001,Chattisgarh,Damtari,857.06,0.85706
-2002,Chattisgarh,Damtari,891.21,0.89121
-2003,Chattisgarh,Damtari,1145.52,1.14552
-2004,Chattisgarh,Damtari,1317.7,1.3177
-2005,Chattisgarh,Damtari,1621.99,1.62199
-2006,Chattisgarh,Damtari,1945.79,1.94579
-1999,Chattisgarh,Dantewara,851.55,0.85155
-2000,Chattisgarh,Dantewara,816.82,0.81682
-2001,Chattisgarh,Dantewara,1114.11,1.11411
-2002,Chattisgarh,Dantewara,1190.34,1.19034
-2003,Chattisgarh,Dantewara,1432.53,1.43253
-2004,Chattisgarh,Dantewara,1928.66,1.92866
-2005,Chattisgarh,Dantewara,2315.54,2.31554
-2006,Chattisgarh,Dantewara,2297.05,2.29705
+1999,Chattisgarh,Dhamtari,748.12,0.74812
+2000,Chattisgarh,Dhamtari,698.69,0.69869
+2001,Chattisgarh,Dhamtari,857.06,0.85706
+2002,Chattisgarh,Dhamtari,891.21,0.89121
+2003,Chattisgarh,Dhamtari,1145.52,1.14552
+2004,Chattisgarh,Dhamtari,1317.7,1.3177
+2005,Chattisgarh,Dhamtari,1621.99,1.62199
+2006,Chattisgarh,Dhamtari,1945.79,1.94579
+1999,Chattisgarh,Dantewada,851.55,0.85155
+2000,Chattisgarh,Dantewada,816.82,0.81682
+2001,Chattisgarh,Dantewada,1114.11,1.11411
+2002,Chattisgarh,Dantewada,1190.34,1.19034
+2003,Chattisgarh,Dantewada,1432.53,1.43253
+2004,Chattisgarh,Dantewada,1928.66,1.92866
+2005,Chattisgarh,Dantewada,2315.54,2.31554
+2006,Chattisgarh,Dantewada,2297.05,2.29705
 1999,Chattisgarh,Durg,3981.5,3.9815
 2000,Chattisgarh,Durg,3758.36,3.75836
 2001,Chattisgarh,Durg,4174.75,4.17475
@@ -834,14 +819,14 @@ Year,State,District,GDP,GDPKC
 2004,Chattisgarh,Durg,6665.36,6.66536
 2005,Chattisgarh,Durg,8440.72,8.44072
 2006,Chattisgarh,Durg,10509.75,10.50975
-1999,Chattisgarh,Janjgir.Champa,1151.22,1.15122
-2000,Chattisgarh,Janjgir.Champa,1066.72,1.06672
-2001,Chattisgarh,Janjgir.Champa,1302.76,1.30276
-2002,Chattisgarh,Janjgir.Champa,1346.42,1.34642
-2003,Chattisgarh,Janjgir.Champa,1614.57,1.61457
-2004,Chattisgarh,Janjgir.Champa,1886.09,1.88609
-2005,Chattisgarh,Janjgir.Champa,2395.65,2.39565
-2006,Chattisgarh,Janjgir.Champa,2892.96,2.89296
+1999,Chattisgarh,Janjgir Champa,1151.22,1.15122
+2000,Chattisgarh,Janjgir Champa,1066.72,1.06672
+2001,Chattisgarh,Janjgir Champa,1302.76,1.30276
+2002,Chattisgarh,Janjgir Champa,1346.42,1.34642
+2003,Chattisgarh,Janjgir Champa,1614.57,1.61457
+2004,Chattisgarh,Janjgir Champa,1886.09,1.88609
+2005,Chattisgarh,Janjgir Champa,2395.65,2.39565
+2006,Chattisgarh,Janjgir Champa,2892.96,2.89296
 1999,Chattisgarh,Jashpur,740.52,0.74052
 2000,Chattisgarh,Jashpur,662.33,0.66233
 2001,Chattisgarh,Jashpur,778.86,0.77886
@@ -858,14 +843,14 @@ Year,State,District,GDP,GDPKC
 2004,Chattisgarh,Kanker,1003.18,1.00318
 2005,Chattisgarh,Kanker,1211.13,1.21113
 2006,Chattisgarh,Kanker,1438.84,1.43884
-1999,Chattisgarh,Kawardha,501.78,0.50178
-2000,Chattisgarh,Kawardha,429.07,0.42907
-2001,Chattisgarh,Kawardha,544.88,0.54488
-2002,Chattisgarh,Kawardha,565.7,0.5657
-2003,Chattisgarh,Kawardha,644.56,0.64456
-2004,Chattisgarh,Kawardha,666.76,0.66676
-2005,Chattisgarh,Kawardha,845.76,0.84576
-2006,Chattisgarh,Kawardha,1006.65,1.00665
+1999,Chattisgarh,Kabeerdham,501.78,0.50178
+2000,Chattisgarh,Kabeerdham,429.07,0.42907
+2001,Chattisgarh,Kabeerdham,544.88,0.54488
+2002,Chattisgarh,Kabeerdham,565.7,0.5657
+2003,Chattisgarh,Kabeerdham,644.56,0.64456
+2004,Chattisgarh,Kabeerdham,666.76,0.66676
+2005,Chattisgarh,Kabeerdham,845.76,0.84576
+2006,Chattisgarh,Kabeerdham,1006.65,1.00665
 1999,Chattisgarh,Korba,4668.65,4.66865
 2000,Chattisgarh,Korba,4368.58,4.36858
 2001,Chattisgarh,Korba,4323.12,4.32312
@@ -906,14 +891,14 @@ Year,State,District,GDP,GDPKC
 2004,Chattisgarh,Raipur,7862.63,7.86263
 2005,Chattisgarh,Raipur,9846.2,9.8462
 2006,Chattisgarh,Raipur,11743.5,11.7435
-1999,Chattisgarh,Rajnangaon,1456.61,1.45661
-2000,Chattisgarh,Rajnangaon,1320.29,1.32029
-2001,Chattisgarh,Rajnangaon,1591.83,1.59183
-2002,Chattisgarh,Rajnangaon,1644.96,1.64496
-2003,Chattisgarh,Rajnangaon,2038.6,2.0386
-2004,Chattisgarh,Rajnangaon,2294.35,2.29435
-2005,Chattisgarh,Rajnangaon,2908.93,2.90893
-2006,Chattisgarh,Rajnangaon,3332.06,3.33206
+1999,Chattisgarh,Rajnandgaon,1456.61,1.45661
+2000,Chattisgarh,Rajnandgaon,1320.29,1.32029
+2001,Chattisgarh,Rajnandgaon,1591.83,1.59183
+2002,Chattisgarh,Rajnandgaon,1644.96,1.64496
+2003,Chattisgarh,Rajnandgaon,2038.6,2.0386
+2004,Chattisgarh,Rajnandgaon,2294.35,2.29435
+2005,Chattisgarh,Rajnandgaon,2908.93,2.90893
+2006,Chattisgarh,Rajnandgaon,3332.06,3.33206
 1999,Chattisgarh,Surguja,1832.01,1.83201
 2000,Chattisgarh,Surguja,1814.79,1.81479
 2001,Chattisgarh,Surguja,1982.73,1.98273
@@ -1048,13 +1033,13 @@ Year,State,District,GDP,GDPKC
 2003,Haryana,Sonipat,4260.76,4.26076
 2004,Haryana,Sonipat,4613.49,4.61349
 2005,Haryana,Sonipat,5191.69,5.19169
-1999,Haryana,Yamuna.Nagar,2359.8,2.3598
-2000,Haryana,Yamuna.Nagar,2481.33,2.48133
-2001,Haryana,Yamuna.Nagar,2800.28,2.80028
-2002,Haryana,Yamuna.Nagar,2957.91,2.95791
-2003,Haryana,Yamuna.Nagar,3309.41,3.30941
-2004,Haryana,Yamuna.Nagar,3705.86,3.70586
-2005,Haryana,Yamuna.Nagar,3998.49,3.99849
+1999,Haryana,Yamuna Nagar,2359.8,2.3598
+2000,Haryana,Yamuna Nagar,2481.33,2.48133
+2001,Haryana,Yamuna Nagar,2800.28,2.80028
+2002,Haryana,Yamuna Nagar,2957.91,2.95791
+2003,Haryana,Yamuna Nagar,3309.41,3.30941
+2004,Haryana,Yamuna Nagar,3705.86,3.70586
+2005,Haryana,Yamuna Nagar,3998.49,3.99849
 1999,Himachal,Bilaspur,838.7,0.8387
 2000,Himachal,Bilaspur,902.71,0.90271
 2001,Himachal,Bilaspur,969.71,0.96971
@@ -1097,13 +1082,13 @@ Year,State,District,GDP,GDPKC
 2003,Himachal,Kullu,1313.47,1.31347
 2004,Himachal,Kullu,1587.02,1.58702
 2005,Himachal,Kullu,1741.67,1.74167
-1999,Himachal,Lahaul.and.Spiti,229.43,0.22943
-2000,Himachal,Lahaul.and.Spiti,215.85,0.21585
-2001,Himachal,Lahaul.and.Spiti,223.53,0.22353
-2002,Himachal,Lahaul.and.Spiti,304.68,0.30468
-2003,Himachal,Lahaul.and.Spiti,268.36,0.26836
-2004,Himachal,Lahaul.and.Spiti,290.26,0.29026
-2005,Himachal,Lahaul.and.Spiti,301.12,0.30112
+1999,Himachal,Lahaul and Spiti,229.43,0.22943
+2000,Himachal,Lahaul and Spiti,215.85,0.21585
+2001,Himachal,Lahaul and Spiti,223.53,0.22353
+2002,Himachal,Lahaul and Spiti,304.68,0.30468
+2003,Himachal,Lahaul and Spiti,268.36,0.26836
+2004,Himachal,Lahaul and Spiti,290.26,0.29026
+2005,Himachal,Lahaul and Spiti,301.12,0.30112
 1999,Himachal,Mandi,1580.79,1.58079
 2000,Himachal,Mandi,1753.53,1.75353
 2001,Himachal,Mandi,2058.02,2.05802
@@ -1265,13 +1250,13 @@ Year,State,District,GDP,GDPKC
 2003,Jharkhand,Sahebganj,1621.02,1.62102
 2004,Jharkhand,Sahebganj,1988.73,1.98873
 2005,Jharkhand,Sahebganj,2223.57,2.22357
-1999,Jharkhand,Saraykela.Kharsawa,0,0
-2000,Jharkhand,Saraykela.Kharsawa,0,0
-2001,Jharkhand,Saraykela.Kharsawa,0,0
-2002,Jharkhand,Saraykela.Kharsawa,1203.93,1.20393
-2003,Jharkhand,Saraykela.Kharsawa,1399.19,1.39919
-2004,Jharkhand,Saraykela.Kharsawa,1689.65,1.68965
-2005,Jharkhand,Saraykela.Kharsawa,1825.09,1.82509
+1999,Jharkhand,Saraykela Kharsawa,0,0
+2000,Jharkhand,Saraykela Kharsawa,0,0
+2001,Jharkhand,Saraykela Kharsawa,0,0
+2002,Jharkhand,Saraykela Kharsawa,1203.93,1.20393
+2003,Jharkhand,Saraykela Kharsawa,1399.19,1.39919
+2004,Jharkhand,Saraykela Kharsawa,1689.65,1.68965
+2005,Jharkhand,Saraykela Kharsawa,1825.09,1.82509
 1999,Jharkhand,Simdega,0,0
 2000,Jharkhand,Simdega,0,0
 2001,Jharkhand,Simdega,0,0
@@ -1279,20 +1264,20 @@ Year,State,District,GDP,GDPKC
 2003,Jharkhand,Simdega,618.16,0.61816
 2004,Jharkhand,Simdega,736.35,0.73635
 2005,Jharkhand,Simdega,720.8,0.7208
-1999,Jharkhand,Singhbhum.East,3370.58,3.37058
-2000,Jharkhand,Singhbhum.East,3031.84,3.03184
-2001,Jharkhand,Singhbhum.East,3235.7,3.2357
-2002,Jharkhand,Singhbhum.East,3655.86,3.65586
-2003,Jharkhand,Singhbhum.East,4129.71,4.12971
-2004,Jharkhand,Singhbhum.East,5052.44,5.05244
-2005,Jharkhand,Singhbhum.East,5590.38,5.59038
-1999,Jharkhand,Singhbhum.West,2831.92,2.83192
-2000,Jharkhand,Singhbhum.West,2570.15,2.57015
-2001,Jharkhand,Singhbhum.West,2836.27,2.83627
-2002,Jharkhand,Singhbhum.West,1830.04,1.83004
-2003,Jharkhand,Singhbhum.West,2049.09,2.04909
-2004,Jharkhand,Singhbhum.West,2466.64,2.46664
-2005,Jharkhand,Singhbhum.West,2580.12,2.58012
+1999,Jharkhand,East Singhbhum,3370.58,3.37058
+2000,Jharkhand,East Singhbhum,3031.84,3.03184
+2001,Jharkhand,East Singhbhum,3235.7,3.2357
+2002,Jharkhand,East Singhbhum,3655.86,3.65586
+2003,Jharkhand,East Singhbhum,4129.71,4.12971
+2004,Jharkhand,East Singhbhum,5052.44,5.05244
+2005,Jharkhand,East Singhbhum,5590.38,5.59038
+1999,Jharkhand,West Singhbhum,2831.92,2.83192
+2000,Jharkhand,West Singhbhum,2570.15,2.57015
+2001,Jharkhand,West Singhbhum,2836.27,2.83627
+2002,Jharkhand,West Singhbhum,1830.04,1.83004
+2003,Jharkhand,West Singhbhum,2049.09,2.04909
+2004,Jharkhand,West Singhbhum,2466.64,2.46664
+2005,Jharkhand,West Singhbhum,2580.12,2.58012
 2004,ANDHRA PRADESH,Adilabad,6527.41,6.52741
 2005,ANDHRA PRADESH,Adilabad,7058.6,7.0586
 2006,ANDHRA PRADESH,Adilabad,8300.56,8.30056
@@ -1320,24 +1305,24 @@ Year,State,District,GDP,GDPKC
 2010,ANDHRA PRADESH,Chittoor,22257,22.257
 2011,ANDHRA PRADESH,Chittoor,26862,26.862
 2012,ANDHRA PRADESH,Chittoor,30593,30.593
-2004,ANDHRA PRADESH,Godavari.East,17289.9,17.2899
-2005,ANDHRA PRADESH,Godavari.East,16827.15,16.82715
-2006,ANDHRA PRADESH,Godavari.East,20208.88,20.20888
-2007,ANDHRA PRADESH,Godavari.East,24081.05,24.08105
-2008,ANDHRA PRADESH,Godavari.East,27446.05,27.44605
-2009,ANDHRA PRADESH,Godavari.East,31687,31.687
-2010,ANDHRA PRADESH,Godavari.East,34374,34.374
-2011,ANDHRA PRADESH,Godavari.East,38600,38.6
-2012,ANDHRA PRADESH,Godavari.East,44254,44.254
-2004,ANDHRA PRADESH,Godavari.West,12704.42,12.70442
-2005,ANDHRA PRADESH,Godavari.West,12791.82,12.79182
-2006,ANDHRA PRADESH,Godavari.West,14156.37,14.15637
-2007,ANDHRA PRADESH,Godavari.West,17473.1,17.4731
-2008,ANDHRA PRADESH,Godavari.West,18552.27,18.55227
-2009,ANDHRA PRADESH,Godavari.West,22711,22.711
-2010,ANDHRA PRADESH,Godavari.West,28340,28.34
-2011,ANDHRA PRADESH,Godavari.West,30692,30.692
-2012,ANDHRA PRADESH,Godavari.West,35456,35.456
+2004,ANDHRA PRADESH,East Godavari,17289.9,17.2899
+2005,ANDHRA PRADESH,East Godavari,16827.15,16.82715
+2006,ANDHRA PRADESH,East Godavari,20208.88,20.20888
+2007,ANDHRA PRADESH,East Godavari,24081.05,24.08105
+2008,ANDHRA PRADESH,East Godavari,27446.05,27.44605
+2009,ANDHRA PRADESH,East Godavari,31687,31.687
+2010,ANDHRA PRADESH,East Godavari,34374,34.374
+2011,ANDHRA PRADESH,East Godavari,38600,38.6
+2012,ANDHRA PRADESH,East Godavari,44254,44.254
+2004,ANDHRA PRADESH,West Godavari,12704.42,12.70442
+2005,ANDHRA PRADESH,West Godavari,12791.82,12.79182
+2006,ANDHRA PRADESH,West Godavari,14156.37,14.15637
+2007,ANDHRA PRADESH,West Godavari,17473.1,17.4731
+2008,ANDHRA PRADESH,West Godavari,18552.27,18.55227
+2009,ANDHRA PRADESH,West Godavari,22711,22.711
+2010,ANDHRA PRADESH,West Godavari,28340,28.34
+2011,ANDHRA PRADESH,West Godavari,30692,30.692
+2012,ANDHRA PRADESH,West Godavari,35456,35.456
 2004,ANDHRA PRADESH,Guntur,11878.6,11.8786
 2005,ANDHRA PRADESH,Guntur,14374.44,14.37444
 2006,ANDHRA PRADESH,Guntur,16183.82,16.18382
@@ -1401,15 +1386,15 @@ Year,State,District,GDP,GDPKC
 2010,ANDHRA PRADESH,Kurnool,21199,21.199
 2011,ANDHRA PRADESH,Kurnool,22657,22.657
 2012,ANDHRA PRADESH,Kurnool,25963,25.963
-2004,ANDHRA PRADESH,Mahabubnagar,7107.02,7.10702
-2005,ANDHRA PRADESH,Mahabubnagar,8880.44,8.88044
-2006,ANDHRA PRADESH,Mahabubnagar,9501.84,9.50184
-2007,ANDHRA PRADESH,Mahabubnagar,11879.77,11.87977
-2008,ANDHRA PRADESH,Mahabubnagar,14006.14,14.00614
-2009,ANDHRA PRADESH,Mahabubnagar,16593,16.593
-2010,ANDHRA PRADESH,Mahabubnagar,20428,20.428
-2011,ANDHRA PRADESH,Mahabubnagar,22480,22.48
-2012,ANDHRA PRADESH,Mahabubnagar,25814,25.814
+2004,ANDHRA PRADESH,Mahbubnagar,7107.02,7.10702
+2005,ANDHRA PRADESH,Mahbubnagar,8880.44,8.88044
+2006,ANDHRA PRADESH,Mahbubnagar,9501.84,9.50184
+2007,ANDHRA PRADESH,Mahbubnagar,11879.77,11.87977
+2008,ANDHRA PRADESH,Mahbubnagar,14006.14,14.00614
+2009,ANDHRA PRADESH,Mahbubnagar,16593,16.593
+2010,ANDHRA PRADESH,Mahbubnagar,20428,20.428
+2011,ANDHRA PRADESH,Mahbubnagar,22480,22.48
+2012,ANDHRA PRADESH,Mahbubnagar,25814,25.814
 2004,ANDHRA PRADESH,Medak,8906.57,8.90657
 2005,ANDHRA PRADESH,Medak,10613.4,10.6134
 2006,ANDHRA PRADESH,Medak,13879.77,13.87977
@@ -1509,14 +1494,14 @@ Year,State,District,GDP,GDPKC
 2009,Assam,Dhemaji,1401.33,1.40133
 2009,Assam,Dhubri,2729.46,2.72946
 2009,Assam,Dibrugarh,6514.42,6.51442
-2009,Assam,Dima.Hasao,1108.39,1.10839
+2009,Assam,Dima Hasao,1108.39,1.10839
 2009,Assam,Goalpara,2227.34,2.22734
 2009,Assam,Golaghat,3372.75,3.37275
 2009,Assam,Hailakandi,1709.11,1.70911
 2009,Assam,Jorhat,4737.05,4.73705
-2009,Assam,Kamrup..Metropolitan.,6877.36,6.87736
-2009,Assam,Kamrup.Rural,5604.65,5.60465
-2009,Assam,Karbi.Anglong,2975.53,2.97553
+2009,Assam,Kamrup  Metropolitan ,6877.36,6.87736
+2009,Assam,Kamrup Rural,5604.65,5.60465
+2009,Assam,Karbi Anglong,2975.53,2.97553
 2009,Assam,Karimganj,3278.82,3.27882
 2009,Assam,Kokrajhar,2957.87,2.95787
 2009,Assam,Lakhimpur,2535.25,2.53525
@@ -1597,13 +1582,13 @@ Year,State,District,GDP,GDPKC
 2008,Bihar,Darbhanga,4224.72,4.22472
 2009,Bihar,Darbhanga,4891.51,4.89151
 2010,Bihar,Darbhanga,6541.08,6.54108
-2004,Bihar,East.Champaran,2702.3,2.7023
-2005,Bihar,East.Champaran,2809.42,2.80942
-2006,Bihar,East.Champaran,3427.38,3.42738
-2007,Bihar,East.Champaran,3369.73,3.36973
-2008,Bihar,East.Champaran,5119.15,5.11915
-2009,Bihar,East.Champaran,4996.7,4.9967
-2010,Bihar,East.Champaran,6643.9,6.6439
+2004,Bihar,East Champaran,2702.3,2.7023
+2005,Bihar,East Champaran,2809.42,2.80942
+2006,Bihar,East Champaran,3427.38,3.42738
+2007,Bihar,East Champaran,3369.73,3.36973
+2008,Bihar,East Champaran,5119.15,5.11915
+2009,Bihar,East Champaran,4996.7,4.9967
+2010,Bihar,East Champaran,6643.9,6.6439
 2004,Bihar,Gaya,2600.79,2.60079
 2005,Bihar,Gaya,2851.81,2.85181
 2006,Bihar,Gaya,3600.7,3.6007
@@ -1786,25 +1771,25 @@ Year,State,District,GDP,GDPKC
 2008,Bihar,Vaishali,3871.03,3.87103
 2009,Bihar,Vaishali,4326.92,4.32692
 2010,Bihar,Vaishali,5559.69,5.55969
-2004,Bihar,West.Champaran,2506.85,2.50685
-2005,Bihar,West.Champaran,2742.1,2.7421
-2006,Bihar,West.Champaran,3498.02,3.49802
-2007,Bihar,West.Champaran,3568.34,3.56834
-2008,Bihar,West.Champaran,4605.11,4.60511
-2009,Bihar,West.Champaran,5320.54,5.32054
-2010,Bihar,West.Champaran,6604.62,6.60462
-2007,Karnataka,Bagalkote,5903,5.903
-2008,Karnataka,Bagalkote,6521,6.521
-2009,Karnataka,Bagalkote,6633,6.633
-2010,Karnataka,Bagalkote,8146,8.146
-2007,Karnataka,Bangalore.Rural,5739,5.739
-2008,Karnataka,Bangalore.Rural,6332,6.332
-2009,Karnataka,Bangalore.Rural,9039,9.039
-2010,Karnataka,Bangalore.Rural,10278,10.278
-2007,Karnataka,Bangalore.Urban,90753,90.753
-2008,Karnataka,Bangalore.Urban,102183,102.183
-2009,Karnataka,Bangalore.Urban,117356,117.356
-2010,Karnataka,Bangalore.Urban,128197,128.197
+2004,Bihar,West Champaran,2506.85,2.50685
+2005,Bihar,West Champaran,2742.1,2.7421
+2006,Bihar,West Champaran,3498.02,3.49802
+2007,Bihar,West Champaran,3568.34,3.56834
+2008,Bihar,West Champaran,4605.11,4.60511
+2009,Bihar,West Champaran,5320.54,5.32054
+2010,Bihar,West Champaran,6604.62,6.60462
+2007,Karnataka,Bagalkot,5903,5.903
+2008,Karnataka,Bagalkot,6521,6.521
+2009,Karnataka,Bagalkot,6633,6.633
+2010,Karnataka,Bagalkot,8146,8.146
+2007,Karnataka,Bangalore Rural,5739,5.739
+2008,Karnataka,Bangalore Rural,6332,6.332
+2009,Karnataka,Bangalore Rural,9039,9.039
+2010,Karnataka,Bangalore Rural,10278,10.278
+2007,Karnataka,Bangalore Urban,90753,90.753
+2008,Karnataka,Bangalore Urban,102183,102.183
+2009,Karnataka,Bangalore Urban,117356,117.356
+2010,Karnataka,Bangalore Urban,128197,128.197
 2007,Karnataka,Belgaum,14704,14.704
 2008,Karnataka,Belgaum,16205,16.205
 2009,Karnataka,Belgaum,18868,18.868
@@ -1825,22 +1810,22 @@ Year,State,District,GDP,GDPKC
 2008,Karnataka,Chamarajanagar,30409,30.409
 2009,Karnataka,Chamarajanagar,3229,3.229
 2010,Karnataka,Chamarajanagar,3757,3.757
-2007,Karnataka,Chickballapur,3744,3.744
-2008,Karnataka,Chickballapur,4135,4.135
-2009,Karnataka,Chickballapur,4251,4.251
-2010,Karnataka,Chickballapur,4652,4.652
-2007,Karnataka,Chickmagalur,4709,4.709
-2008,Karnataka,Chickmagalur,5219,5.219
-2009,Karnataka,Chickmagalur,6132,6.132
-2010,Karnataka,Chickmagalur,7351,7.351
+2007,Karnataka,Chikkaballapura,3744,3.744
+2008,Karnataka,Chikkaballapura,4135,4.135
+2009,Karnataka,Chikkaballapura,4251,4.251
+2010,Karnataka,Chikkaballapura,4652,4.652
+2007,Karnataka,Chikmagalur,4709,4.709
+2008,Karnataka,Chikmagalur,5219,5.219
+2009,Karnataka,Chikmagalur,6132,6.132
+2010,Karnataka,Chikmagalur,7351,7.351
 2007,Karnataka,Chitradurga,5137,5.137
 2008,Karnataka,Chitradurga,5654,5.654
 2009,Karnataka,Chitradurga,6533,6.533
 2010,Karnataka,Chitradurga,8365,8.365
-2007,Karnataka,Dakshina.Kannada,1239,1.239
-2008,Karnataka,Dakshina.Kannada,14012,14.012
-2009,Karnataka,Dakshina.Kannada,17735,17.735
-2010,Karnataka,Dakshina.Kannada,19673,19.673
+2007,Karnataka,Dakshina Kannada,1239,1.239
+2008,Karnataka,Dakshina Kannada,14012,14.012
+2009,Karnataka,Dakshina Kannada,17735,17.735
+2010,Karnataka,Dakshina Kannada,19673,19.673
 2007,Karnataka,Davangere,6627,6.627
 2008,Karnataka,Davangere,7372,7.372
 2009,Karnataka,Davangere,8376,8.376
@@ -1905,14 +1890,12 @@ Year,State,District,GDP,GDPKC
 2008,Karnataka,Udupi,7276,7.276
 2009,Karnataka,Udupi,7998,7.998
 2010,Karnataka,Udupi,9340,9.34
-2007,Karnataka,Uttara.Kannads,5010,5.01
-2008,Karnataka,Uttara.Kannads,5683,5.683
-2009,Karnataka,Uttara.Kannads,6045,6.045
-2010,Karnataka,Uttara.Kannads,7983,7.983
-2007,Karnataka,Yadagiri,NA,NA
-2008,Karnataka,Yadagiri,NA,NA
-2009,Karnataka,Yadagiri,3551,3.551
-2010,Karnataka,Yadagiri,3393,3.393
+2007,Karnataka,Uttara Kannads,5010,5.01
+2008,Karnataka,Uttara Kannads,5683,5.683
+2009,Karnataka,Uttara Kannads,6045,6.045
+2010,Karnataka,Uttara Kannads,7983,7.983
+2009,Karnataka,Yadgir,3551,3.551
+2010,Karnataka,Yadgir,3393,3.393
 2004,Kerala,Alappuzha,7610.28,7.61028
 2005,Kerala,Alappuzha,8780.71,8.78071
 2006,Kerala,Alappuzha,9975.1,9.9751
@@ -2039,14 +2022,14 @@ Year,State,District,GDP,GDPKC
 2010,Kerala,Wayanad,5373.79,5.37379
 2011,Kerala,Wayanad,6234.9,6.2349
 2012,Kerala,Wayanad,6920.95,6.92095
-2005,Maharashtra,Ahmednagar,14105,14.105
-2006,Maharashtra,Ahmednagar,17134,17.134
-2007,Maharashtra,Ahmednagar,20284,20.284
-2008,Maharashtra,Ahmednagar,23708,23.708
-2009,Maharashtra,Ahmednagar,24053,24.053
-2010,Maharashtra,Ahmednagar,32392,32.392
-2011,Maharashtra,Ahmednagar,35430,35.43
-2012,Maharashtra,Ahmednagar,38710,38.71
+2005,Maharashtra,Ahmadnagar,14105,14.105
+2006,Maharashtra,Ahmadnagar,17134,17.134
+2007,Maharashtra,Ahmadnagar,20284,20.284
+2008,Maharashtra,Ahmadnagar,23708,23.708
+2009,Maharashtra,Ahmadnagar,24053,24.053
+2010,Maharashtra,Ahmadnagar,32392,32.392
+2011,Maharashtra,Ahmadnagar,35430,35.43
+2012,Maharashtra,Ahmadnagar,38710,38.71
 2005,Maharashtra,Akola,4589,4.589
 2006,Maharashtra,Akola,5744,5.744
 2007,Maharashtra,Akola,6878,6.878
@@ -2087,14 +2070,14 @@ Year,State,District,GDP,GDPKC
 2010,Maharashtra,Bhandara,7319,7.319
 2011,Maharashtra,Bhandara,8300,8.3
 2012,Maharashtra,Bhandara,9503,9.503
-2005,Maharashtra,Buldhana,4851,4.851
-2006,Maharashtra,Buldhana,5779,5.779
-2007,Maharashtra,Buldhana,7378,7.378
-2008,Maharashtra,Buldhana,9315,9.315
-2009,Maharashtra,Buldhana,10093,10.093
-2010,Maharashtra,Buldhana,12813,12.813
-2011,Maharashtra,Buldhana,13965,13.965
-2012,Maharashtra,Buldhana,15958,15.958
+2005,Maharashtra,Buldana,4851,4.851
+2006,Maharashtra,Buldana,5779,5.779
+2007,Maharashtra,Buldana,7378,7.378
+2008,Maharashtra,Buldana,9315,9.315
+2009,Maharashtra,Buldana,10093,10.093
+2010,Maharashtra,Buldana,12813,12.813
+2011,Maharashtra,Buldana,13965,13.965
+2012,Maharashtra,Buldana,15958,15.958
 2005,Maharashtra,Chandrapur,8424,8.424
 2006,Maharashtra,Chandrapur,8936,8.936
 2007,Maharashtra,Chandrapur,10519,10.519
@@ -2111,14 +2094,14 @@ Year,State,District,GDP,GDPKC
 2010,Maharashtra,Dhule,12437,12.437
 2011,Maharashtra,Dhule,13872,13.872
 2012,Maharashtra,Dhule,15624,15.624
-2005,Maharashtra,Gadchiroli,1991,1.991
-2006,Maharashtra,Gadchiroli,2694,2.694
-2007,Maharashtra,Gadchiroli,2773,2.773
-2008,Maharashtra,Gadchiroli,3682,3.682
-2009,Maharashtra,Gadchiroli,3972,3.972
-2010,Maharashtra,Gadchiroli,4683,4.683
-2011,Maharashtra,Gadchiroli,5989,5.989
-2012,Maharashtra,Gadchiroli,6796,6.796
+2005,Maharashtra,Garhchiroli,1991,1.991
+2006,Maharashtra,Garhchiroli,2694,2.694
+2007,Maharashtra,Garhchiroli,2773,2.773
+2008,Maharashtra,Garhchiroli,3682,3.682
+2009,Maharashtra,Garhchiroli,3972,3.972
+2010,Maharashtra,Garhchiroli,4683,4.683
+2011,Maharashtra,Garhchiroli,5989,5.989
+2012,Maharashtra,Garhchiroli,6796,6.796
 2005,Maharashtra,Gondia,3479,3.479
 2006,Maharashtra,Gondia,4003,4.003
 2007,Maharashtra,Gondia,4894,4.894
@@ -2528,9 +2511,6 @@ Year,State,District,GDP,GDPKC
 2008,Punjab,Amritsar,12932.01,12.93201
 2009,Punjab,Amritsar,14604.45,14.60445
 2010,Punjab,Amritsar,16637.33,16.63733
-2004,Punjab,Barnala,NA,NA
-2005,Punjab,Barnala,NA,NA
-2006,Punjab,Barnala,NA,NA
 2007,Punjab,Barnala,3247.54,3.24754
 2008,Punjab,Barnala,3701.16,3.70116
 2009,Punjab,Barnala,4248.48,4.24848
@@ -2549,13 +2529,13 @@ Year,State,District,GDP,GDPKC
 2008,Punjab,Faridkot,4004,4.004
 2009,Punjab,Faridkot,4351.72,4.35172
 2010,Punjab,Faridkot,4967.76,4.96776
-2004,Punjab,Fatehgarh.Sahib,2467.97,2.46797
-2005,Punjab,Fatehgarh.Sahib,2766.16,2.76616
-2006,Punjab,Fatehgarh.Sahib,3104.92,3.10492
-2007,Punjab,Fatehgarh.Sahib,3812.18,3.81218
-2008,Punjab,Fatehgarh.Sahib,4253.53,4.25353
-2009,Punjab,Fatehgarh.Sahib,5354.42,5.35442
-2010,Punjab,Fatehgarh.Sahib,5494.78,5.49478
+2004,Punjab,Fatehgarh Sahib,2467.97,2.46797
+2005,Punjab,Fatehgarh Sahib,2766.16,2.76616
+2006,Punjab,Fatehgarh Sahib,3104.92,3.10492
+2007,Punjab,Fatehgarh Sahib,3812.18,3.81218
+2008,Punjab,Fatehgarh Sahib,4253.53,4.25353
+2009,Punjab,Fatehgarh Sahib,5354.42,5.35442
+2010,Punjab,Fatehgarh Sahib,5494.78,5.49478
 2004,Punjab,Firozepur,6248.08,6.24808
 2005,Punjab,Firozepur,7072.82,7.07282
 2006,Punjab,Firozepur,8152.1,8.1521
@@ -2633,13 +2613,11 @@ Year,State,District,GDP,GDPKC
 2008,Punjab,Roopnagar,4423.44,4.42344
 2009,Punjab,Roopnagar,4926.44,4.92644
 2010,Punjab,Roopnagar,5662.04,5.66204
-2004,Punjab,Sahibzada.Ajit.Singh.Nagar,NA,NA
-2005,Punjab,Sahibzada.Ajit.Singh.Nagar,NA,NA
-2006,Punjab,Sahibzada.Ajit.Singh.Nagar,3272.93,3.27293
-2007,Punjab,Sahibzada.Ajit.Singh.Nagar,4510.45,4.51045
-2008,Punjab,Sahibzada.Ajit.Singh.Nagar,5221.52,5.22152
-2009,Punjab,Sahibzada.Ajit.Singh.Nagar,6465.47,6.46547
-2010,Punjab,Sahibzada.Ajit.Singh.Nagar,7146.18,7.14618
+2006,Punjab,Sahibzada Ajit Singh Nagar,3272.93,3.27293
+2007,Punjab,Sahibzada Ajit Singh Nagar,4510.45,4.51045
+2008,Punjab,Sahibzada Ajit Singh Nagar,5221.52,5.22152
+2009,Punjab,Sahibzada Ajit Singh Nagar,6465.47,6.46547
+2010,Punjab,Sahibzada Ajit Singh Nagar,7146.18,7.14618
 2004,Punjab,Sangrur,8192.58,8.19258
 2005,Punjab,Sangrur,8984.33,8.98433
 2006,Punjab,Sangrur,10668.87,10.66887
@@ -2647,20 +2625,18 @@ Year,State,District,GDP,GDPKC
 2008,Punjab,Sangrur,10826.28,10.82628
 2009,Punjab,Sangrur,12138.52,12.13852
 2010,Punjab,Sangrur,13855.69,13.85569
-2004,Punjab,Shahid.Bhagat.Singh.Nagar,3003.19,3.00319
-2005,Punjab,Shahid.Bhagat.Singh.Nagar,3109.56,3.10956
-2006,Punjab,Shahid.Bhagat.Singh.Nagar,3808.98,3.80898
-2007,Punjab,Shahid.Bhagat.Singh.Nagar,4596.61,4.59661
-2008,Punjab,Shahid.Bhagat.Singh.Nagar,5128.14,5.12814
-2009,Punjab,Shahid.Bhagat.Singh.Nagar,6213.61,6.21361
-2010,Punjab,Shahid.Bhagat.Singh.Nagar,6905.75,6.90575
-2004,Punjab,Taran.Tarn,NA,NA
-2005,Punjab,Taran.Tarn,NA,NA
-2006,Punjab,Taran.Tarn,4339.37,4.33937
-2007,Punjab,Taran.Tarn,5650.91,5.65091
-2008,Punjab,Taran.Tarn,6386.72,6.38672
-2009,Punjab,Taran.Tarn,7056.19,7.05619
-2010,Punjab,Taran.Tarn,8168.73,8.16873
+2004,Punjab,Shahid Bhagat Singh Nagar,3003.19,3.00319
+2005,Punjab,Shahid Bhagat Singh Nagar,3109.56,3.10956
+2006,Punjab,Shahid Bhagat Singh Nagar,3808.98,3.80898
+2007,Punjab,Shahid Bhagat Singh Nagar,4596.61,4.59661
+2008,Punjab,Shahid Bhagat Singh Nagar,5128.14,5.12814
+2009,Punjab,Shahid Bhagat Singh Nagar,6213.61,6.21361
+2010,Punjab,Shahid Bhagat Singh Nagar,6905.75,6.90575
+2006,Punjab,Taran Tarn,4339.37,4.33937
+2007,Punjab,Taran Tarn,5650.91,5.65091
+2008,Punjab,Taran Tarn,6386.72,6.38672
+2009,Punjab,Taran Tarn,7056.19,7.05619
+2010,Punjab,Taran Tarn,8168.73,8.16873
 2004,Rajasthan,Ajmer,5493.87,5.49387
 2005,Rajasthan,Ajmer,6832.92,6.83292
 2006,Rajasthan,Ajmer,8493.64,8.49364
@@ -2715,12 +2691,12 @@ Year,State,District,GDP,GDPKC
 2007,Rajasthan,Bundi,3456.96,3.45696
 2008,Rajasthan,Bundi,4167.24,4.16724
 2009,Rajasthan,Bundi,4572.76,4.57276
-2004,Rajasthan,Chittorgarh,4014.97,4.01497
-2005,Rajasthan,Chittorgarh,4360.39,4.36039
-2006,Rajasthan,Chittorgarh,5560.74,5.56074
-2007,Rajasthan,Chittorgarh,5854.12,5.85412
-2008,Rajasthan,Chittorgarh,5424.79,5.42479
-2009,Rajasthan,Chittorgarh,6120.6,6.1206
+2004,Rajasthan,Chittaurgarh,4014.97,4.01497
+2005,Rajasthan,Chittaurgarh,4360.39,4.36039
+2006,Rajasthan,Chittaurgarh,5560.74,5.56074
+2007,Rajasthan,Chittaurgarh,5854.12,5.85412
+2008,Rajasthan,Chittaurgarh,5424.79,5.42479
+2009,Rajasthan,Chittaurgarh,6120.6,6.1206
 2004,Rajasthan,Churu,2759.54,2.75954
 2005,Rajasthan,Churu,2916.99,2.91699
 2006,Rajasthan,Churu,3382.33,3.38233
@@ -2745,12 +2721,12 @@ Year,State,District,GDP,GDPKC
 2007,Rajasthan,Dungarpur,2702.74,2.70274
 2008,Rajasthan,Dungarpur,2882.48,2.88248
 2009,Rajasthan,Dungarpur,3332.97,3.33297
-2004,Rajasthan,Ganga.Nagar,4638.99,4.63899
-2005,Rajasthan,Ganga.Nagar,5231.58,5.23158
-2006,Rajasthan,Ganga.Nagar,6469.19,6.46919
-2007,Rajasthan,Ganga.Nagar,7016.58,7.01658
-2008,Rajasthan,Ganga.Nagar,9647.99,9.64799
-2009,Rajasthan,Ganga.Nagar,10118.38,10.11838
+2004,Rajasthan,Ganga Nagar,4638.99,4.63899
+2005,Rajasthan,Ganga Nagar,5231.58,5.23158
+2006,Rajasthan,Ganga Nagar,6469.19,6.46919
+2007,Rajasthan,Ganga Nagar,7016.58,7.01658
+2008,Rajasthan,Ganga Nagar,9647.99,9.64799
+2009,Rajasthan,Ganga Nagar,10118.38,10.11838
 2004,Rajasthan,Hanumangarh,3577.26,3.57726
 2005,Rajasthan,Hanumangarh,4277.76,4.27776
 2006,Rajasthan,Hanumangarh,4856.81,4.85681
@@ -2817,10 +2793,6 @@ Year,State,District,GDP,GDPKC
 2007,Rajasthan,Pali,6876.46,6.87646
 2008,Rajasthan,Pali,7250.37,7.25037
 2009,Rajasthan,Pali,8402.52,8.40252
-2004,Rajasthan,Pratapgarh,NA,NA
-2005,Rajasthan,Pratapgarh,NA,NA
-2006,Rajasthan,Pratapgarh,NA,NA
-2007,Rajasthan,Pratapgarh,NA,NA
 2008,Rajasthan,Pratapgarh,2586.07,2.58607
 2009,Rajasthan,Pratapgarh,3093.33,3.09333
 2004,Rajasthan,Rajsamand,2217.31,2.21731
@@ -2829,12 +2801,12 @@ Year,State,District,GDP,GDPKC
 2007,Rajasthan,Rajsamand,3560.38,3.56038
 2008,Rajasthan,Rajsamand,4066.45,4.06645
 2009,Rajasthan,Rajsamand,4712.64,4.71264
-2004,Rajasthan,Sawai.Madhopur,2190.92,2.19092
-2005,Rajasthan,Sawai.Madhopur,2439.28,2.43928
-2006,Rajasthan,Sawai.Madhopur,2810.46,2.81046
-2007,Rajasthan,Sawai.Madhopur,3212.66,3.21266
-2008,Rajasthan,Sawai.Madhopur,3846.32,3.84632
-2009,Rajasthan,Sawai.Madhopur,4560.81,4.56081
+2004,Rajasthan,Sawai Madhopur,2190.92,2.19092
+2005,Rajasthan,Sawai Madhopur,2439.28,2.43928
+2006,Rajasthan,Sawai Madhopur,2810.46,2.81046
+2007,Rajasthan,Sawai Madhopur,3212.66,3.21266
+2008,Rajasthan,Sawai Madhopur,3846.32,3.84632
+2009,Rajasthan,Sawai Madhopur,4560.81,4.56081
 2004,Rajasthan,Sikar,4363.38,4.36338
 2005,Rajasthan,Sikar,4679.82,4.67982
 2006,Rajasthan,Sikar,5490.26,5.49026
@@ -2883,20 +2855,14 @@ Year,State,District,GDP,GDPKC
 2009,UP,Allahabad,14955.24,14.95524
 2010,UP,Allahabad,18687.57,18.68757
 2011,UP,Allahabad,20138.55,20.13855
-2004,UP,Ambedkar.Nagar,1830.48,1.83048
-2005,UP,Ambedkar.Nagar,2351.66,2.35166
-2006,UP,Ambedkar.Nagar,2627.9,2.6279
-2007,UP,Ambedkar.Nagar,3118.18,3.11818
-2008,UP,Ambedkar.Nagar,3645.23,3.64523
-2009,UP,Ambedkar.Nagar,4214.36,4.21436
-2010,UP,Ambedkar.Nagar,4953.7,4.9537
-2011,UP,Ambedkar.Nagar,5368.7,5.3687
-2004,UP,Amethi,NA,NA
-2005,UP,Amethi,NA,NA
-2006,UP,Amethi,NA,NA
-2007,UP,Amethi,NA,NA
-2008,UP,Amethi,NA,NA
-2009,UP,Amethi,NA,NA
+2004,UP,Ambedkar Nagar,1830.48,1.83048
+2005,UP,Ambedkar Nagar,2351.66,2.35166
+2006,UP,Ambedkar Nagar,2627.9,2.6279
+2007,UP,Ambedkar Nagar,3118.18,3.11818
+2008,UP,Ambedkar Nagar,3645.23,3.64523
+2009,UP,Ambedkar Nagar,4214.36,4.21436
+2010,UP,Ambedkar Nagar,4953.7,4.9537
+2011,UP,Ambedkar Nagar,5368.7,5.3687
 2010,UP,Amethi,4285.24,4.28524
 2011,UP,Amethi,5504.52,5.50452
 2004,UP,Amorha,3462.8,3.4628
@@ -3003,14 +2969,14 @@ Year,State,District,GDP,GDPKC
 2009,UP,Bijnor,13658.35,13.65835
 2010,UP,Bijnor,14373.31,14.37331
 2011,UP,Bijnor,15405.8,15.4058
-2004,UP,Buland.Shahar,6377.36,6.37736
-2005,UP,Buland.Shahar,7003.02,7.00302
-2006,UP,Buland.Shahar,8248.99,8.24899
-2007,UP,Buland.Shahar,9425.56,9.42556
-2008,UP,Buland.Shahar,10787.32,10.78732
-2009,UP,Buland.Shahar,12854.54,12.85454
-2010,UP,Buland.Shahar,14705.35,14.70535
-2011,UP,Buland.Shahar,16838.97,16.83897
+2004,UP,Buland Shahar,6377.36,6.37736
+2005,UP,Buland Shahar,7003.02,7.00302
+2006,UP,Buland Shahar,8248.99,8.24899
+2007,UP,Buland Shahar,9425.56,9.42556
+2008,UP,Buland Shahar,10787.32,10.78732
+2009,UP,Buland Shahar,12854.54,12.85454
+2010,UP,Buland Shahar,14705.35,14.70535
+2011,UP,Buland Shahar,16838.97,16.83897
 2004,UP,Chandauli,1951.9,1.9519
 2005,UP,Chandauli,2439.71,2.43971
 2006,UP,Chandauli,2969.75,2.96975
@@ -3083,14 +3049,14 @@ Year,State,District,GDP,GDPKC
 2009,UP,Firozabad,6315.28,6.31528
 2010,UP,Firozabad,7200.6,7.2006
 2011,UP,Firozabad,7985.95,7.98595
-2004,UP,Gautambudh.nagar,7174.43,7.17443
-2005,UP,Gautambudh.nagar,7914.57,7.91457
-2006,UP,Gautambudh.nagar,13076.16,13.07616
-2007,UP,Gautambudh.nagar,14865.54,14.86554
-2008,UP,Gautambudh.nagar,16506.03,16.50603
-2009,UP,Gautambudh.nagar,18165.05,18.16505
-2010,UP,Gautambudh.nagar,18681.08,18.68108
-2011,UP,Gautambudh.nagar,24697.46,24.69746
+2004,UP,Gautambudh nagar,7174.43,7.17443
+2005,UP,Gautambudh nagar,7914.57,7.91457
+2006,UP,Gautambudh nagar,13076.16,13.07616
+2007,UP,Gautambudh nagar,14865.54,14.86554
+2008,UP,Gautambudh nagar,16506.03,16.50603
+2009,UP,Gautambudh nagar,18165.05,18.16505
+2010,UP,Gautambudh nagar,18681.08,18.68108
+2011,UP,Gautambudh nagar,24697.46,24.69746
 2004,UP,Ghaziabad,8682.79,8.68279
 2005,UP,Ghaziabad,10203.91,10.20391
 2006,UP,Ghaziabad,12832.91,12.83291
@@ -3179,30 +3145,30 @@ Year,State,District,GDP,GDPKC
 2009,UP,Kannauj,3599.23,3.59923
 2010,UP,Kannauj,4386.65,4.38665
 2011,UP,Kannauj,4679.84,4.67984
-2004,UP,Kanpur.Dehat,1921.69,1.92169
-2005,UP,Kanpur.Dehat,2403.8,2.4038
-2006,UP,Kanpur.Dehat,2683.9,2.6839
-2007,UP,Kanpur.Dehat,3043.52,3.04352
-2008,UP,Kanpur.Dehat,3767.46,3.76746
-2009,UP,Kanpur.Dehat,4125.76,4.12576
-2010,UP,Kanpur.Dehat,4734.94,4.73494
-2011,UP,Kanpur.Dehat,5415.75,5.41575
-2004,UP,Kanpur.Nagar,9347.86,9.34786
-2005,UP,Kanpur.Nagar,10760.32,10.76032
-2006,UP,Kanpur.Nagar,12573.44,12.57344
-2007,UP,Kanpur.Nagar,14302.22,14.30222
-2008,UP,Kanpur.Nagar,16679.95,16.67995
-2009,UP,Kanpur.Nagar,20208.67,20.20867
-2010,UP,Kanpur.Nagar,23681.13,23.68113
-2011,UP,Kanpur.Nagar,25534.38,25.53438
-2004,UP,Kanshiram.Nagar,0,0
-2005,UP,Kanshiram.Nagar,0,0
-2006,UP,Kanshiram.Nagar,0,0
-2007,UP,Kanshiram.Nagar,0,0
-2008,UP,Kanshiram.Nagar,3070.43,3.07043
-2009,UP,Kanshiram.Nagar,3903.05,3.90305
-2010,UP,Kanshiram.Nagar,4437.76,4.43776
-2011,UP,Kanshiram.Nagar,5997.13,5.99713
+2004,UP,Kanpur Dehat,1921.69,1.92169
+2005,UP,Kanpur Dehat,2403.8,2.4038
+2006,UP,Kanpur Dehat,2683.9,2.6839
+2007,UP,Kanpur Dehat,3043.52,3.04352
+2008,UP,Kanpur Dehat,3767.46,3.76746
+2009,UP,Kanpur Dehat,4125.76,4.12576
+2010,UP,Kanpur Dehat,4734.94,4.73494
+2011,UP,Kanpur Dehat,5415.75,5.41575
+2004,UP,Kanpur Nagar,9347.86,9.34786
+2005,UP,Kanpur Nagar,10760.32,10.76032
+2006,UP,Kanpur Nagar,12573.44,12.57344
+2007,UP,Kanpur Nagar,14302.22,14.30222
+2008,UP,Kanpur Nagar,16679.95,16.67995
+2009,UP,Kanpur Nagar,20208.67,20.20867
+2010,UP,Kanpur Nagar,23681.13,23.68113
+2011,UP,Kanpur Nagar,25534.38,25.53438
+2004,UP,Kanshiram Nagar,0,0
+2005,UP,Kanshiram Nagar,0,0
+2006,UP,Kanshiram Nagar,0,0
+2007,UP,Kanshiram Nagar,0,0
+2008,UP,Kanshiram Nagar,3070.43,3.07043
+2009,UP,Kanshiram Nagar,3903.05,3.90305
+2010,UP,Kanshiram Nagar,4437.76,4.43776
+2011,UP,Kanshiram Nagar,5997.13,5.99713
 2004,UP,Kaushambi,1482.85,1.48285
 2005,UP,Kaushambi,1990.94,1.99094
 2006,UP,Kaushambi,2073.97,2.07397
@@ -3219,14 +3185,14 @@ Year,State,District,GDP,GDPKC
 2009,UP,Kheri,9470.33,9.47033
 2010,UP,Kheri,10129.55,10.12955
 2011,UP,Kheri,13662.32,13.66232
-2004,UP,Kushi.Nagar,2559.14,2.55914
-2005,UP,Kushi.Nagar,3076.73,3.07673
-2006,UP,Kushi.Nagar,3452.85,3.45285
-2007,UP,Kushi.Nagar,3981.21,3.98121
-2008,UP,Kushi.Nagar,4641.27,4.64127
-2009,UP,Kushi.Nagar,5237.22,5.23722
-2010,UP,Kushi.Nagar,6031.9,6.0319
-2011,UP,Kushi.Nagar,7179.79,7.17979
+2004,UP,Kushi Nagar,2559.14,2.55914
+2005,UP,Kushi Nagar,3076.73,3.07673
+2006,UP,Kushi Nagar,3452.85,3.45285
+2007,UP,Kushi Nagar,3981.21,3.98121
+2008,UP,Kushi Nagar,4641.27,4.64127
+2009,UP,Kushi Nagar,5237.22,5.23722
+2010,UP,Kushi Nagar,6031.9,6.0319
+2011,UP,Kushi Nagar,7179.79,7.17979
 2004,UP,Lalitpur,1333.26,1.33326
 2005,UP,Lalitpur,1628.09,1.62809
 2006,UP,Lalitpur,2086.47,2.08647
@@ -3243,14 +3209,14 @@ Year,State,District,GDP,GDPKC
 2009,UP,Lucknow,20361.08,20.36108
 2010,UP,Lucknow,23551.4,23.5514
 2011,UP,Lucknow,25991.49,25.99149
-2004,UP,Maharaj.Ganj,1945.7,1.9457
-2005,UP,Maharaj.Ganj,2265.84,2.26584
-2006,UP,Maharaj.Ganj,2671.47,2.67147
-2007,UP,Maharaj.Ganj,2958.67,2.95867
-2008,UP,Maharaj.Ganj,3501.93,3.50193
-2009,UP,Maharaj.Ganj,4160.57,4.16057
-2010,UP,Maharaj.Ganj,4924.27,4.92427
-2011,UP,Maharaj.Ganj,5315.4,5.3154
+2004,UP,Maharaj Ganj,1945.7,1.9457
+2005,UP,Maharaj Ganj,2265.84,2.26584
+2006,UP,Maharaj Ganj,2671.47,2.67147
+2007,UP,Maharaj Ganj,2958.67,2.95867
+2008,UP,Maharaj Ganj,3501.93,3.50193
+2009,UP,Maharaj Ganj,4160.57,4.16057
+2010,UP,Maharaj Ganj,4924.27,4.92427
+2011,UP,Maharaj Ganj,5315.4,5.3154
 2004,UP,Mahoba,1326.01,1.32601
 2005,UP,Mahoba,1319.13,1.31913
 2006,UP,Mahoba,1523.84,1.52384
@@ -3323,22 +3289,22 @@ Year,State,District,GDP,GDPKC
 2009,UP,Pilibhit,6332.22,6.33222
 2010,UP,Pilibhit,7451.19,7.45119
 2011,UP,Pilibhit,7704.88,7.70488
-2004,UP,Pratap.Garh,2005.14,2.00514
-2005,UP,Pratap.Garh,2715.6,2.7156
-2006,UP,Pratap.Garh,3008.17,3.00817
-2007,UP,Pratap.Garh,3435.19,3.43519
-2008,UP,Pratap.Garh,4032.73,4.03273
-2009,UP,Pratap.Garh,4786.47,4.78647
-2010,UP,Pratap.Garh,6111.25,6.11125
-2011,UP,Pratap.Garh,6177.95,6.17795
-2004,UP,Rae.Bareli,2965.01,2.96501
-2005,UP,Rae.Bareli,3770.8,3.7708
-2006,UP,Rae.Bareli,4215.52,4.21552
-2007,UP,Rae.Bareli,4698.76,4.69876
-2008,UP,Rae.Bareli,5062,5.062
-2009,UP,Rae.Bareli,5937.38,5.93738
-2010,UP,Rae.Bareli,5171.31,5.17131
-2011,UP,Rae.Bareli,5723.85,5.72385
+2004,UP,Pratap Garh,2005.14,2.00514
+2005,UP,Pratap Garh,2715.6,2.7156
+2006,UP,Pratap Garh,3008.17,3.00817
+2007,UP,Pratap Garh,3435.19,3.43519
+2008,UP,Pratap Garh,4032.73,4.03273
+2009,UP,Pratap Garh,4786.47,4.78647
+2010,UP,Pratap Garh,6111.25,6.11125
+2011,UP,Pratap Garh,6177.95,6.17795
+2004,UP,Rae Bareli,2965.01,2.96501
+2005,UP,Rae Bareli,3770.8,3.7708
+2006,UP,Rae Bareli,4215.52,4.21552
+2007,UP,Rae Bareli,4698.76,4.69876
+2008,UP,Rae Bareli,5062,5.062
+2009,UP,Rae Bareli,5937.38,5.93738
+2010,UP,Rae Bareli,5171.31,5.17131
+2011,UP,Rae Bareli,5723.85,5.72385
 2004,UP,Rampur,3148.79,3.14879
 2005,UP,Rampur,3271.99,3.27199
 2006,UP,Rampur,3979.68,3.97968
@@ -3355,22 +3321,22 @@ Year,State,District,GDP,GDPKC
 2009,UP,Saharanpur,12289.09,12.28909
 2010,UP,Saharanpur,15134.66,15.13466
 2011,UP,Saharanpur,15163.27,15.16327
-2004,UP,Sant.kabeer.Maharaj.Ganj,1125.05,1.12505
-2005,UP,Sant.kabeer.Maharaj.Ganj,1487.48,1.48748
-2006,UP,Sant.kabeer.Maharaj.Ganj,1443.3,1.4433
-2007,UP,Sant.kabeer.Maharaj.Ganj,1696.41,1.69641
-2008,UP,Sant.kabeer.Maharaj.Ganj,2034.3,2.0343
-2009,UP,Sant.kabeer.Maharaj.Ganj,2486.93,2.48693
-2010,UP,Sant.kabeer.Maharaj.Ganj,2898.73,2.89873
-2011,UP,Sant.kabeer.Maharaj.Ganj,3461.9,3.4619
-2004,UP,Sant.Ravi.Das.Nagar,1639.3,1.6393
-2005,UP,Sant.Ravi.Das.Nagar,1782.79,1.78279
-2006,UP,Sant.Ravi.Das.Nagar,2340.26,2.34026
-2007,UP,Sant.Ravi.Das.Nagar,2663.2,2.6632
-2008,UP,Sant.Ravi.Das.Nagar,3160.42,3.16042
-2009,UP,Sant.Ravi.Das.Nagar,3085.26,3.08526
-2010,UP,Sant.Ravi.Das.Nagar,3608.87,3.60887
-2011,UP,Sant.Ravi.Das.Nagar,4593.65,4.59365
+2004,UP,Sant kabeer Maharaj Ganj,1125.05,1.12505
+2005,UP,Sant kabeer Maharaj Ganj,1487.48,1.48748
+2006,UP,Sant kabeer Maharaj Ganj,1443.3,1.4433
+2007,UP,Sant kabeer Maharaj Ganj,1696.41,1.69641
+2008,UP,Sant kabeer Maharaj Ganj,2034.3,2.0343
+2009,UP,Sant kabeer Maharaj Ganj,2486.93,2.48693
+2010,UP,Sant kabeer Maharaj Ganj,2898.73,2.89873
+2011,UP,Sant kabeer Maharaj Ganj,3461.9,3.4619
+2004,UP,Sant Ravi Das Nagar,1639.3,1.6393
+2005,UP,Sant Ravi Das Nagar,1782.79,1.78279
+2006,UP,Sant Ravi Das Nagar,2340.26,2.34026
+2007,UP,Sant Ravi Das Nagar,2663.2,2.6632
+2008,UP,Sant Ravi Das Nagar,3160.42,3.16042
+2009,UP,Sant Ravi Das Nagar,3085.26,3.08526
+2010,UP,Sant Ravi Das Nagar,3608.87,3.60887
+2011,UP,Sant Ravi Das Nagar,4593.65,4.59365
 2004,UP,Shahjahanpur,3430.92,3.43092
 2005,UP,Shahjahanpur,4013.85,4.01385
 2006,UP,Shahjahanpur,4762.4,4.7624
@@ -3387,14 +3353,14 @@ Year,State,District,GDP,GDPKC
 2009,UP,Shravasti,1710.56,1.71056
 2010,UP,Shravasti,2333.75,2.33375
 2011,UP,Shravasti,2346.03,2.34603
-2004,UP,Siddharth.Nagar,1589.62,1.58962
-2005,UP,Siddharth.Nagar,2251.4,2.2514
-2006,UP,Siddharth.Nagar,2448.07,2.44807
-2007,UP,Siddharth.Nagar,2745.04,2.74504
-2008,UP,Siddharth.Nagar,3159.63,3.15963
-2009,UP,Siddharth.Nagar,3567.44,3.56744
-2010,UP,Siddharth.Nagar,4664.09,4.66409
-2011,UP,Siddharth.Nagar,4913.25,4.91325
+2004,UP,Siddharth Nagar,1589.62,1.58962
+2005,UP,Siddharth Nagar,2251.4,2.2514
+2006,UP,Siddharth Nagar,2448.07,2.44807
+2007,UP,Siddharth Nagar,2745.04,2.74504
+2008,UP,Siddharth Nagar,3159.63,3.15963
+2009,UP,Siddharth Nagar,3567.44,3.56744
+2010,UP,Siddharth Nagar,4664.09,4.66409
+2011,UP,Siddharth Nagar,4913.25,4.91325
 2004,UP,Sitapur,4347.06,4.34706
 2005,UP,Sitapur,5118.65,5.11865
 2006,UP,Sitapur,6442.81,6.44281
@@ -3435,27 +3401,27 @@ Year,State,District,GDP,GDPKC
 2009,UP,Varanasi,8693.22,8.69322
 2010,UP,Varanasi,9992.04,9.99204
 2011,UP,Varanasi,11296.41,11.29641
-1999,Karnataka,Bagalkote,2574.91,2.57491
-2000,Karnataka,Bagalkote,2911.93,2.91193
-2001,Karnataka,Bagalkote,2890.08,2.89008
-2002,Karnataka,Bagalkote,2901.51,2.90151
-2003,Karnataka,Bagalkote,2782.47,2.78247
-2004,Karnataka,Bagalkote,3265.26,3.26526
-2005,Karnataka,Bagalkote,3886.28,3.88628
-1999,Karnataka,Bangalore.Rural,3262.57,3.26257
-2000,Karnataka,Bangalore.Rural,5211.29,5.21129
-2001,Karnataka,Bangalore.Rural,5102.73,5.10273
-2002,Karnataka,Bangalore.Rural,4251.94,4.25194
-2003,Karnataka,Bangalore.Rural,5242.59,5.24259
-2004,Karnataka,Bangalore.Rural,5588.71,5.58871
-2005,Karnataka,Bangalore.Rural,6328.01,6.32801
-1999,Karnataka,Bangalore.Urban,21876.93,21.87693
-2000,Karnataka,Bangalore.Urban,21138.68,21.13868
-2001,Karnataka,Bangalore.Urban,26837.72,26.83772
-2002,Karnataka,Bangalore.Urban,29536.98,29.53698
-2003,Karnataka,Bangalore.Urban,32782.23,32.78223
-2004,Karnataka,Bangalore.Urban,43761.74,43.76174
-2005,Karnataka,Bangalore.Urban,48077.32,48.07732
+1999,Karnataka,Bagalkot,2574.91,2.57491
+2000,Karnataka,Bagalkot,2911.93,2.91193
+2001,Karnataka,Bagalkot,2890.08,2.89008
+2002,Karnataka,Bagalkot,2901.51,2.90151
+2003,Karnataka,Bagalkot,2782.47,2.78247
+2004,Karnataka,Bagalkot,3265.26,3.26526
+2005,Karnataka,Bagalkot,3886.28,3.88628
+1999,Karnataka,Bangalore Rural,3262.57,3.26257
+2000,Karnataka,Bangalore Rural,5211.29,5.21129
+2001,Karnataka,Bangalore Rural,5102.73,5.10273
+2002,Karnataka,Bangalore Rural,4251.94,4.25194
+2003,Karnataka,Bangalore Rural,5242.59,5.24259
+2004,Karnataka,Bangalore Rural,5588.71,5.58871
+2005,Karnataka,Bangalore Rural,6328.01,6.32801
+1999,Karnataka,Bangalore Urban,21876.93,21.87693
+2000,Karnataka,Bangalore Urban,21138.68,21.13868
+2001,Karnataka,Bangalore Urban,26837.72,26.83772
+2002,Karnataka,Bangalore Urban,29536.98,29.53698
+2003,Karnataka,Bangalore Urban,32782.23,32.78223
+2004,Karnataka,Bangalore Urban,43761.74,43.76174
+2005,Karnataka,Bangalore Urban,48077.32,48.07732
 1999,Karnataka,Belgaum,6968.35,6.96835
 2000,Karnataka,Belgaum,8136.9,8.1369
 2001,Karnataka,Belgaum,7281.78,7.28178
@@ -3491,13 +3457,13 @@ Year,State,District,GDP,GDPKC
 2003,Karnataka,Chamarajanagar,1484.6,1.4846
 2004,Karnataka,Chamarajanagar,1603.68,1.60368
 2005,Karnataka,Chamarajanagar,1626.72,1.62672
-1999,Karnataka,Chickmagalur,2491.37,2.49137
-2000,Karnataka,Chickmagalur,2415.51,2.41551
-2001,Karnataka,Chickmagalur,2475,2.475
-2002,Karnataka,Chickmagalur,2536.66,2.53666
-2003,Karnataka,Chickmagalur,2777.05,2.77705
-2004,Karnataka,Chickmagalur,3552.44,3.55244
-2005,Karnataka,Chickmagalur,3821.94,3.82194
+1999,Karnataka,Chikmagalur,2491.37,2.49137
+2000,Karnataka,Chikmagalur,2415.51,2.41551
+2001,Karnataka,Chikmagalur,2475,2.475
+2002,Karnataka,Chikmagalur,2536.66,2.53666
+2003,Karnataka,Chikmagalur,2777.05,2.77705
+2004,Karnataka,Chikmagalur,3552.44,3.55244
+2005,Karnataka,Chikmagalur,3821.94,3.82194
 1999,Karnataka,Chitradurga,2057.89,2.05789
 2000,Karnataka,Chitradurga,2296.96,2.29696
 2001,Karnataka,Chitradurga,2355.51,2.35551
@@ -3505,13 +3471,13 @@ Year,State,District,GDP,GDPKC
 2003,Karnataka,Chitradurga,2593.43,2.59343
 2004,Karnataka,Chitradurga,2769.05,2.76905
 2005,Karnataka,Chitradurga,3245.26,3.24526
-1999,Karnataka,Dakshina.Kannada,4861.86,4.86186
-2000,Karnataka,Dakshina.Kannada,5198.9,5.1989
-2001,Karnataka,Dakshina.Kannada,5862.51,5.86251
-2002,Karnataka,Dakshina.Kannada,7082.56,7.08256
-2003,Karnataka,Dakshina.Kannada,8441.24,8.44124
-2004,Karnataka,Dakshina.Kannada,8539.69,8.53969
-2005,Karnataka,Dakshina.Kannada,8927.16,8.92716
+1999,Karnataka,Dakshina Kannada,4861.86,4.86186
+2000,Karnataka,Dakshina Kannada,5198.9,5.1989
+2001,Karnataka,Dakshina Kannada,5862.51,5.86251
+2002,Karnataka,Dakshina Kannada,7082.56,7.08256
+2003,Karnataka,Dakshina Kannada,8441.24,8.44124
+2004,Karnataka,Dakshina Kannada,8539.69,8.53969
+2005,Karnataka,Dakshina Kannada,8927.16,8.92716
 1999,Karnataka,Davangere,2692.72,2.69272
 2000,Karnataka,Davangere,2773.32,2.77332
 2001,Karnataka,Davangere,2813.42,2.81342
@@ -3617,13 +3583,13 @@ Year,State,District,GDP,GDPKC
 2003,Karnataka,Udupi,3255.55,3.25555
 2004,Karnataka,Udupi,3273.7,3.2737
 2005,Karnataka,Udupi,3538.96,3.53896
-1999,Karnataka,Uttara.Kannada,2454.71,2.45471
-2000,Karnataka,Uttara.Kannada,2303.11,2.30311
-2001,Karnataka,Uttara.Kannada,2580.54,2.58054
-2002,Karnataka,Uttara.Kannada,2520.01,2.52001
-2003,Karnataka,Uttara.Kannada,2873.94,2.87394
-2004,Karnataka,Uttara.Kannada,3068.42,3.06842
-2005,Karnataka,Uttara.Kannada,3419.52,3.41952
+1999,Karnataka,Uttara Kannada,2454.71,2.45471
+2000,Karnataka,Uttara Kannada,2303.11,2.30311
+2001,Karnataka,Uttara Kannada,2580.54,2.58054
+2002,Karnataka,Uttara Kannada,2520.01,2.52001
+2003,Karnataka,Uttara Kannada,2873.94,2.87394
+2004,Karnataka,Uttara Kannada,3068.42,3.06842
+2005,Karnataka,Uttara Kannada,3419.52,3.41952
 1999,Kerala,Alappuzha,4533.9,4.5339
 2000,Kerala,Alappuzha,4809.06,4.80906
 2001,Kerala,Alappuzha,5117.62,5.11762
@@ -3736,15 +3702,15 @@ Year,State,District,GDP,GDPKC
 2004,Kerala,Wyanad,2582.43,2.58243
 2005,Kerala,Wyanad,2820.82,2.82082
 2006,Kerala,Wyanad,3224.19,3.22419
-1999,Maharashtra,Ahmednagar,7680.38,7.68038
-2000,Maharashtra,Ahmednagar,7627.41,7.62741
-2001,Maharashtra,Ahmednagar,8225.56,8.22556
-2002,Maharashtra,Ahmednagar,9122.31,9.12231
-2003,Maharashtra,Ahmednagar,10206.15,10.20615
-2004,Maharashtra,Ahmednagar,11478.18,11.47818
-2005,Maharashtra,Ahmednagar,14105.09,14.10509
-2006,Maharashtra,Ahmednagar,17133.58,17.13358
-2007,Maharashtra,Ahmednagar,20284,20.284
+1999,Maharashtra,Ahmadnagar,7680.38,7.68038
+2000,Maharashtra,Ahmadnagar,7627.41,7.62741
+2001,Maharashtra,Ahmadnagar,8225.56,8.22556
+2002,Maharashtra,Ahmadnagar,9122.31,9.12231
+2003,Maharashtra,Ahmadnagar,10206.15,10.20615
+2004,Maharashtra,Ahmadnagar,11478.18,11.47818
+2005,Maharashtra,Ahmadnagar,14105.09,14.10509
+2006,Maharashtra,Ahmadnagar,17133.58,17.13358
+2007,Maharashtra,Ahmadnagar,20284,20.284
 1999,Maharashtra,Akola,2970.06,2.97006
 2000,Maharashtra,Akola,3096.8,3.0968
 2001,Maharashtra,Akola,3209.03,3.20903
@@ -3790,15 +3756,15 @@ Year,State,District,GDP,GDPKC
 2005,Maharashtra,Bhandara,3784.22,3.78422
 2006,Maharashtra,Bhandara,4296.06,4.29606
 2007,Maharashtra,Bhandara,5322,5.322
-1999,Maharashtra,Buldhana,2980.02,2.98002
-2000,Maharashtra,Buldhana,2745.87,2.74587
-2001,Maharashtra,Buldhana,3206.3,3.2063
-2002,Maharashtra,Buldhana,3576,3.576
-2003,Maharashtra,Buldhana,3930.48,3.93048
-2004,Maharashtra,Buldhana,3976.06,3.97606
-2005,Maharashtra,Buldhana,4850.99,4.85099
-2006,Maharashtra,Buldhana,5719.3,5.7193
-2007,Maharashtra,Buldhana,7378,7.378
+1999,Maharashtra,Buldana,2980.02,2.98002
+2000,Maharashtra,Buldana,2745.87,2.74587
+2001,Maharashtra,Buldana,3206.3,3.2063
+2002,Maharashtra,Buldana,3576,3.576
+2003,Maharashtra,Buldana,3930.48,3.93048
+2004,Maharashtra,Buldana,3976.06,3.97606
+2005,Maharashtra,Buldana,4850.99,4.85099
+2006,Maharashtra,Buldana,5719.3,5.7193
+2007,Maharashtra,Buldana,7378,7.378
 1999,Maharashtra,Chandrapur,4801.13,4.80113
 2000,Maharashtra,Chandrapur,4836.4,4.8364
 2001,Maharashtra,Chandrapur,5551.14,5.55114
@@ -3817,15 +3783,15 @@ Year,State,District,GDP,GDPKC
 2005,Maharashtra,Dhule,4578.26,4.57826
 2006,Maharashtra,Dhule,5362.38,5.36238
 2007,Maharashtra,Dhule,6584,6.584
-1999,Maharashtra,Gadchiroli,1437.87,1.43787
-2000,Maharashtra,Gadchiroli,1330.59,1.33059
-2001,Maharashtra,Gadchiroli,1516.79,1.51679
-2002,Maharashtra,Gadchiroli,1463.38,1.46338
-2003,Maharashtra,Gadchiroli,1608.44,1.60844
-2004,Maharashtra,Gadchiroli,1549.5,1.5495
-2005,Maharashtra,Gadchiroli,1991,1.991
-2006,Maharashtra,Gadchiroli,2622.48,2.62248
-2007,Maharashtra,Gadchiroli,2773,2.773
+1999,Maharashtra,Garhchiroli,1437.87,1.43787
+2000,Maharashtra,Garhchiroli,1330.59,1.33059
+2001,Maharashtra,Garhchiroli,1516.79,1.51679
+2002,Maharashtra,Garhchiroli,1463.38,1.46338
+2003,Maharashtra,Garhchiroli,1608.44,1.60844
+2004,Maharashtra,Garhchiroli,1549.5,1.5495
+2005,Maharashtra,Garhchiroli,1991,1.991
+2006,Maharashtra,Garhchiroli,2622.48,2.62248
+2007,Maharashtra,Garhchiroli,2773,2.773
 1999,Maharashtra,Gondia,1950.53,1.95053
 2000,Maharashtra,Gondia,2138.33,2.13833
 2001,Maharashtra,Gondia,2268.77,2.26877
@@ -4066,22 +4032,22 @@ Year,State,District,GDP,GDPKC
 2004,Manipur,Churachandpur,404.86,0.40486
 2005,Manipur,Churachandpur,457.22,0.45722
 2006,Manipur,Churachandpur,516.6,0.5166
-1999,Manipur,Imphal.East,460.26,0.46026
-2000,Manipur,Imphal.East,451.99,0.45199
-2001,Manipur,Imphal.East,444.59,0.44459
-2002,Manipur,Imphal.East,479.71,0.47971
-2003,Manipur,Imphal.East,548.48,0.54848
-2004,Manipur,Imphal.East,711.41,0.71141
-2005,Manipur,Imphal.East,815.92,0.81592
-2006,Manipur,Imphal.East,919.27,0.91927
-1999,Manipur,Imphal.West,1067.46,1.06746
-2000,Manipur,Imphal.West,968.18,0.96818
-2001,Manipur,Imphal.West,1076.01,1.07601
-2002,Manipur,Imphal.West,1122.9,1.1229
-2003,Manipur,Imphal.West,1230.13,1.23013
-2004,Manipur,Imphal.West,1539.04,1.53904
-2005,Manipur,Imphal.West,1756.96,1.75696
-2006,Manipur,Imphal.West,1990.57,1.99057
+1999,Manipur,Imphal East,460.26,0.46026
+2000,Manipur,Imphal East,451.99,0.45199
+2001,Manipur,Imphal East,444.59,0.44459
+2002,Manipur,Imphal East,479.71,0.47971
+2003,Manipur,Imphal East,548.48,0.54848
+2004,Manipur,Imphal East,711.41,0.71141
+2005,Manipur,Imphal East,815.92,0.81592
+2006,Manipur,Imphal East,919.27,0.91927
+1999,Manipur,Imphal West,1067.46,1.06746
+2000,Manipur,Imphal West,968.18,0.96818
+2001,Manipur,Imphal West,1076.01,1.07601
+2002,Manipur,Imphal West,1122.9,1.1229
+2003,Manipur,Imphal West,1230.13,1.23013
+2004,Manipur,Imphal West,1539.04,1.53904
+2005,Manipur,Imphal West,1756.96,1.75696
+2006,Manipur,Imphal West,1990.57,1.99057
 1999,Manipur,Senapati,264.63,0.26463
 2000,Manipur,Senapati,261.95,0.26195
 2001,Manipur,Senapati,278.61,0.27861
@@ -4114,69 +4080,69 @@ Year,State,District,GDP,GDPKC
 2004,Manipur,Ukhrul,284.56,0.28456
 2005,Manipur,Ukhrul,318.93,0.31893
 2006,Manipur,Ukhrul,358.02,0.35802
-1999,Meghalaya,Garo.Hills..East,282.01,0.28201
-2000,Meghalaya,Garo.Hills..East,300.8,0.3008
-2001,Meghalaya,Garo.Hills..East,333.56,0.33356
-2002,Meghalaya,Garo.Hills..East,363.31,0.36331
-2003,Meghalaya,Garo.Hills..East,401.62,0.40162
-2004,Meghalaya,Garo.Hills..East,440.31,0.44031
-2005,Meghalaya,Garo.Hills..East,462.15,0.46215
-2006,Meghalaya,Garo.Hills..East,523.09,0.52309
-2007,Meghalaya,Garo.Hills..East,575.16,0.57516
-1999,Meghalaya,Garo.Hills..South,208.73,0.20873
-2000,Meghalaya,Garo.Hills..South,237.37,0.23737
-2001,Meghalaya,Garo.Hills..South,282.65,0.28265
-2002,Meghalaya,Garo.Hills..South,286.08,0.28608
-2003,Meghalaya,Garo.Hills..South,338.72,0.33872
-2004,Meghalaya,Garo.Hills..South,370.73,0.37073
-2005,Meghalaya,Garo.Hills..South,357.86,0.35786
-2006,Meghalaya,Garo.Hills..South,405.06,0.40506
-2007,Meghalaya,Garo.Hills..South,435.43,0.43543
-1999,Meghalaya,Garo.Hills..West,653.01,0.65301
-2000,Meghalaya,Garo.Hills..West,701.45,0.70145
-2001,Meghalaya,Garo.Hills..West,774.22,0.77422
-2002,Meghalaya,Garo.Hills..West,833.96,0.83396
-2003,Meghalaya,Garo.Hills..West,862.04,0.86204
-2004,Meghalaya,Garo.Hills..West,936.96,0.93696
-2005,Meghalaya,Garo.Hills..West,1103.52,1.10352
-2006,Meghalaya,Garo.Hills..West,1161.81,1.16181
-2007,Meghalaya,Garo.Hills..West,1263.75,1.26375
-1999,Meghalaya,Jaintia.Hills,574.03,0.57403
-2000,Meghalaya,Jaintia.Hills,626.83,0.62683
-2001,Meghalaya,Jaintia.Hills,758.56,0.75856
-2002,Meghalaya,Jaintia.Hills,750.09,0.75009
-2003,Meghalaya,Jaintia.Hills,875,0.875
-2004,Meghalaya,Jaintia.Hills,936.99,0.93699
-2005,Meghalaya,Jaintia.Hills,987,0.987
-2006,Meghalaya,Jaintia.Hills,1094.76,1.09476
-2007,Meghalaya,Jaintia.Hills,1184.88,1.18488
-1999,Meghalaya,Khasi.Hills..East,1345.18,1.34518
-2000,Meghalaya,Khasi.Hills..East,1497.11,1.49711
-2001,Meghalaya,Khasi.Hills..East,1657.78,1.65778
-2002,Meghalaya,Khasi.Hills..East,1813.78,1.81378
-2003,Meghalaya,Khasi.Hills..East,2062.35,2.06235
-2004,Meghalaya,Khasi.Hills..East,2302.17,2.30217
-2005,Meghalaya,Khasi.Hills..East,2511.63,2.51163
-2006,Meghalaya,Khasi.Hills..East,2770.23,2.77023
-2007,Meghalaya,Khasi.Hills..East,3046.3,3.0463
-1999,Meghalaya,Khasi.Hills..West,277.57,0.27757
-2000,Meghalaya,Khasi.Hills..West,321.92,0.32192
-2001,Meghalaya,Khasi.Hills..West,367.43,0.36743
-2002,Meghalaya,Khasi.Hills..West,375.97,0.37597
-2003,Meghalaya,Khasi.Hills..West,385.57,0.38557
-2004,Meghalaya,Khasi.Hills..West,412.26,0.41226
-2005,Meghalaya,Khasi.Hills..West,456.38,0.45638
-2006,Meghalaya,Khasi.Hills..West,510.08,0.51008
-2007,Meghalaya,Khasi.Hills..West,548.82,0.54882
-1999,Meghalaya,Ri.Bhoi,237.61,0.23761
-2000,Meghalaya,Ri.Bhoi,275.45,0.27545
-2001,Meghalaya,Ri.Bhoi,304.06,0.30406
-2002,Meghalaya,Ri.Bhoi,340.23,0.34023
-2003,Meghalaya,Ri.Bhoi,354.7,0.3547
-2004,Meghalaya,Ri.Bhoi,406.08,0.40608
-2005,Meghalaya,Ri.Bhoi,440.31,0.44031
-2006,Meghalaya,Ri.Bhoi,494.26,0.49426
-2007,Meghalaya,Ri.Bhoi,550.93,0.55093
+1999,Meghalaya,East Garo Hills,282.01,0.28201
+2000,Meghalaya,East Garo Hills,300.8,0.3008
+2001,Meghalaya,East Garo Hills,333.56,0.33356
+2002,Meghalaya,East Garo Hills,363.31,0.36331
+2003,Meghalaya,East Garo Hills,401.62,0.40162
+2004,Meghalaya,East Garo Hills,440.31,0.44031
+2005,Meghalaya,East Garo Hills,462.15,0.46215
+2006,Meghalaya,East Garo Hills,523.09,0.52309
+2007,Meghalaya,East Garo Hills,575.16,0.57516
+1999,Meghalaya,Garo Hills  South,208.73,0.20873
+2000,Meghalaya,Garo Hills  South,237.37,0.23737
+2001,Meghalaya,Garo Hills  South,282.65,0.28265
+2002,Meghalaya,Garo Hills  South,286.08,0.28608
+2003,Meghalaya,Garo Hills  South,338.72,0.33872
+2004,Meghalaya,Garo Hills  South,370.73,0.37073
+2005,Meghalaya,Garo Hills  South,357.86,0.35786
+2006,Meghalaya,Garo Hills  South,405.06,0.40506
+2007,Meghalaya,Garo Hills  South,435.43,0.43543
+1999,Meghalaya,West Garo Hills,653.01,0.65301
+2000,Meghalaya,West Garo Hills,701.45,0.70145
+2001,Meghalaya,West Garo Hills,774.22,0.77422
+2002,Meghalaya,West Garo Hills,833.96,0.83396
+2003,Meghalaya,West Garo Hills,862.04,0.86204
+2004,Meghalaya,West Garo Hills,936.96,0.93696
+2005,Meghalaya,West Garo Hills,1103.52,1.10352
+2006,Meghalaya,West Garo Hills,1161.81,1.16181
+2007,Meghalaya,West Garo Hills,1263.75,1.26375
+1999,Meghalaya,Jaintia Hills,574.03,0.57403
+2000,Meghalaya,Jaintia Hills,626.83,0.62683
+2001,Meghalaya,Jaintia Hills,758.56,0.75856
+2002,Meghalaya,Jaintia Hills,750.09,0.75009
+2003,Meghalaya,Jaintia Hills,875,0.875
+2004,Meghalaya,Jaintia Hills,936.99,0.93699
+2005,Meghalaya,Jaintia Hills,987,0.987
+2006,Meghalaya,Jaintia Hills,1094.76,1.09476
+2007,Meghalaya,Jaintia Hills,1184.88,1.18488
+1999,Meghalaya,East Khasi Hills,1345.18,1.34518
+2000,Meghalaya,East Khasi Hills,1497.11,1.49711
+2001,Meghalaya,East Khasi Hills,1657.78,1.65778
+2002,Meghalaya,East Khasi Hills,1813.78,1.81378
+2003,Meghalaya,East Khasi Hills,2062.35,2.06235
+2004,Meghalaya,East Khasi Hills,2302.17,2.30217
+2005,Meghalaya,East Khasi Hills,2511.63,2.51163
+2006,Meghalaya,East Khasi Hills,2770.23,2.77023
+2007,Meghalaya,East Khasi Hills,3046.3,3.0463
+1999,Meghalaya,West Khasi Hills,277.57,0.27757
+2000,Meghalaya,West Khasi Hills,321.92,0.32192
+2001,Meghalaya,West Khasi Hills,367.43,0.36743
+2002,Meghalaya,West Khasi Hills,375.97,0.37597
+2003,Meghalaya,West Khasi Hills,385.57,0.38557
+2004,Meghalaya,West Khasi Hills,412.26,0.41226
+2005,Meghalaya,West Khasi Hills,456.38,0.45638
+2006,Meghalaya,West Khasi Hills,510.08,0.51008
+2007,Meghalaya,West Khasi Hills,548.82,0.54882
+1999,Meghalaya,Ri Bhoi,237.61,0.23761
+2000,Meghalaya,Ri Bhoi,275.45,0.27545
+2001,Meghalaya,Ri Bhoi,304.06,0.30406
+2002,Meghalaya,Ri Bhoi,340.23,0.34023
+2003,Meghalaya,Ri Bhoi,354.7,0.3547
+2004,Meghalaya,Ri Bhoi,406.08,0.40608
+2005,Meghalaya,Ri Bhoi,440.31,0.44031
+2006,Meghalaya,Ri Bhoi,494.26,0.49426
+2007,Meghalaya,Ri Bhoi,550.93,0.55093
 1999,Mizoram,Aizawl,658.01,0.65801
 2000,Mizoram,Aizawl,739.95,0.73995
 2001,Mizoram,Aizawl,831.16,0.83116
@@ -4458,24 +4424,24 @@ Year,State,District,GDP,GDPKC
 2005,MP,Neemuch,1484,1.484
 2006,MP,Neemuch,1656.54,1.65654
 2007,MP,Neemuch,1713.02,1.71302
-1999,MP,Nimar..East,1934.28,1.93428
-2000,MP,Nimar..East,1868.92,1.86892
-2001,MP,Nimar..East,1947.62,1.94762
-2002,MP,Nimar..East,2214.53,2.21453
-2003,MP,Nimar..East,2421.45,2.42145
-2004,MP,Nimar..East,2494.79,2.49479
-2005,MP,Nimar..East,2736.99,2.73699
-2006,MP,Nimar..East,3032.6,3.0326
-2007,MP,Nimar..East,3956.29,3.95629
-1999,MP,Nimar..West,1473.87,1.47387
-2000,MP,Nimar..West,1430.6,1.4306
-2001,MP,Nimar..West,1542.14,1.54214
-2002,MP,Nimar..West,1669.23,1.66923
-2003,MP,Nimar..West,1966.49,1.96649
-2004,MP,Nimar..West,2026.42,2.02642
-2005,MP,Nimar..West,2136.98,2.13698
-2006,MP,Nimar..West,2468.14,2.46814
-2007,MP,Nimar..West,2786.51,2.78651
+1999,MP,East Nimar,1934.28,1.93428
+2000,MP,East Nimar,1868.92,1.86892
+2001,MP,East Nimar,1947.62,1.94762
+2002,MP,East Nimar,2214.53,2.21453
+2003,MP,East Nimar,2421.45,2.42145
+2004,MP,East Nimar,2494.79,2.49479
+2005,MP,East Nimar,2736.99,2.73699
+2006,MP,East Nimar,3032.6,3.0326
+2007,MP,East Nimar,3956.29,3.95629
+1999,MP,West Nimar,1473.87,1.47387
+2000,MP,West Nimar,1430.6,1.4306
+2001,MP,West Nimar,1542.14,1.54214
+2002,MP,West Nimar,1669.23,1.66923
+2003,MP,West Nimar,1966.49,1.96649
+2004,MP,West Nimar,2026.42,2.02642
+2005,MP,West Nimar,2136.98,2.13698
+2006,MP,West Nimar,2468.14,2.46814
+2007,MP,West Nimar,2786.51,2.78651
 1999,MP,Panna,773.58,0.77358
 2000,MP,Panna,771.14,0.77114
 2001,MP,Panna,866.32,0.86632
@@ -4899,13 +4865,13 @@ Year,State,District,GDP,GDPKC
 2003,Punjab,Faridkot,2013.52,2.01352
 2004,Punjab,Faridkot,2191.72,2.19172
 2005,Punjab,Faridkot,2470.3,2.4703
-1999,Punjab,Fatehgarh.Sahib,1880.52,1.88052
-2000,Punjab,Fatehgarh.Sahib,1901.69,1.90169
-2001,Punjab,Fatehgarh.Sahib,2118.14,2.11814
-2002,Punjab,Fatehgarh.Sahib,2093.27,2.09327
-2003,Punjab,Fatehgarh.Sahib,2329.46,2.32946
-2004,Punjab,Fatehgarh.Sahib,2487.74,2.48774
-2005,Punjab,Fatehgarh.Sahib,2777.95,2.77795
+1999,Punjab,Fatehgarh Sahib,1880.52,1.88052
+2000,Punjab,Fatehgarh Sahib,1901.69,1.90169
+2001,Punjab,Fatehgarh Sahib,2118.14,2.11814
+2002,Punjab,Fatehgarh Sahib,2093.27,2.09327
+2003,Punjab,Fatehgarh Sahib,2329.46,2.32946
+2004,Punjab,Fatehgarh Sahib,2487.74,2.48774
+2005,Punjab,Fatehgarh Sahib,2777.95,2.77795
 1999,Punjab,Firozpur,4847.81,4.84781
 2000,Punjab,Firozpur,5180.39,5.18039
 2001,Punjab,Firozpur,5277.07,5.27707
@@ -4990,13 +4956,13 @@ Year,State,District,GDP,GDPKC
 2003,Punjab,Sangrur,7622.36,7.62236
 2004,Punjab,Sangrur,8361.5,8.3615
 2005,Punjab,Sangrur,9112.57,9.11257
-1999,Punjab,Shahid.Bhagat.Singh.Nagar..Nawan.Shehar.,1872.53,1.87253
-2000,Punjab,Shahid.Bhagat.Singh.Nagar..Nawan.Shehar.,2110.07,2.11007
-2001,Punjab,Shahid.Bhagat.Singh.Nagar..Nawan.Shehar.,2169.52,2.16952
-2002,Punjab,Shahid.Bhagat.Singh.Nagar..Nawan.Shehar.,2305.03,2.30503
-2003,Punjab,Shahid.Bhagat.Singh.Nagar..Nawan.Shehar.,2592.85,2.59285
-2004,Punjab,Shahid.Bhagat.Singh.Nagar..Nawan.Shehar.,2818.42,2.81842
-2005,Punjab,Shahid.Bhagat.Singh.Nagar..Nawan.Shehar.,3182.22,3.18222
+1999,Punjab,Shahid Bhagat Singh Nagar  Nawan Shehar ,1872.53,1.87253
+2000,Punjab,Shahid Bhagat Singh Nagar  Nawan Shehar ,2110.07,2.11007
+2001,Punjab,Shahid Bhagat Singh Nagar  Nawan Shehar ,2169.52,2.16952
+2002,Punjab,Shahid Bhagat Singh Nagar  Nawan Shehar ,2305.03,2.30503
+2003,Punjab,Shahid Bhagat Singh Nagar  Nawan Shehar ,2592.85,2.59285
+2004,Punjab,Shahid Bhagat Singh Nagar  Nawan Shehar ,2818.42,2.81842
+2005,Punjab,Shahid Bhagat Singh Nagar  Nawan Shehar ,3182.22,3.18222
 1999,Rajasthan,Ajmer,3603.13,3.60313
 2000,Rajasthan,Ajmer,3706.19,3.70619
 2001,Rajasthan,Ajmer,4017.87,4.01787
@@ -5060,13 +5026,13 @@ Year,State,District,GDP,GDPKC
 2003,Rajasthan,Bundi,1980.63,1.98063
 2004,Rajasthan,Bundi,2093.16,2.09316
 2005,Rajasthan,Bundi,2375.28,2.37528
-1999,Rajasthan,Chittorgarh,2755.2,2.7552
-2000,Rajasthan,Chittorgarh,2361.51,2.36151
-2001,Rajasthan,Chittorgarh,2857.14,2.85714
-2002,Rajasthan,Chittorgarh,2786.01,2.78601
-2003,Rajasthan,Chittorgarh,3310.36,3.31036
-2004,Rajasthan,Chittorgarh,3624.56,3.62456
-2005,Rajasthan,Chittorgarh,4023.49,4.02349
+1999,Rajasthan,Chittaurgarh,2755.2,2.7552
+2000,Rajasthan,Chittaurgarh,2361.51,2.36151
+2001,Rajasthan,Chittaurgarh,2857.14,2.85714
+2002,Rajasthan,Chittaurgarh,2786.01,2.78601
+2003,Rajasthan,Chittaurgarh,3310.36,3.31036
+2004,Rajasthan,Chittaurgarh,3624.56,3.62456
+2005,Rajasthan,Chittaurgarh,4023.49,4.02349
 1999,Rajasthan,Churu,1707.11,1.70711
 2000,Rajasthan,Churu,1737.61,1.73761
 2001,Rajasthan,Churu,2054.16,2.05416
@@ -5095,13 +5061,13 @@ Year,State,District,GDP,GDPKC
 2003,Rajasthan,Dungarpur,1547.77,1.54777
 2004,Rajasthan,Dungarpur,1671.96,1.67196
 2005,Rajasthan,Dungarpur,1829.67,1.82967
-1999,Rajasthan,Ganga.Nagar,3924.02,3.92402
-2000,Rajasthan,Ganga.Nagar,3570.95,3.57095
-2001,Rajasthan,Ganga.Nagar,3558.63,3.55863
-2002,Rajasthan,Ganga.Nagar,3564.25,3.56425
-2003,Rajasthan,Ganga.Nagar,4474.63,4.47463
-2004,Rajasthan,Ganga.Nagar,4497.77,4.49777
-2005,Rajasthan,Ganga.Nagar,5117.71,5.11771
+1999,Rajasthan,Ganga Nagar,3924.02,3.92402
+2000,Rajasthan,Ganga Nagar,3570.95,3.57095
+2001,Rajasthan,Ganga Nagar,3558.63,3.55863
+2002,Rajasthan,Ganga Nagar,3564.25,3.56425
+2003,Rajasthan,Ganga Nagar,4474.63,4.47463
+2004,Rajasthan,Ganga Nagar,4497.77,4.49777
+2005,Rajasthan,Ganga Nagar,5117.71,5.11771
 1999,Rajasthan,Hanumangarh,2577.36,2.57736
 2000,Rajasthan,Hanumangarh,2437.45,2.43745
 2001,Rajasthan,Hanumangarh,2616.53,2.61653
@@ -5186,13 +5152,13 @@ Year,State,District,GDP,GDPKC
 2003,Rajasthan,Rajsamand,1991.11,1.99111
 2004,Rajasthan,Rajsamand,2147.09,2.14709
 2005,Rajasthan,Rajsamand,2651.38,2.65138
-1999,Rajasthan,Sawai.Madhopur,1477.47,1.47747
-2000,Rajasthan,Sawai.Madhopur,1456.94,1.45694
-2001,Rajasthan,Sawai.Madhopur,1613.81,1.61381
-2002,Rajasthan,Sawai.Madhopur,1379.29,1.37929
-2003,Rajasthan,Sawai.Madhopur,1884.92,1.88492
-2004,Rajasthan,Sawai.Madhopur,1997.77,1.99777
-2005,Rajasthan,Sawai.Madhopur,2174.98,2.17498
+1999,Rajasthan,Sawai Madhopur,1477.47,1.47747
+2000,Rajasthan,Sawai Madhopur,1456.94,1.45694
+2001,Rajasthan,Sawai Madhopur,1613.81,1.61381
+2002,Rajasthan,Sawai Madhopur,1379.29,1.37929
+2003,Rajasthan,Sawai Madhopur,1884.92,1.88492
+2004,Rajasthan,Sawai Madhopur,1997.77,1.99777
+2005,Rajasthan,Sawai Madhopur,2174.98,2.17498
 1999,Rajasthan,Sikar,2645.43,2.64543
 2000,Rajasthan,Sikar,2494.69,2.49469
 2001,Rajasthan,Sikar,2778,2.778
@@ -5369,14 +5335,14 @@ Year,State,District,GDP,GDPKC
 2004,Tamilnadu,Perambalur,1680.75,1.68075
 2005,Tamilnadu,Perambalur,1843.39,1.84339
 2006,Tamilnadu,Perambalur,1927.79,1.92779
-1999,Tamilnadu,Pudukkotai,2402.6,2.4026
-2000,Tamilnadu,Pudukkotai,2661.16,2.66116
-2001,Tamilnadu,Pudukkotai,2757.37,2.75737
-2002,Tamilnadu,Pudukkotai,2828.63,2.82863
-2003,Tamilnadu,Pudukkotai,3075.11,3.07511
-2004,Tamilnadu,Pudukkotai,3493.52,3.49352
-2005,Tamilnadu,Pudukkotai,3966.3,3.9663
-2006,Tamilnadu,Pudukkotai,4263.85,4.26385
+1999,Tamilnadu,Pudukkottai,2402.6,2.4026
+2000,Tamilnadu,Pudukkottai,2661.16,2.66116
+2001,Tamilnadu,Pudukkottai,2757.37,2.75737
+2002,Tamilnadu,Pudukkottai,2828.63,2.82863
+2003,Tamilnadu,Pudukkottai,3075.11,3.07511
+2004,Tamilnadu,Pudukkottai,3493.52,3.49352
+2005,Tamilnadu,Pudukkottai,3966.3,3.9663
+2006,Tamilnadu,Pudukkottai,4263.85,4.26385
 1999,Tamilnadu,Ramanathapuram,2193.92,2.19392
 2000,Tamilnadu,Ramanathapuram,2459.55,2.45955
 2001,Tamilnadu,Ramanathapuram,2514.89,2.51489
@@ -5393,14 +5359,14 @@ Year,State,District,GDP,GDPKC
 2004,Tamilnadu,Salem,9641.92,9.64192
 2005,Tamilnadu,Salem,11000.23,11.00023
 2006,Tamilnadu,Salem,12134.1,12.1341
-1999,Tamilnadu,Sivagangai,1872.15,1.87215
-2000,Tamilnadu,Sivagangai,2044.26,2.04426
-2001,Tamilnadu,Sivagangai,2136.38,2.13638
-2002,Tamilnadu,Sivagangai,2295.44,2.29544
-2003,Tamilnadu,Sivagangai,2463.49,2.46349
-2004,Tamilnadu,Sivagangai,2810.43,2.81043
-2005,Tamilnadu,Sivagangai,3092.25,3.09225
-2006,Tamilnadu,Sivagangai,3386.14,3.38614
+1999,Tamilnadu,Sivaganga,1872.15,1.87215
+2000,Tamilnadu,Sivaganga,2044.26,2.04426
+2001,Tamilnadu,Sivaganga,2136.38,2.13638
+2002,Tamilnadu,Sivaganga,2295.44,2.29544
+2003,Tamilnadu,Sivaganga,2463.49,2.46349
+2004,Tamilnadu,Sivaganga,2810.43,2.81043
+2005,Tamilnadu,Sivaganga,3092.25,3.09225
+2006,Tamilnadu,Sivaganga,3386.14,3.38614
 1999,Tamilnadu,Thanjavur,3907.85,3.90785
 2000,Tamilnadu,Thanjavur,4347.93,4.34793
 2001,Tamilnadu,Thanjavur,4328.55,4.32855
@@ -5409,14 +5375,14 @@ Year,State,District,GDP,GDPKC
 2004,Tamilnadu,Thanjavur,5570.71,5.57071
 2005,Tamilnadu,Thanjavur,6247.69,6.24769
 2006,Tamilnadu,Thanjavur,6783.16,6.78316
-1999,Tamilnadu,The.Nilgris,1516.62,1.51662
-2000,Tamilnadu,The.Nilgris,1660.41,1.66041
-2001,Tamilnadu,The.Nilgris,1659.41,1.65941
-2002,Tamilnadu,The.Nilgris,1840.69,1.84069
-2003,Tamilnadu,The.Nilgris,2173.49,2.17349
-2004,Tamilnadu,The.Nilgris,2535.62,2.53562
-2005,Tamilnadu,The.Nilgris,2742.65,2.74265
-2006,Tamilnadu,The.Nilgris,3022.97,3.02297
+1999,Tamilnadu,The Nilgiris,1516.62,1.51662
+2000,Tamilnadu,The Nilgiris,1660.41,1.66041
+2001,Tamilnadu,The Nilgiris,1659.41,1.65941
+2002,Tamilnadu,The Nilgiris,1840.69,1.84069
+2003,Tamilnadu,The Nilgiris,2173.49,2.17349
+2004,Tamilnadu,The Nilgiris,2535.62,2.53562
+2005,Tamilnadu,The Nilgiris,2742.65,2.74265
+2006,Tamilnadu,The Nilgiris,3022.97,3.02297
 1999,Tamilnadu,Theni,2047.83,2.04783
 2000,Tamilnadu,Theni,2157.59,2.15759
 2001,Tamilnadu,Theni,2261.22,2.26122
@@ -5481,22 +5447,22 @@ Year,State,District,GDP,GDPKC
 2004,Tamilnadu,Vellore,10648.92,10.64892
 2005,Tamilnadu,Vellore,11906.06,11.90606
 2006,Tamilnadu,Vellore,13222.04,13.22204
-1999,Tamilnadu,Villupuram,3920.93,3.92093
-2000,Tamilnadu,Villupuram,4067.03,4.06703
-2001,Tamilnadu,Villupuram,4248.76,4.24876
-2002,Tamilnadu,Villupuram,4247.43,4.24743
-2003,Tamilnadu,Villupuram,4704.97,4.70497
-2004,Tamilnadu,Villupuram,5495.53,5.49553
-2005,Tamilnadu,Villupuram,6074.21,6.07421
-2006,Tamilnadu,Villupuram,6580.25,6.58025
-1999,Tamilnadu,Virudhunagar,5155.11,5.15511
-2000,Tamilnadu,Virudhunagar,6166.47,6.16647
-2001,Tamilnadu,Virudhunagar,5951.1,5.9511
-2002,Tamilnadu,Virudhunagar,6193.07,6.19307
-2003,Tamilnadu,Virudhunagar,7051.87,7.05187
-2004,Tamilnadu,Virudhunagar,8028.81,8.02881
-2005,Tamilnadu,Virudhunagar,9030.49,9.03049
-2006,Tamilnadu,Virudhunagar,10137.41,10.13741
+1999,Tamilnadu,Villuppuram,3920.93,3.92093
+2000,Tamilnadu,Villuppuram,4067.03,4.06703
+2001,Tamilnadu,Villuppuram,4248.76,4.24876
+2002,Tamilnadu,Villuppuram,4247.43,4.24743
+2003,Tamilnadu,Villuppuram,4704.97,4.70497
+2004,Tamilnadu,Villuppuram,5495.53,5.49553
+2005,Tamilnadu,Villuppuram,6074.21,6.07421
+2006,Tamilnadu,Villuppuram,6580.25,6.58025
+1999,Tamilnadu,Virudunagar,5155.11,5.15511
+2000,Tamilnadu,Virudunagar,6166.47,6.16647
+2001,Tamilnadu,Virudunagar,5951.1,5.9511
+2002,Tamilnadu,Virudunagar,6193.07,6.19307
+2003,Tamilnadu,Virudunagar,7051.87,7.05187
+2004,Tamilnadu,Virudunagar,8028.81,8.02881
+2005,Tamilnadu,Virudunagar,9030.49,9.03049
+2006,Tamilnadu,Virudunagar,10137.41,10.13741
 1999,UP,Agra,4545.01,4.54501
 2000,UP,Agra,4428.42,4.42842
 2001,UP,Agra,4812.89,4.81289
@@ -5518,13 +5484,13 @@ Year,State,District,GDP,GDPKC
 2003,UP,Allahabad,6790.96,6.79096
 2004,UP,Allahabad,6955.02,6.95502
 2005,UP,Allahabad,8021.98,8.02198
-1999,UP,Ambedkar.Nagar,1276.49,1.27649
-2000,UP,Ambedkar.Nagar,1317.45,1.31745
-2001,UP,Ambedkar.Nagar,1473.64,1.47364
-2002,UP,Ambedkar.Nagar,1523.28,1.52328
-2003,UP,Ambedkar.Nagar,1760.31,1.76031
-2004,UP,Ambedkar.Nagar,1830.48,1.83048
-2005,UP,Ambedkar.Nagar,2159.17,2.15917
+1999,UP,Ambedkar Nagar,1276.49,1.27649
+2000,UP,Ambedkar Nagar,1317.45,1.31745
+2001,UP,Ambedkar Nagar,1473.64,1.47364
+2002,UP,Ambedkar Nagar,1523.28,1.52328
+2003,UP,Ambedkar Nagar,1760.31,1.76031
+2004,UP,Ambedkar Nagar,1830.48,1.83048
+2005,UP,Ambedkar Nagar,2159.17,2.15917
 1999,UP,Auraiyya,1386.52,1.38652
 2000,UP,Auraiyya,1488.94,1.48894
 2001,UP,Auraiyya,1146.52,1.14652
@@ -5679,13 +5645,13 @@ Year,State,District,GDP,GDPKC
 2003,UP,Firozabad,3013.05,3.01305
 2004,UP,Firozabad,3374.33,3.37433
 2005,UP,Firozabad,4101.24,4.10124
-1999,UP,Gautambudh.Nagar,4508.62,4.50862
-2000,UP,Gautambudh.Nagar,4726.65,4.72665
-2001,UP,Gautambudh.Nagar,4869.92,4.86992
-2002,UP,Gautambudh.Nagar,4968.17,4.96817
-2003,UP,Gautambudh.Nagar,5643.97,5.64397
-2004,UP,Gautambudh.Nagar,7174.43,7.17443
-2005,UP,Gautambudh.Nagar,8276.19,8.27619
+1999,UP,Gautambudh Nagar,4508.62,4.50862
+2000,UP,Gautambudh Nagar,4726.65,4.72665
+2001,UP,Gautambudh Nagar,4869.92,4.86992
+2002,UP,Gautambudh Nagar,4968.17,4.96817
+2003,UP,Gautambudh Nagar,5643.97,5.64397
+2004,UP,Gautambudh Nagar,7174.43,7.17443
+2005,UP,Gautambudh Nagar,8276.19,8.27619
 1999,UP,Gaziabad,5884.21,5.88421
 2000,UP,Gaziabad,6556.44,6.55644
 2001,UP,Gaziabad,6560.41,6.56041
@@ -5728,13 +5694,13 @@ Year,State,District,GDP,GDPKC
 2003,UP,Hardoi,3345.47,3.34547
 2004,UP,Hardoi,3802.14,3.80214
 2005,UP,Hardoi,4279.51,4.27951
-1999,UP,Hath.Ras..Mahamaya.Nagar.,1765.25,1.76525
-2000,UP,Hath.Ras..Mahamaya.Nagar.,1944.3,1.9443
-2001,UP,Hath.Ras..Mahamaya.Nagar.,2035.33,2.03533
-2002,UP,Hath.Ras..Mahamaya.Nagar.,2215.66,2.21566
-2003,UP,Hath.Ras..Mahamaya.Nagar.,2479.58,2.47958
-2004,UP,Hath.Ras..Mahamaya.Nagar.,2651.4,2.6514
-2005,UP,Hath.Ras..Mahamaya.Nagar.,2825.97,2.82597
+1999,UP,Hath Ras  Mahamaya Nagar ,1765.25,1.76525
+2000,UP,Hath Ras  Mahamaya Nagar ,1944.3,1.9443
+2001,UP,Hath Ras  Mahamaya Nagar ,2035.33,2.03533
+2002,UP,Hath Ras  Mahamaya Nagar ,2215.66,2.21566
+2003,UP,Hath Ras  Mahamaya Nagar ,2479.58,2.47958
+2004,UP,Hath Ras  Mahamaya Nagar ,2651.4,2.6514
+2005,UP,Hath Ras  Mahamaya Nagar ,2825.97,2.82597
 1999,UP,Jalaun,1608.24,1.60824
 2000,UP,Jalaun,1495.04,1.49504
 2001,UP,Jalaun,1791.15,1.79115
@@ -5756,13 +5722,13 @@ Year,State,District,GDP,GDPKC
 2003,UP,Jhansi,3363.24,3.36324
 2004,UP,Jhansi,3610.81,3.61081
 2005,UP,Jhansi,3752.43,3.75243
-1999,UP,Jyotiba.Phule.Nagar,2208.98,2.20898
-2000,UP,Jyotiba.Phule.Nagar,2340.96,2.34096
-2001,UP,Jyotiba.Phule.Nagar,2504.79,2.50479
-2002,UP,Jyotiba.Phule.Nagar,2786.75,2.78675
-2003,UP,Jyotiba.Phule.Nagar,3127.67,3.12767
-2004,UP,Jyotiba.Phule.Nagar,3462.8,3.4628
-2005,UP,Jyotiba.Phule.Nagar,3689,3.689
+1999,UP,Jyotiba Phule Nagar,2208.98,2.20898
+2000,UP,Jyotiba Phule Nagar,2340.96,2.34096
+2001,UP,Jyotiba Phule Nagar,2504.79,2.50479
+2002,UP,Jyotiba Phule Nagar,2786.75,2.78675
+2003,UP,Jyotiba Phule Nagar,3127.67,3.12767
+2004,UP,Jyotiba Phule Nagar,3462.8,3.4628
+2005,UP,Jyotiba Phule Nagar,3689,3.689
 1999,UP,Kannauj,1331.61,1.33161
 2000,UP,Kannauj,2251.29,2.25129
 2001,UP,Kannauj,2063.62,2.06362
@@ -5770,20 +5736,20 @@ Year,State,District,GDP,GDPKC
 2003,UP,Kannauj,1682.59,1.68259
 2004,UP,Kannauj,1999.51,1.99951
 2005,UP,Kannauj,2227.18,2.22718
-1999,UP,Kanpur..Rural,1715.33,1.71533
-2000,UP,Kanpur..Rural,1787.74,1.78774
-2001,UP,Kanpur..Rural,1856.72,1.85672
-2002,UP,Kanpur..Rural,1959.82,1.95982
-2003,UP,Kanpur..Rural,2210.38,2.21038
-2004,UP,Kanpur..Rural,1921.69,1.92169
-2005,UP,Kanpur..Rural,2274.54,2.27454
-1999,UP,Kanpur..Urban,5404.55,5.40455
-2000,UP,Kanpur..Urban,6103.99,6.10399
-2001,UP,Kanpur..Urban,6692.44,6.69244
-2002,UP,Kanpur..Urban,7390.37,7.39037
-2003,UP,Kanpur..Urban,8133.54,8.13354
-2004,UP,Kanpur..Urban,9347.86,9.34786
-2005,UP,Kanpur..Urban,10500.6,10.5006
+1999,UP,Kanpur  Rural,1715.33,1.71533
+2000,UP,Kanpur  Rural,1787.74,1.78774
+2001,UP,Kanpur  Rural,1856.72,1.85672
+2002,UP,Kanpur  Rural,1959.82,1.95982
+2003,UP,Kanpur  Rural,2210.38,2.21038
+2004,UP,Kanpur  Rural,1921.69,1.92169
+2005,UP,Kanpur  Rural,2274.54,2.27454
+1999,UP,Kanpur  Urban,5404.55,5.40455
+2000,UP,Kanpur  Urban,6103.99,6.10399
+2001,UP,Kanpur  Urban,6692.44,6.69244
+2002,UP,Kanpur  Urban,7390.37,7.39037
+2003,UP,Kanpur  Urban,8133.54,8.13354
+2004,UP,Kanpur  Urban,9347.86,9.34786
+2005,UP,Kanpur  Urban,10500.6,10.5006
 1999,UP,Kaushambi,953.43,0.95343
 2000,UP,Kaushambi,1074.85,1.07485
 2001,UP,Kaushambi,1320.92,1.32092
@@ -5896,13 +5862,13 @@ Year,State,District,GDP,GDPKC
 2003,UP,Pratapgarh,2137.93,2.13793
 2004,UP,Pratapgarh,2005.14,2.00514
 2005,UP,Pratapgarh,2342.95,2.34295
-1999,UP,Rae.Bareli,2155.09,2.15509
-2000,UP,Rae.Bareli,2047.59,2.04759
-2001,UP,Rae.Bareli,2274.76,2.27476
-2002,UP,Rae.Bareli,2355.58,2.35558
-2003,UP,Rae.Bareli,2380.68,2.38068
-2004,UP,Rae.Bareli,2965.01,2.96501
-2005,UP,Rae.Bareli,3232.97,3.23297
+1999,UP,Rae Bareli,2155.09,2.15509
+2000,UP,Rae Bareli,2047.59,2.04759
+2001,UP,Rae Bareli,2274.76,2.27476
+2002,UP,Rae Bareli,2355.58,2.35558
+2003,UP,Rae Bareli,2380.68,2.38068
+2004,UP,Rae Bareli,2965.01,2.96501
+2005,UP,Rae Bareli,3232.97,3.23297
 1999,UP,Rampur,2497.94,2.49794
 2000,UP,Rampur,2511.72,2.51172
 2001,UP,Rampur,2669.8,2.6698
@@ -5917,20 +5883,20 @@ Year,State,District,GDP,GDPKC
 2003,UP,Saharanpur,5659.23,5.65923
 2004,UP,Saharanpur,6248.84,6.24884
 2005,UP,Saharanpur,6908.92,6.90892
-1999,UP,Sant.Kabeer.Nagar,920.6,0.9206
-2000,UP,Sant.Kabeer.Nagar,869.25,0.86925
-2001,UP,Sant.Kabeer.Nagar,961.05,0.96105
-2002,UP,Sant.Kabeer.Nagar,1010.27,1.01027
-2003,UP,Sant.Kabeer.Nagar,1168.5,1.1685
-2004,UP,Sant.Kabeer.Nagar,1125.05,1.12505
-2005,UP,Sant.Kabeer.Nagar,1353.29,1.35329
-1999,UP,Sant.Ravidas.Nagar,1687.79,1.68779
-2000,UP,Sant.Ravidas.Nagar,1223.51,1.22351
-2001,UP,Sant.Ravidas.Nagar,1337.57,1.33757
-2002,UP,Sant.Ravidas.Nagar,1385.04,1.38504
-2003,UP,Sant.Ravidas.Nagar,1539.25,1.53925
-2004,UP,Sant.Ravidas.Nagar,1639.3,1.6393
-2005,UP,Sant.Ravidas.Nagar,1862.71,1.86271
+1999,UP,Sant Kabeer Nagar,920.6,0.9206
+2000,UP,Sant Kabeer Nagar,869.25,0.86925
+2001,UP,Sant Kabeer Nagar,961.05,0.96105
+2002,UP,Sant Kabeer Nagar,1010.27,1.01027
+2003,UP,Sant Kabeer Nagar,1168.5,1.1685
+2004,UP,Sant Kabeer Nagar,1125.05,1.12505
+2005,UP,Sant Kabeer Nagar,1353.29,1.35329
+1999,UP,Sant Ravidas Nagar,1687.79,1.68779
+2000,UP,Sant Ravidas Nagar,1223.51,1.22351
+2001,UP,Sant Ravidas Nagar,1337.57,1.33757
+2002,UP,Sant Ravidas Nagar,1385.04,1.38504
+2003,UP,Sant Ravidas Nagar,1539.25,1.53925
+2004,UP,Sant Ravidas Nagar,1639.3,1.6393
+2005,UP,Sant Ravidas Nagar,1862.71,1.86271
 1999,UP,Shahjahanpur,2790.6,2.7906
 2000,UP,Shahjahanpur,2686.05,2.68605
 2001,UP,Shahjahanpur,2871.28,2.87128
@@ -5945,13 +5911,13 @@ Year,State,District,GDP,GDPKC
 2003,UP,Shravasti,843.83,0.84383
 2004,UP,Shravasti,719.44,0.71944
 2005,UP,Shravasti,835.55,0.83555
-1999,UP,Sidharth.Nagar,1301.93,1.30193
-2000,UP,Sidharth.Nagar,1265.39,1.26539
-2001,UP,Sidharth.Nagar,1350.42,1.35042
-2002,UP,Sidharth.Nagar,1343.66,1.34366
-2003,UP,Sidharth.Nagar,1678.47,1.67847
-2004,UP,Sidharth.Nagar,1589.62,1.58962
-2005,UP,Sidharth.Nagar,1983.54,1.98354
+1999,UP,Sidharth Nagar,1301.93,1.30193
+2000,UP,Sidharth Nagar,1265.39,1.26539
+2001,UP,Sidharth Nagar,1350.42,1.35042
+2002,UP,Sidharth Nagar,1343.66,1.34366
+2003,UP,Sidharth Nagar,1678.47,1.67847
+2004,UP,Sidharth Nagar,1589.62,1.58962
+2005,UP,Sidharth Nagar,1983.54,1.98354
 1999,UP,Sitapur,2903.55,2.90355
 2000,UP,Sitapur,3649.81,3.64981
 2001,UP,Sitapur,3516.09,3.51609
@@ -6087,26 +6053,26 @@ Year,State,District,GDP,GDPKC
 2006,Uttarakhand,Rudraprayag,546.21,0.54621
 2007,Uttarakhand,Rudraprayag,622.32,0.62232
 2008,Uttarakhand,Rudraprayag,707.44,0.70744
-1999,Uttarakhand,Tehri.Garhwal,695.92,0.69592
-2000,Uttarakhand,Tehri.Garhwal,804.84,0.80484
-2001,Uttarakhand,Tehri.Garhwal,907.95,0.90795
-2002,Uttarakhand,Tehri.Garhwal,1072.9,1.0729
-2003,Uttarakhand,Tehri.Garhwal,1171.76,1.17176
-2004,Uttarakhand,Tehri.Garhwal,1513.21,1.51321
-2005,Uttarakhand,Tehri.Garhwal,1712.87,1.71287
-2006,Uttarakhand,Tehri.Garhwal,1988.23,1.98823
-2007,Uttarakhand,Tehri.Garhwal,2293.36,2.29336
-2008,Uttarakhand,Tehri.Garhwal,2617.87,2.61787
-1999,Uttarakhand,Udham.Singh.Nagar,1938.26,1.93826
-2000,Uttarakhand,Udham.Singh.Nagar,2216.28,2.21628
-2001,Uttarakhand,Udham.Singh.Nagar,2357.88,2.35788
-2002,Uttarakhand,Udham.Singh.Nagar,2611.65,2.61165
-2003,Uttarakhand,Udham.Singh.Nagar,2833.72,2.83372
-2004,Uttarakhand,Udham.Singh.Nagar,3197.3,3.1973
-2005,Uttarakhand,Udham.Singh.Nagar,3500.87,3.50087
-2006,Uttarakhand,Udham.Singh.Nagar,4319.08,4.31908
-2007,Uttarakhand,Udham.Singh.Nagar,4842.73,4.84273
-2008,Uttarakhand,Udham.Singh.Nagar,5398.39,5.39839
+1999,Uttarakhand,Tehri Garhwal,695.92,0.69592
+2000,Uttarakhand,Tehri Garhwal,804.84,0.80484
+2001,Uttarakhand,Tehri Garhwal,907.95,0.90795
+2002,Uttarakhand,Tehri Garhwal,1072.9,1.0729
+2003,Uttarakhand,Tehri Garhwal,1171.76,1.17176
+2004,Uttarakhand,Tehri Garhwal,1513.21,1.51321
+2005,Uttarakhand,Tehri Garhwal,1712.87,1.71287
+2006,Uttarakhand,Tehri Garhwal,1988.23,1.98823
+2007,Uttarakhand,Tehri Garhwal,2293.36,2.29336
+2008,Uttarakhand,Tehri Garhwal,2617.87,2.61787
+1999,Uttarakhand,Udham Singh Nagar,1938.26,1.93826
+2000,Uttarakhand,Udham Singh Nagar,2216.28,2.21628
+2001,Uttarakhand,Udham Singh Nagar,2357.88,2.35788
+2002,Uttarakhand,Udham Singh Nagar,2611.65,2.61165
+2003,Uttarakhand,Udham Singh Nagar,2833.72,2.83372
+2004,Uttarakhand,Udham Singh Nagar,3197.3,3.1973
+2005,Uttarakhand,Udham Singh Nagar,3500.87,3.50087
+2006,Uttarakhand,Udham Singh Nagar,4319.08,4.31908
+2007,Uttarakhand,Udham Singh Nagar,4842.73,4.84273
+2008,Uttarakhand,Udham Singh Nagar,5398.39,5.39839
 1999,Uttarakhand,Uttarkashi,345.05,0.34505
 2000,Uttarakhand,Uttarkashi,385.27,0.38527
 2001,Uttarakhand,Uttarkashi,419.96,0.41996
@@ -6117,22 +6083,22 @@ Year,State,District,GDP,GDPKC
 2006,Uttarakhand,Uttarkashi,777.42,0.77742
 2007,Uttarakhand,Uttarkashi,869.15,0.86915
 2008,Uttarakhand,Uttarkashi,961.36,0.96136
-1999,WB,X24.Parganas.North,15562.52,15.56252
-2000,WB,X24.Parganas.North,16096.61,16.09661
-2001,WB,X24.Parganas.North,18005.3,18.0053
-2002,WB,X24.Parganas.North,20020.65,20.02065
-2003,WB,X24.Parganas.North,22417.68,22.41768
-2004,WB,X24.Parganas.North,25086.04,25.08604
-2005,WB,X24.Parganas.North,29090.91,29.09091
-2006,WB,X24.Parganas.North,33604.34,33.60434
-1999,WB,X24.Parganas.South,10832,10.832
-2000,WB,X24.Parganas.South,12281.17,12.28117
-2001,WB,X24.Parganas.South,13125.22,13.12522
-2002,WB,X24.Parganas.South,14479.6,14.4796
-2003,WB,X24.Parganas.South,15149.84,15.14984
-2004,WB,X24.Parganas.South,16444.35,16.44435
-2005,WB,X24.Parganas.South,18469.2,18.4692
-2006,WB,X24.Parganas.South,21985.84,21.98584
+1999,WB,North 24 Parganas,15562.52,15.56252
+2000,WB,North 24 Parganas,16096.61,16.09661
+2001,WB,North 24 Parganas,18005.3,18.0053
+2002,WB,North 24 Parganas,20020.65,20.02065
+2003,WB,North 24 Parganas,22417.68,22.41768
+2004,WB,North 24 Parganas,25086.04,25.08604
+2005,WB,North 24 Parganas,29090.91,29.09091
+2006,WB,North 24 Parganas,33604.34,33.60434
+1999,WB,South 24 Parganas,10832,10.832
+2000,WB,South 24 Parganas,12281.17,12.28117
+2001,WB,South 24 Parganas,13125.22,13.12522
+2002,WB,South 24 Parganas,14479.6,14.4796
+2003,WB,South 24 Parganas,15149.84,15.14984
+2004,WB,South 24 Parganas,16444.35,16.44435
+2005,WB,South 24 Parganas,18469.2,18.4692
+2006,WB,South 24 Parganas,21985.84,21.98584
 1999,WB,Bankura,4818.9,4.8189
 2000,WB,Bankura,5107.96,5.10796
 2001,WB,Bankura,5454.23,5.45423
@@ -6157,22 +6123,22 @@ Year,State,District,GDP,GDPKC
 2004,WB,Burdwan,21969.68,21.96968
 2005,WB,Burdwan,24679.9,24.6799
 2006,WB,Burdwan,28355.83,28.35583
-1999,WB,Cooch.Behar,3314.49,3.31449
-2000,WB,Cooch.Behar,3492.45,3.49245
-2001,WB,Cooch.Behar,3821.93,3.82193
-2002,WB,Cooch.Behar,3889.99,3.88999
-2003,WB,Cooch.Behar,4612.7,4.6127
-2004,WB,Cooch.Behar,5075.33,5.07533
-2005,WB,Cooch.Behar,5615.83,5.61583
-2006,WB,Cooch.Behar,7586.5,7.5865
-1999,WB,Dakshin.Dinajpur,2139.41,2.13941
-2000,WB,Dakshin.Dinajpur,2261.66,2.26166
-2001,WB,Dakshin.Dinajpur,2439.66,2.43966
-2002,WB,Dakshin.Dinajpur,2637.47,2.63747
-2003,WB,Dakshin.Dinajpur,2837.18,2.83718
-2004,WB,Dakshin.Dinajpur,2934.87,2.93487
-2005,WB,Dakshin.Dinajpur,3286.53,3.28653
-2006,WB,Dakshin.Dinajpur,3637.25,3.63725
+1999,WB,Cooch Behar,3314.49,3.31449
+2000,WB,Cooch Behar,3492.45,3.49245
+2001,WB,Cooch Behar,3821.93,3.82193
+2002,WB,Cooch Behar,3889.99,3.88999
+2003,WB,Cooch Behar,4612.7,4.6127
+2004,WB,Cooch Behar,5075.33,5.07533
+2005,WB,Cooch Behar,5615.83,5.61583
+2006,WB,Cooch Behar,7586.5,7.5865
+1999,WB,Dakshin Dinajpur,2139.41,2.13941
+2000,WB,Dakshin Dinajpur,2261.66,2.26166
+2001,WB,Dakshin Dinajpur,2439.66,2.43966
+2002,WB,Dakshin Dinajpur,2637.47,2.63747
+2003,WB,Dakshin Dinajpur,2837.18,2.83718
+2004,WB,Dakshin Dinajpur,2934.87,2.93487
+2005,WB,Dakshin Dinajpur,3286.53,3.28653
+2006,WB,Dakshin Dinajpur,3637.25,3.63725
 1999,WB,Darjeeling,3161.08,3.16108
 2000,WB,Darjeeling,3474.15,3.47415
 2001,WB,Darjeeling,3677.48,3.67748
@@ -6181,14 +6147,14 @@ Year,State,District,GDP,GDPKC
 2004,WB,Darjeeling,4786.41,4.78641
 2005,WB,Darjeeling,5423.4,5.4234
 2006,WB,Darjeeling,6092.15,6.09215
-1999,WB,Hooghly,9077.51,9.07751
-2000,WB,Hooghly,9514.4,9.5144
-2001,WB,Hooghly,10786.62,10.78662
-2002,WB,Hooghly,11079.12,11.07912
-2003,WB,Hooghly,12875.97,12.87597
-2004,WB,Hooghly,13939.15,13.93915
-2005,WB,Hooghly,16100.65,16.10065
-2006,WB,Hooghly,17696.69,17.69669
+1999,WB,Hugli,9077.51,9.07751
+2000,WB,Hugli,9514.4,9.5144
+2001,WB,Hugli,10786.62,10.78662
+2002,WB,Hugli,11079.12,11.07912
+2003,WB,Hugli,12875.97,12.87597
+2004,WB,Hugli,13939.15,13.93915
+2005,WB,Hugli,16100.65,16.10065
+2006,WB,Hugli,17696.69,17.69669
 1999,WB,Howrah,7134.42,7.13442
 2000,WB,Howrah,8083.52,8.08352
 2001,WB,Howrah,8747.4,8.7474
@@ -6221,22 +6187,16 @@ Year,State,District,GDP,GDPKC
 2004,WB,Malda,7111.88,7.11188
 2005,WB,Malda,7610.35,7.61035
 2006,WB,Malda,8729.59,8.72959
-1999,WB,Midnapore.East,NA,NA
-2000,WB,Midnapore.East,NA,NA
-2001,WB,Midnapore.East,NA,NA
-2002,WB,Midnapore.East,10586.65,10.58665
-2003,WB,Midnapore.East,13284.28,13.28428
-2004,WB,Midnapore.East,16145.6,16.1456
-2005,WB,Midnapore.East,17883.94,17.88394
-2006,WB,Midnapore.East,21419.88,21.41988
-1999,WB,Midnapore.West,NA,NA
-2000,WB,Midnapore.West,NA,NA
-2001,WB,Midnapore.West,NA,NA
-2002,WB,Midnapore.West,8559.6,8.5596
-2003,WB,Midnapore.West,9685.61,9.68561
-2004,WB,Midnapore.West,10610.47,10.61047
-2005,WB,Midnapore.West,11720.23,11.72023
-2006,WB,Midnapore.West,13582.01,13.58201
+2002,WB,Pashchim Medinipur,10586.65,10.58665
+2003,WB,Pashchim Medinipur,13284.28,13.28428
+2004,WB,Pashchim Medinipur,16145.6,16.1456
+2005,WB,Pashchim Medinipur,17883.94,17.88394
+2006,WB,Pashchim Medinipur,21419.88,21.41988
+2002,WB,Purba Medinipur,8559.6,8.5596
+2003,WB,Purba Medinipur,9685.61,9.68561
+2004,WB,Purba Medinipur,10610.47,10.61047
+2005,WB,Purba Medinipur,11720.23,11.72023
+2006,WB,Purba Medinipur,13582.01,13.58201
 1999,WB,Murshidabad,8344.5,8.3445
 2000,WB,Murshidabad,8500.68,8.50068
 2001,WB,Murshidabad,9646.78,9.64678
@@ -6261,11 +6221,11 @@ Year,State,District,GDP,GDPKC
 2004,WB,Purulia,4686.06,4.68606
 2005,WB,Purulia,4948.63,4.94863
 2006,WB,Purulia,5754.08,5.75408
-1999,WB,Uttar.Dinajpur,2775.15,2.77515
-2000,WB,Uttar.Dinajpur,2860.14,2.86014
-2001,WB,Uttar.Dinajpur,3029.24,3.02924
-2002,WB,Uttar.Dinajpur,3300.24,3.30024
-2003,WB,Uttar.Dinajpur,3796.73,3.79673
-2004,WB,Uttar.Dinajpur,3773.4,3.7734
-2005,WB,Uttar.Dinajpur,4458.25,4.45825
-2006,WB,Uttar.Dinajpur,4938.64,4.93864
+1999,WB,Uttar Dinajpur,2775.15,2.77515
+2000,WB,Uttar Dinajpur,2860.14,2.86014
+2001,WB,Uttar Dinajpur,3029.24,3.02924
+2002,WB,Uttar Dinajpur,3300.24,3.30024
+2003,WB,Uttar Dinajpur,3796.73,3.79673
+2004,WB,Uttar Dinajpur,3773.4,3.7734
+2005,WB,Uttar Dinajpur,4458.25,4.45825
+2006,WB,Uttar Dinajpur,4938.64,4.93864

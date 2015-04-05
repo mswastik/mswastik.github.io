@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="js/d3.v3.min.js"></script>
+<script src="js/crossfilter.min.js"></script>
+<script src="js/dc.min.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/dc.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/style (2).css">
+
+<body>
+<div class="container-fluid">
+	<div class="row-fluid">
+        <div class="col-md-6" id="choro"></div>
+        <div class="col-md-6" id="bar"></div>
+    </div>
+<script>
+    var parseDate = d3.time.format("%Y").parse;
+    d3.csv("data/districtcrimemelt.csv", function(csv) {
+        var data = crossfilter(csv);
+        var district = data.dimension(function(d){return d.District;});
+        var distsum = district.group().reduceSum(function(d) {return d.value;});
+        var crime = data.dimension(function(d){return d.crime;});
+        var crimesum = crime.group().reduceSum(function(d) {return d.value;});
+
+    var choro = dc.geoChoroplethChart('#choro');
+    var bar = dc.rowChart('#bar');
+    var proj = d3.geo.mercator().scale(900).center([95,25]);
+        
+    d3.json("dist-geo.json", function(dist){
+        choro.width(700)
+        .height(600)
+        .dimension(district)
+        .group(distsum)
+        .projection(proj)
+        .colors(d3.scale.quantize().range(["#E2F2FF", "#C4E4FF", "#9ED2FF", "#6BBAFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
+                    .colorDomain([300, 8000])
+                    .colorCalculator(function (d) { return d ? choro.colors()(d) : '#ccc'; })
+        .overlayGeoJson(dist.features, "district", function (d) {
+                        return d.properties.DISTRICT;
+                    });
+        
+        //bar.xUnits(function(){return 18;}); //manually setting bar width
+            bar
+            .margins({top: 25, left: 60, right: 10, bottom: 20})
+            .width(500).height(550)
+            .dimension(crime)
+            .group(crimesum)
+            .colors('purple')
+            .elasticX(true);
+            
+            
+            dc.renderAll();
+    });
+    });
+</script>
+</body>
+</html>

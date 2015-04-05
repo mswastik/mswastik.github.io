@@ -52,14 +52,18 @@
 	.group(gdp)
 	.elasticY(true)
 	.x(d3.time.scale().domain([minDate,maxDate]))
-	.margins({top: 10, left: 80, right: 20, bottom: 40});
-
-	var growthline = dc.lineChart("#bar");
-	var gr = timeDim.group().reduceSum(function(d,i){ return (d.gdp[i]-d.gdp[i-1])/d.gdp[i];})
-	growthline
-	.dimension(timeDim)
-	.group(gr);
-
+	.margins({top: 10, left: 80, right: 20, bottom: 40})
+	.on('renderlet', function(chart) {
+    var extra_data = [{x: chart.x().range()[0], y: chart.y()(10)}, 
+                      {x: chart.x().range()[1], y: chart.y()(4000000)}];
+    var line = d3.svg.line()
+        .x(function(d) { return d.x; })
+        .y(function(d) { return d.y; })
+        .interpolate('linear');
+    var path = chart.select('g.chart-body').selectAll('path.extra').data([extra_data]);
+    path.enter().append('path').attr('class', 'extra').attr('stroke', 'red');
+    path.attr('d', line);
+});
 
 	//Barchart of State split
 	var stateDim = ndx.dimension(function(d){return d.State;});
