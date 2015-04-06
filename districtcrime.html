@@ -38,11 +38,18 @@
         .group(distsum)
         .projection(proj)
         .colors(d3.scale.quantize().range(["#E2F2FF", "#C4E4FF", "#9ED2FF", "#6BBAFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
-                    .colorDomain([300, 8000])
+                    //.colorDomain([100, 8000])
                     .colorCalculator(function (d) { return d ? choro.colors()(d) : '#ccc'; })
         .overlayGeoJson(dist.features, "district", function (d) {
                         return d.properties.DISTRICT;
                     });
+        
+        choro.on("preRender", function(chart) {
+            chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
+        });
+        choro.on("preRedraw", function(chart) {
+            chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
+        });
         
         //bar.xUnits(function(){return 18;}); //manually setting bar width
             bar
@@ -52,7 +59,6 @@
             .group(crimesum)
             .colors('purple')
             .elasticX(true);
-            
             
             dc.renderAll();
     });
