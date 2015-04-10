@@ -20,28 +20,27 @@
     </div>
 <script>
     var parseDate = d3.time.format("%Y").parse;
-    d3.csv("data/districtcrimemelt.csv", function(csv) {
+    d3.csv("data/statepop.csv", function(csv) {
         var data = crossfilter(csv);
-        var district = data.dimension(function(d){return d.District;});
-        var distsum = district.group().reduceSum(function(d) {return d.value;});
-        var crime = data.dimension(function(d){return d.crime;});
-        var crimesum = crime.group().reduceSum(function(d) {return d.value;});
+        var state = data.dimension(function(d){return d.State;});
+        var statesum = state.group().reduceSum(function(d) {return d.population;});
+//        var crime = data.dimension(function(d){return d.crime;});
+//        var crimesum = crime.group().reduceSum(function(d) {return d.value;});
 
     var choro = dc.geoChoroplethChart('#choro');
-    var bar = dc.rowChart('#bar');
-    var proj = d3.geo.mercator().scale(900).center([95,25]);
+    var proj = d3.geo.mercator().scale(1000).center([85,25]);
         
-    d3.json("dist-geo (1).json", function(dist){
+    d3.json("indiastates.json", function(dist){
         choro.width(700)
         .height(600)
-        .dimension(district)
-        .group(distsum)
+        .dimension(state)
+        .group(statesum)
         .projection(proj)
         .colors(d3.scale.quantize().range(["#E2F2FF", "#C4E4FF", "#9ED2FF", "#6BBAFF", "#36A2FF", "#1E96FF", "#0089FF", "#0061B5"]))
                     //.colorDomain([100, 8000])
                     .colorCalculator(function (d) { return d ? choro.colors()(d) : '#ccc'; })
-        .overlayGeoJson(dist.features, "district", function (d) {
-                        return d.properties.DISTRICT;
+        .overlayGeoJson(dist.features, "state", function (d) {
+                        return d.properties.NAME_1;
                     });
         
         choro.on("preRender", function(chart) {
@@ -50,15 +49,6 @@
         choro.on("preRedraw", function(chart) {
             chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
         });
-        
-        //bar.xUnits(function(){return 18;}); //manually setting bar width
-            bar
-            .margins({top: 25, left: 60, right: 10, bottom: 20})
-            .width(500).height(550)
-            .dimension(crime)
-            .group(crimesum)
-            .colors('purple')
-            .elasticX(true);
             
             dc.renderAll();
     });
