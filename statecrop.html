@@ -20,14 +20,15 @@
     </div>
 <script>
     var parseDate = d3.time.format("%Y").parse;
-    d3.csv("data/statepop.csv", function(csv) {
+    d3.csv("data/statecropmelt.csv", function(csv) {
         var data = crossfilter(csv);
         var state = data.dimension(function(d){return d.State;});
-        var statesum = state.group().reduceSum(function(d) {return d.population;});
-//        var crime = data.dimension(function(d){return d.crime;});
-//        var crimesum = crime.group().reduceSum(function(d) {return d.value;});
+        var statesum = state.group().reduceSum(function(d) {return d.value;});
+        var crop = data.dimension(function(d){return d.crop;});
+        var cropsum = crop.group().reduceSum(function(d) {return d.value;});
 
     var choro = dc.geoChoroplethChart('#choro');
+    var bar = dc.rowChart("#bar");
     var proj = d3.geo.mercator().scale(1000).center([85,25]);
         
     d3.json("indiastates.json", function(dist){
@@ -50,6 +51,13 @@
             chart.colorDomain(d3.extent(chart.data(), chart.valueAccessor()));
         });
             
+            bar.width(600)
+             .height(600)
+             .dimension(crop)
+             .group(cropsum)
+             .elasticX(true);
+
+
             dc.renderAll();
     });
     });
