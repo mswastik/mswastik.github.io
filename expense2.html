@@ -108,7 +108,7 @@
 	var sectorDim = ndx.dimension(function(d){return d.Category;});
 	var nos = sectorDim.group().reduceSum(dc.pluck('Amount'));
 	gdpbarchart
-	.width(450).height(270)
+	.width(350).height(270)
 	.dimension(sectorDim)
 	.group(nos)
 	.innerRadius(30)
