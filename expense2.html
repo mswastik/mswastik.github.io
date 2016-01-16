@@ -108,11 +108,11 @@
 	var sectorDim = ndx.dimension(function(d){return d.Category;});
 	var nos = sectorDim.group().reduceSum(dc.pluck('Amount'));
 	gdpbarchart
-	.width(550).height(270)
+	.width(650).height(270)
 	.dimension(sectorDim)
 	.group(nos)
 	.innerRadius(30)
-  	.legend(dc.legend().x(1090).y(10).gap(15))
+  	.legend(dc.legend().x(1020).y(10).gap(15))
 	.label(function(d) {
 		 return d3.round((d.value / d3.sum(nos.all(), function(d){ return d.value;}))*100)+"%";})
 	.renderLabel(true)
