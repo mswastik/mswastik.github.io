@@ -75,12 +75,18 @@
 	var maxDate = timeDim.top(1)[0].date;
 	invbarchart.xUnits(function(){return 5;}); //manually setting bar width
 	invbarchart
-	.width(550).height(300)
+	.width(550).height(270)
 	.dimension(timeDim)
 	.group(amt)
 	.elasticY(true)
 	.x(d3.time.scale().domain([minDate,maxDate]))
-	.margins({top: 10, left: 80, right: 20, bottom: 40});
+	.margins({top: 10, left: 80, right: 20, bottom: 40})
+	.renderlet(function (chart) {
+		            chart.selectAll("g.x text")
+	                    .attr('dx', '-65')
+	                    .attr('dy', '-5')
+	                    .attr('transform', "rotate(-70)");
+	               });;;
 
 	//Rowchart of Statewise split
 	var stateDim = ndx.dimension(function(d){return d.Category;});
@@ -106,7 +112,7 @@
 	var nos = timeDim.group().reduceSum(dc.pluck('Amount'));
 	gdpbarchart.xUnits(function(){return 7;}); //manually setting bar width
 	gdpbarchart
-	.width(550).height(300)
+	.width(550).height(270)
 	.dimension(timeDim)
 	.group(nos)
 	.elasticY(true)
