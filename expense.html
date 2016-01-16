@@ -73,17 +73,17 @@
 	var invbarchart = dc.barChart("#bar");
 	var minDate = timeDim.bottom(1)[0].date;
 	var maxDate = timeDim.top(1)[0].date;
-	invbarchart.xUnits(function(){return 5;}); //manually setting bar width
+	invbarchart.xUnits(function(){return 2;}); //manually setting bar width
 	invbarchart
 	.width(550).height(270)
 	.dimension(timeDim)
 	.group(amt)
 	.elasticY(true)
 	.x(d3.time.scale().domain([minDate,maxDate]))
-	.margins({top: 10, left: 80, right: 20, bottom: 40})
+	.margins({top: 10, left: 80, right: 20, bottom: 60})
 	.renderlet(function (chart) {
 		            chart.selectAll("g.x text")
-	                    .attr('dx', '-35')
+	                    .attr('dx', '-30')
 	                    .attr('dy', '-1')
 	                    .attr('transform', "rotate(-70)");
 	               });
