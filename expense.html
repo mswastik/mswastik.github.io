@@ -17,7 +17,7 @@
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/main.css" rel="stylesheet">
 
-<title>Sectorwise Investment Proposal</title>
+<title>Expense Cut</title>
 </head>
 
 <nav class="menu" id="theMenu">
@@ -57,7 +57,7 @@
 		</div>
 	</div>
 <script>
-	var parseDate = d3.time.format("%Y").parse;
+	var parseDate = d3.time.format("%d-%m-%Y").parse;
 	var data=d3.csv("data/expense.csv", function(error, data){
 		data.forEach(function(d) {
 		d.date=parseDate(d.Date);
