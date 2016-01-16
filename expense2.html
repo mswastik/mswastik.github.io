@@ -105,10 +105,11 @@
         });	
 	//Barchart of yearly Nos
 	var gdpbarchart = dc.pieChart("#bar3");
-	var nos = timeDim.group().reduceSum(dc.pluck('Category'));
+	var sectorDim = ndx.dimension(function(d){return d.Category;});
+	var nos = sectorDim.group().reduceSum(dc.pluck('Amount'));
 	gdpbarchart
 	.width(550).height(270)
-	.dimension(timeDim)
+	.dimension(sectorDim)
 	.group(nos)
 	.innerRadius(30)
   	.legend(dc.legend().x(260).y(50).gap(15))
