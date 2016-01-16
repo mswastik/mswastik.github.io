@@ -73,7 +73,7 @@
 	var invbarchart = dc.barChart("#bar");
 	var minDate = timeDim.bottom(1)[0].date;
 	var maxDate = timeDim.top(1)[0].date;
-	invbarchart.xUnits(function(){return 7;}); //manually setting bar width
+	invbarchart.xUnits(function(){return 5;}); //manually setting bar width
 	invbarchart
 	.width(550).height(300)
 	.dimension(timeDim)
