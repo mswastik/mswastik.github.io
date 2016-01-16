@@ -67,7 +67,7 @@
 	var ndx=crossfilter(data);
 	var all = ndx.groupAll();
 	var timeDim = ndx.dimension(function(d){return d.date;});
-	var inv = timeDim.group().reduceSum(dc.pluck('Amount'));
+	var amt = timeDim.group().reduceSum(dc.pluck('Amount'));
 
 	//Barchart of Proposed Investment
 	var invbarchart = dc.barChart("#bar");
@@ -75,9 +75,9 @@
 	var maxDate = timeDim.top(1)[0].date;
 	invbarchart.xUnits(function(){return 7;}); //manually setting bar width
 	invbarchart
-	.width(550).height(350)
+	.width(550).height(300)
 	.dimension(timeDim)
-	.group(inv)
+	.group(amt)
 	.elasticY(true)
 	.x(d3.time.scale().domain([minDate,maxDate]))
 	.margins({top: 10, left: 80, right: 20, bottom: 40});
@@ -88,7 +88,7 @@
 	var statebar = dc.rowChart("#bar2");
 	statebar
 	.margins({ top: 10, left: 10, right: 10, bottom: 120})
-	.width(490).height(760)
+	.width(490).height(600)
 	.dimension(stateDim)
 	.transitionDuration(500)
 	.group(stat_tot)
@@ -106,7 +106,7 @@
 	var nos = timeDim.group().reduceSum(dc.pluck('Amount'));
 	gdpbarchart.xUnits(function(){return 7;}); //manually setting bar width
 	gdpbarchart
-	.width(550).height(350)
+	.width(550).height(300)
 	.dimension(timeDim)
 	.group(nos)
 	.elasticY(true)
