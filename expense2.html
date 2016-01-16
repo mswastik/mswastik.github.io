@@ -86,7 +86,7 @@
 	                    .attr('transform', "rotate(-50)");
 	               });
 	//Rowchart of Statewise split
-	var stateDim = ndx.dimension(function(d){return d.Category;});
+	var stateDim = ndx.dimension(function(d){return d.Description;});
 	var stat_tot = stateDim.group().reduceSum(function(d) { return d.amt; });
 	var statebar = dc.rowChart("#bar2");
 	statebar
@@ -105,13 +105,13 @@
         });	
 	//Barchart of yearly Nos
 	var gdpbarchart = dc.pieChart("#bar3");
-	var nos = timeDim.group().reduceSum(dc.pluck('Amount'));
+	var nos = timeDim.group().reduceSum(dc.pluck('Category'));
 	gdpbarchart
 	.width(550).height(270)
 	.dimension(timeDim)
 	.group(nos)
 	.innerRadius(30)
-  .legend(dc.legend().x(260).y(50).gap(15))
+  	.legend(dc.legend().x(260).y(50).gap(15))
 	.label(function(d) {
 		 return d3.round((d.value / d3.sum(sect_tot.all(), function(d){ return d.value;}))*100)+"%";})
 	.renderLabel(true)
