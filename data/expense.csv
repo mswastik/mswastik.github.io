@@ -1,159 +1,160 @@
-Date	Category	Amount	Payee	Description	Mode of Payment
-25-10-2015	Transport	4100	Taxi	Kharghar to Silvassa	Cash
-28-10-2015	Food	300	Amantran	Dinner	Cash
-28-10-2015	Food	60	Amantran	Pavbhaji	Cash
-28-10-2015	Food	20		Bhakarwadi	Cash
-28-10-2015	Food	20		Bisleri	Cash
-28-10-2015	Food	300	Amantran	Dinner	Cash
-28-10-2015	Food	30		Biscuit	Cash
-01-11-2015	Food	340		Lunch	Cash
-01-11-2015	Food	110		Dinner	Cash
-02-11-2015	Food	300		Lunch	Cash
-02-11-2015	Food	60		Faluda	Cash
-02-11-2015	Shopping	240		Akanskha Sandal	Cash
-02-11-2015	Food	160	Kirana	Chips	Cash
-02-11-2015	Food	40	Thela	Nariyal paani	Cash
-02-11-2015	Misc	30	Thela	Sandal stitching	Cash
-02-11-2015	Food	90		Tea	Cash
-02-11-2015	Transport	837	Taxi	Delhi airport to Kaushambhi	Cash
-02-11-2015	Transport	2300	Taxi	Silvassa to Mumbai airport	Cash
-03-11-2015	Food	30	Thela	Litti Chokha	Cash
-03-11-2015	Food	30	Thela	Momos	Cash
-03-11-2015	Food	20		Bisleri	Cash
-04-11-2015	Food	115		Parathe at parathe wali gali	Cash
-04-11-2015	Food	20		Bisleri	Cash
-04-11-2015	Food	50		Dahi Bhalle	Cash
-04-11-2015	Food	20		Rasgulle	Cash
-04-11-2015	Transport	60	Delhi Metro	Metro ticket	Cash
-04-11-2015	Food	180	Home Food		Cash
-06-11-2015	Food	265	Panjab Dhabha		Cash
-06-11-2015	Transport	1575	Taxi	Panchkula to Baddi	Cash
-06-11-2015	Hotel	8379	Anand Hotel		Card/Online
-06-11-2015	Transport	4000	Railway	Chandigarh Ticket	Cash
-07-11-2015	Transport	2000	Taxi	Panchkula to Baddi and return	Cash
-07-11-2015	Food	141	Vaishno Dhabha		Cash
-07-11-2015	Hotel	3398	Pallavi Hotel		Cash
-08-11-2015	Food	60	Thela	Juice	Cash
-09-11-2015	Medical	391		Meenakshi	Cash
-09-11-2015	Medical	200		Meenakshi	Cash
-09-11-2015	Food	100	Thela	Dosa Vada Sambar	Cash
-12-11-2015	Food	994	Suruchi	Gujarati Thali	Cash
-14-11-2015	Food	200	Home Food		Cash
-14-11-2015	Food	140	Home Food		Cash
-03-12-2015	Home items	3700	Bajaj	Bajaj Mixer	Cash
-04-12-2015	Home items	2050		Parde	Cash
-04-12-2015	Home items	300		Salwar	Cash
-04-12-2015	Transport	100		Auto	Cash
-08-12-2015	Home items	50	Gas Agency	Gas mechanic	Cash
-10-12-2015	Home items	88	Monica	Surf excel sabun	Cash
-10-12-2015	Home items	50	Monica	Silvari	Cash
-10-12-2015	Food	195	Monica	Amul Ghee	Cash
-10-12-2015	Food	140	Monica	Mustard oil	Cash
-10-12-2015	Home items	82	Monica	Coalgate	Cash
-10-12-2015	Food	310	Monica	Atta	Cash
-10-12-2015	Food	750	Monica	Saffola Tel	Cash
-10-12-2015	Home items	50	Monica	Agarbatti	Cash
-10-12-2015	Home	230	Monica	Suparmax blade	Cash
-10-12-2015	Food	30	Monica	Namak	Cash
-10-12-2015	Food	35	Monica	Paani	Cash
-10-12-2015	Food	105	Monica	Chaipatti	Cash
-10-12-2015	Home items	94	Monica	Lifebouy sabun	Cash
-11-12-2015	Home items	300	Mistri		Cash
-11-12-2015	Home items	750		Lock	Cash
-11-12-2015	Home items	50	Gas Agency	Gas connection	Cash
-13-12-2015	Home items	750	Plumber	Lock	Cash
-13-12-2015	Subscription	479.51	Vodafone	Mobile bill	Card/Online
-13-12-2015	Home items	50	Press	Press	Cash
-22-12-2015	Food	30	Sabji Mandi	Mutter	Cash
-22-12-2015	Food	20	Kirana	Khari	Cash
-22-12-2015	Home items	88	Monica	Surf excel sabun	Cash
-22-12-2015	Food	10	Sabji Mandi	Idli	Cash
-22-12-2015	Food	20	Sabji Mandi	Maithi	Cash
-22-12-2015	Food	10	Sabji Mandi	Dhania	Cash
-22-12-2015	Food	20	Sabji Mandi	Cheeku	Cash
-22-12-2015	Food	10	Sabji Mandi	Mirch	Cash
-23-12-2015	Home items	68	Musalman	Xerox	Cash
-24-12-2015	Food	20	Sabji Mandi	Arbi	Cash
-24-12-2015	Food	20	Sabji Mandi	Alu	Cash
-24-12-2015	Food	30	Sabji Mandi	Tomato	Cash
-24-12-2015	Food	20	Sabji Mandi	Orange	Cash
-24-12-2015	Food	15	Sabji Mandi	Dahi	Cash
-24-12-2015	Food	23	Sabji Mandi	Rawa	Cash
-24-12-2015	Food	10	Sabji Mandi	Dhania	Cash
-24-12-2015	Food	5	Sabji Mandi	Kadi Patta	Cash
-25-12-2015	Shopping	400	Chandrkala	Salwar silai	Cash
-28-12-2015	Food	20	Sabji Mandi	Alu	Cash
-28-12-2015	Food	10	Sabji Mandi	Onion	Cash
-28-12-2015	Food	5	Sabji Mandi	Dhania	Cash
-28-12-2015	Food	10	Sabji Mandi	Adrak	Cash
-28-12-2015	Food	5	Sabji Mandi	Mirch	Cash
-28-12-2015	Food	40	Sabji Mandi	Tomato	Cash
-28-12-2015	Food	15	Sabji Mandi	Patta gobi	Cash
-28-12-2015	Food	15	Sabji Mandi	Gazar	Cash
-28-12-2015	Food	10	Sabji Mandi	Baigan	Cash
-28-12-2015	Food	10	Sabji Mandi	Mooli	Cash
-28-12-2015	Food	20	Sabji Mandi	Fool gobi	Cash
-28-12-2015	Food	25	Sabji Mandi	Doodh	Cash
-28-12-2015	Food	22	Sabji Mandi	Maggi	Cash
-28-12-2015	Food	10	Sabji Mandi	Mirch	Cash
-28-12-2015	Food	20	Sabji Mandi	Bhindi	Cash
-01-01-2016	Home items	756	Dudhwala	Milk	Cash
-02-01-2016	Home items	170	Paperwala	Newspaper(NBT)	Cash
-03-01-2016	Food	60	Thela	Falooda	Cash
-03-01-2016	Food	30	Sabji Mandi	Mutter	Cash
-03-01-2016	Food	20	Sabji Mandi	Yam(Suran)	Cash
-03-01-2016	Food	30	Sabji Mandi	Tomato	Cash
-03-01-2016	Food	15	Sabji Mandi	Drumstick	Cash
-03-01-2016	Food	20	Sabji Mandi	Potato	Cash
-03-01-2016	Food	20	Sabji Mandi	Onion	Cash
-03-01-2016	Food	24	Kirana	Maggi	Cash
-03-01-2016	Food	30	Kirana	Sambha Masala	Cash
-06-01-2016	Food	30	Sabji Mandi	Tomato	Cash
-06-01-2016	Food	10	Sabji Mandi	Shimla Mirch	Cash
-06-01-2016	Food	20	Sabji Mandi	Maithi	Cash
-06-01-2016	Food	10	Sabji Mandi	Dhania	Cash
-06-01-2016	Food	20	Sabji Mandi	Chana	Cash
-06-01-2016	Food	10	Sabji Mandi	Adrak	Cash
-06-01-2016	Food	20	Sabji Mandi	Baigan	Cash
-06-01-2016	Food	20	Sabji Mandi	Cheeku	Cash
-06-01-2016	Food	20	Sabji Mandi	Fali	Cash
-06-01-2016	Food	30	Sabji Mandi	Orange	Cash
-06-01-2016	Food	10	Sabji Mandi	Gilki	Cash
-06-01-2016	Food	15	Sabji Mandi	Gajar	Cash
-06-01-2016	Food	25	Monica	Bread	Cash
-06-01-2016	Food	25	Monica	Jam	Cash
-07-01-2016	Shopping	860	Maida Tailors	Salwar silai	Cash
-07-01-2016	Food	390	Monica	Amul Ghee	Cash
-07-01-2016	Food	140	Monica	Mustard oil	Cash
-07-01-2016	Food	120	Monica	Til	Cash
-07-01-2016	Food	50	Monica	Gud	Cash
-07-01-2016	Food	20	Monica	Vadi	Cash
-07-01-2016	Food	135	Monica	Nai pata	Cash
-07-01-2016	Food	110	Monica	Tuar Dal	Cash
-07-01-2016	Food	20	Monica	Rai	Cash
-07-01-2016	Food	60	Monica	Jeera	Cash
-07-01-2016	Food	105	Monica	Moong Dal	Cash
-07-01-2016	Home items	50	Monica	Agarbatti	Cash
-07-01-2016	Home items	176	Monica	Surf excel sabun	Cash
-07-01-2016	Food	200	Monica	Bournvita	Cash
-07-01-2016	Home items	30	Monica	Pitambari	Cash
-07-01-2016	Home items	50	Monica	Silvari	Cash
-13-01-2016	Food	260	Sabji Mandi	Sabji	Cash
-13-01-2016	Food	40	Sabji Mandi	Aloo pyaz kadi patta	Cash
-13-01-2016	Food	20	Sabji Mandi	Fool gobi	Cash
-13-01-2016	Food	20	Sabji Mandi	Cheeku	Cash
-13-01-2016	Food	40	Sabji Mandi	Tarbooz	Cash
-13-01-2016	Food	20	Sabji Mandi	Ber	Cash
-13-01-2016	Food	15	Sabji Mandi	Vada Pav	Cash
-16-01-2016	Food	20	Sabji Mandi	Aloo	Cash
-16-01-2016	Food	30	Sabji Mandi	Tomato	Cash
-16-01-2016	Food	10	Sabji Mandi	Adrak	Cash
-16-01-2016	Food	30	Sabji Mandi	Laisan	Cash
-16-01-2016	Food	10	Sabji Mandi	Dhania	Cash
-16-01-2016	Food	10	Sabji Mandi	Mirch	Cash
-16-01-2016	Food	30	Sabji Mandi	Mutter	Cash
-16-01-2016	Food	35	Sabji Mandi	Bread	Cash
-16-01-2016	Food	20	Sabji Mandi	Imli	Cash
-16-01-2016	Food	10	Sabji Mandi	Khatta Fruit	Cash
-16-01-2016	Food	15	Sabji Mandi	Shimla Mirch	Cash
-16-01-2016	Home items	85	Press	Press	Cash
+Date,Category,Amount,Payee,Description,Mode of Payment
+25-10-2015,Transport,4100,Taxi,Kharghar to Silvassa,Cash
+28-10-2015,Food,300,Amantran,Dinner,Cash
+28-10-2015,Food,60,Amantran,Pavbhaji,Cash
+28-10-2015,Food,20,,Bhakarwadi,Cash
+28-10-2015,Food,20,,Bisleri,Cash
+28-10-2015,Food,300,Amantran,Dinner,Cash
+28-10-2015,Food,30,,Biscuit,Cash
+01-11-2015,Food,340,,Lunch,Cash
+01-11-2015,Food,110,,Dinner,Cash
+02-11-2015,Food,300,,Lunch,Cash
+02-11-2015,Food,60,,Faluda,Cash
+02-11-2015,Shopping,240,,Akanskha Sandal,Cash
+02-11-2015,Food,160,Kirana,Chips,Cash
+02-11-2015,Food,40,Thela,Nariyal paani,Cash
+02-11-2015,Misc,30,Thela,Sandal stitching,Cash
+02-11-2015,Food,90,,Tea,Cash
+02-11-2015,Transport,837,Taxi,Delhi airport to Kaushambhi,Cash
+02-11-2015,Transport,2300,Taxi,Silvassa to Mumbai airport,Cash
+03-11-2015,Food,30,Thela,Litti Chokha,Cash
+03-11-2015,Food,30,Thela,Momos,Cash
+03-11-2015,Food,20,,Bisleri,Cash
+04-11-2015,Food,115,,Parathe at parathe wali gali,Cash
+04-11-2015,Food,20,,Bisleri,Cash
+04-11-2015,Food,50,,Dahi Bhalle,Cash
+04-11-2015,Food,20,,Rasgulle,Cash
+04-11-2015,Transport,60,Delhi Metro,Metro ticket,Cash
+04-11-2015,Food,180,Home Food,,Cash
+06-11-2015,Food,265,Panjab Dhabha,,Cash
+06-11-2015,Transport,1575,Taxi,Panchkula to Baddi,Cash
+06-11-2015,Hotel,8379,Anand Hotel,,Card/Online
+06-11-2015,Transport,4000,Railway,Chandigarh Ticket,Cash
+07-11-2015,Transport,2000,Taxi,Panchkula to Baddi and return,Cash
+07-11-2015,Food,141,Vaishno Dhabha,,Cash
+07-11-2015,Hotel,3398,Pallavi Hotel,,Cash
+08-11-2015,Food,60,Thela,Juice,Cash
+09-11-2015,Medical,391,,Meenakshi,Cash
+09-11-2015,Medical,200,,Meenakshi,Cash
+09-11-2015,Food,100,Thela,Dosa Vada Sambar,Cash
+12-11-2015,Food,994,Suruchi,Gujarati Thali,Cash
+14-11-2015,Food,200,Home Food,,Cash
+14-11-2015,Food,140,Home Food,,Cash
+03-12-2015,Home items,3700,Bajaj,Bajaj Mixer,Cash
+04-12-2015,Home items,2050,,Parde,Cash
+04-12-2015,Home items,300,,Salwar,Cash
+04-12-2015,Transport,100,,Auto,Cash
+08-12-2015,Home items,50,Gas Agency,Gas mechanic,Cash
+10-12-2015,Home items,88,Monica,Surf excel sabun,Cash
+10-12-2015,Home items,50,Monica,Silvari,Cash
+10-12-2015,Food,195,Monica,Amul Ghee,Cash
+10-12-2015,Food,140,Monica,Mustard oil,Cash
+10-12-2015,Home items,82,Monica,Coalgate,Cash
+10-12-2015,Food,310,Monica,Atta,Cash
+10-12-2015,Food,750,Monica,Saffola Tel,Cash
+10-12-2015,Home items,50,Monica,Agarbatti,Cash
+10-12-2015,Home,230,Monica,Suparmax blade,Cash
+10-12-2015,Food,30,Monica,Namak,Cash
+10-12-2015,Food,35,Monica,Paani,Cash
+10-12-2015,Food,105,Monica,Chaipatti,Cash
+10-12-2015,Home items,94,Monica,Lifebouy sabun,Cash
+11-12-2015,Home items,300,Mistri,,Cash
+11-12-2015,Home items,750,,Lock,Cash
+11-12-2015,Home items,50,Gas Agency,Gas connection,Cash
+13-12-2015,Home items,750,Plumber,Lock,Cash
+13-12-2015,Subscription,479.51,Vodafone,Mobile bill,Card/Online
+13-12-2015,Home items,50,Press,Press,Cash
+22-12-2015,Food,30,Sabji Mandi,Mutter,Cash
+22-12-2015,Food,20,Kirana,Khari,Cash
+22-12-2015,Home items,88,Monica,Surf excel sabun,Cash
+22-12-2015,Food,10,Sabji Mandi,Idli,Cash
+22-12-2015,Food,20,Sabji Mandi,Maithi,Cash
+22-12-2015,Food,10,Sabji Mandi,Dhania,Cash
+22-12-2015,Food,20,Sabji Mandi,Cheeku,Cash
+22-12-2015,Food,10,Sabji Mandi,Mirch,Cash
+23-12-2015,Home items,68,Musalman,Xerox,Cash
+24-12-2015,Food,20,Sabji Mandi,Arbi,Cash
+24-12-2015,Food,20,Sabji Mandi,Alu,Cash
+24-12-2015,Food,30,Sabji Mandi,Tomato,Cash
+24-12-2015,Food,20,Sabji Mandi,Orange,Cash
+24-12-2015,Food,15,Sabji Mandi,Dahi,Cash
+24-12-2015,Food,23,Sabji Mandi,Rawa,Cash
+24-12-2015,Food,10,Sabji Mandi,Dhania,Cash
+24-12-2015,Food,5,Sabji Mandi,Kadi Patta,Cash
+25-12-2015,Shopping,400,Chandrkala,Salwar silai,Cash
+28-12-2015,Food,20,Sabji Mandi,Alu,Cash
+28-12-2015,Food,10,Sabji Mandi,Onion,Cash
+28-12-2015,Food,5,Sabji Mandi,Dhania,Cash
+28-12-2015,Food,10,Sabji Mandi,Adrak,Cash
+28-12-2015,Food,5,Sabji Mandi,Mirch,Cash
+28-12-2015,Food,40,Sabji Mandi,Tomato,Cash
+28-12-2015,Food,15,Sabji Mandi,Patta gobi,Cash
+28-12-2015,Food,15,Sabji Mandi,Gazar,Cash
+28-12-2015,Food,10,Sabji Mandi,Baigan,Cash
+28-12-2015,Food,10,Sabji Mandi,Mooli,Cash
+28-12-2015,Food,20,Sabji Mandi,Fool gobi,Cash
+28-12-2015,Food,25,Sabji Mandi,Doodh,Cash
+28-12-2015,Food,22,Sabji Mandi,Maggi,Cash
+28-12-2015,Food,10,Sabji Mandi,Mirch,Cash
+28-12-2015,Food,20,Sabji Mandi,Bhindi,Cash
+01-01-2016,Home items,756,Dudhwala,Milk,Cash
+02-01-2016,Home items,170,Paperwala,Newspaper(NBT),Cash
+03-01-2016,Food,60,Thela,Falooda,Cash
+03-01-2016,Food,30,Sabji Mandi,Mutter,Cash
+03-01-2016,Food,20,Sabji Mandi,Yam(Suran),Cash
+03-01-2016,Food,30,Sabji Mandi,Tomato,Cash
+03-01-2016,Food,15,Sabji Mandi,Drumstick,Cash
+03-01-2016,Food,20,Sabji Mandi,Potato,Cash
+03-01-2016,Food,20,Sabji Mandi,Onion,Cash
+03-01-2016,Food,24,Kirana,Maggi,Cash
+03-01-2016,Food,30,Kirana,Sambha Masala,Cash
+06-01-2016,Food,30,Sabji Mandi,Tomato,Cash
+06-01-2016,Food,10,Sabji Mandi,Shimla Mirch,Cash
+06-01-2016,Food,20,Sabji Mandi,Maithi,Cash
+06-01-2016,Food,10,Sabji Mandi,Dhania,Cash
+06-01-2016,Food,20,Sabji Mandi,Chana,Cash
+06-01-2016,Food,10,Sabji Mandi,Adrak,Cash
+06-01-2016,Food,20,Sabji Mandi,Baigan,Cash
+06-01-2016,Food,20,Sabji Mandi,Cheeku,Cash
+06-01-2016,Food,20,Sabji Mandi,Fali,Cash
+06-01-2016,Food,30,Sabji Mandi,Orange,Cash
+06-01-2016,Food,10,Sabji Mandi,Gilki,Cash
+06-01-2016,Food,15,Sabji Mandi,Gajar,Cash
+06-01-2016,Food,25,Monica,Bread,Cash
+06-01-2016,Food,25,Monica,Jam,Cash
+07-01-2016,Shopping,860,Maida Tailors,Salwar silai,Cash
+07-01-2016,Food,390,Monica,Amul Ghee,Cash
+07-01-2016,Food,140,Monica,Mustard oil,Cash
+07-01-2016,Food,120,Monica,Til,Cash
+07-01-2016,Food,50,Monica,Gud,Cash
+07-01-2016,Food,20,Monica,Vadi,Cash
+07-01-2016,Food,135,Monica,Nai pata,Cash
+07-01-2016,Food,110,Monica,Tuar Dal,Cash
+07-01-2016,Food,20,Monica,Rai,Cash
+07-01-2016,Food,60,Monica,Jeera,Cash
+07-01-2016,Food,105,Monica,Moong Dal,Cash
+07-01-2016,Home items,50,Monica,Agarbatti,Cash
+07-01-2016,Home items,176,Monica,Surf excel sabun,Cash
+07-01-2016,Food,200,Monica,Bournvita,Cash
+07-01-2016,Home items,30,Monica,Pitambari,Cash
+07-01-2016,Home items,50,Monica,Silvari,Cash
+13-01-2016,Food,260,Sabji Mandi,Sabji,Cash
+13-01-2016,Food,40,Sabji Mandi,Aloo pyaz kadi patta,Cash
+13-01-2016,Food,20,Sabji Mandi,Fool gobi,Cash
+13-01-2016,Food,20,Sabji Mandi,Cheeku,Cash
+13-01-2016,Food,40,Sabji Mandi,Tarbooz,Cash
+13-01-2016,Food,20,Sabji Mandi,Ber,Cash
+13-01-2016,Food,15,Sabji Mandi,Vada Pav,Cash
+16-01-2016,Food,20,Sabji Mandi,Aloo,Cash
+16-01-2016,Food,30,Sabji Mandi,Tomato,Cash
+16-01-2016,Food,10,Sabji Mandi,Adrak,Cash
+16-01-2016,Food,30,Sabji Mandi,Laisan,Cash
+16-01-2016,Food,10,Sabji Mandi,Dhania,Cash
+16-01-2016,Food,10,Sabji Mandi,Mirch,Cash
+16-01-2016,Food,30,Sabji Mandi,Mutter,Cash
+16-01-2016,Food,35,Sabji Mandi,Bread,Cash
+16-01-2016,Food,20,Sabji Mandi,Imli,Cash
+16-01-2016,Food,10,Sabji Mandi,Khatta Fruit,Cash
+16-01-2016,Food,15,Sabji Mandi,Shimla Mirch,Cash
+16-01-2016,Home items,85,Press,Press,Cash
+,,,,,
