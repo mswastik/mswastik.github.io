@@ -73,7 +73,7 @@
 	var invbarchart = dc.barChart("#bar");
 	var minDate = timeDim.bottom(1)[0].date;
 	var maxDate = timeDim.top(1)[0].date;
-	invbarchart.xUnits(function(){return 2;}); //manually setting bar width
+	invbarchart.xUnits(function(){return 9;}); //manually setting bar width
 	invbarchart
 	.width(550).height(270)
 	.dimension(timeDim)
@@ -85,7 +85,7 @@
 		            chart.selectAll("g.x text")
 	                    .attr('dx', '-30')
 	                    .attr('dy', '-1')
-	                    .attr('transform', "rotate(-70)");
+	                    .attr('transform', "rotate(-50)");
 	               });
 
 	//Rowchart of Statewise split
