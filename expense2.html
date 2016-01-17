@@ -77,7 +77,7 @@
 	.dimension(timeDim)
 	.group(amt)
 	.elasticY(true)
-	.x(d3.time.scale().domain([minDate,maxDate]).tickFormat(d3.time.format('%d-%b'))
+	.x(d3.time.scale().domain([minDate,maxDate]))
 	.margins({top: 10, left: 80, right: 20, bottom: 60})
 	.renderlet(function (chart) {
 		            chart.selectAll("g.x text")
