@@ -50,7 +50,7 @@
 	<div class="row-fluid">
 			<div class="col-md-5" id="bar"><h3>Expense</h3></div>
 			<div class="col-md-4" id="ring"><h3>Category Cut</h3></div>
-			<div class="col-md-3" id="new"><h3>Category Cut</h3></div>
+			<div class="col-md-3" id="new"><h3>Date Filter</h3></div>
 	</div>
 </div>
 <script>
@@ -106,17 +106,23 @@
 	var timeDim = ndx.dimension(function(d){return d.month});
 	var amt = timeDim.group().reduceSum(dc.pluck('Amount'));
 	var invbarchart = dc.barChart("#bar");
+	var minDate = timeDim.bottom(1)[0]["Date"];
+	var maxDate = timeDim.top(1)[0]["Date"];
 	//invbarchart.xUnits(function(){return 1;}); //manually setting bar width
 	invbarchart
 	.width(450).height(270)
 	.dimension(timeDim)
 	.group(amt)
-	.gap(3)
 	.elasticY(true)
 	.elasticX(true)
+	.xAxisPadding(100)
+	.gap(4)
+	.centerBar(true)
 	.xUnits(d3.time.months)
 	.x(d3.time.scale())
-	.margins({top: 10, left: 40, right: 5, bottom: 60})
+	.margins({top: 10, left: 40, right: 15, bottom: 20})
+	.title(function(d) { return "Value: " + d.amt; })
+	.renderTitle(true);
 	//.renderlet(function (chart) {
 		//            chart.selectAll("g.x text")
 	      //              .attr('dx', '-30')
@@ -165,8 +171,10 @@
 	.dimension(dtDim)
 	.group(filt_amta)
 	.elasticY(true)
-	.gap(10)
 	.elasticX(true)
+	.xAxisPadding(10)
+	.gap(4)
+	.centerBar(true)
 	.xUnits(d3.time.day)
 	.x(d3.time.scale())
 	.margins({top: 10, left: 40, right: 5, bottom: 60})
