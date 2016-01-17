@@ -1,4 +1,6 @@
-#ring svg { width: 430px; }
+#ring svg { width: 350px;
+			margin-left: -40px;}
 .dc-chart g.row text { fill: orange;}
 #expbar2 .x text { fill: orange;}
 #expbar2 h3 {text-align: center;}
+#new svg { margin-left: -90px;}
