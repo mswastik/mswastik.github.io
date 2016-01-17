@@ -72,12 +72,12 @@
 	var maxDate = timeDim.top(1)[0].date;
 	//invbarchart.xUnits(function(){return 9;}); //manually setting bar width
 	//var xAxis = invbarchart.xAxis().tickFormat(d3.time.format('%B');
+	invbarchart.xUnits(d3.time.months);
 	invbarchart
 	.width(550).height(350)
 	.dimension(timeDim)
 	.group(amt)
 	.elasticY(true)
-	.xUnits(d3.time.months)
 	.x(d3.time.scale().domain([minDate,maxDate]))
 	.margins({top: 10, left: 80, right: 20, bottom: 60})
 	.renderlet(function (chart) {
