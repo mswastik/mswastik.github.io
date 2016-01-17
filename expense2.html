@@ -103,7 +103,7 @@
             return d.value;
         });	
 	//Barchart of yearly Nos
-	var gdpbarchart = dc.pieChart("ring");
+	var gdpbarchart = dc.pieChart("#ring");
 	var sectorDim = ndx.dimension(function(d){return d.Category;});
 	var nos = sectorDim.group().reduceSum(dc.pluck('Amount'));
 	gdpbarchart
