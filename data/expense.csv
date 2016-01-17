@@ -15,8 +15,6 @@ Date,Category,Amount,Payee,Description,Mode of Payment
 02-11-2015,Food,40,Thela,Nariyal paani,Cash
 02-11-2015,Misc,30,Thela,Sandal stitching,Cash
 02-11-2015,Food,90,,Tea,Cash
-02-11-2015,Transport,837,Taxi,Delhi airport to Kaushambhi,Cash
-02-11-2015,Transport,2300,Taxi,Silvassa to Mumbai airport,Cash
 03-11-2015,Food,30,Thela,Litti Chokha,Cash
 03-11-2015,Food,30,Thela,Momos,Cash
 03-11-2015,Food,20,,Bisleri,Cash
@@ -27,9 +25,6 @@ Date,Category,Amount,Payee,Description,Mode of Payment
 04-11-2015,Transport,60,Delhi Metro,Metro ticket,Cash
 04-11-2015,Food,180,Home Food,Dinner,Cash
 06-11-2015,Food,265,Panjab Dhabha,Dinner,Cash
-06-11-2015,Transport,1575,Taxi,Panchkula to Baddi,Cash
-06-11-2015,Transport,4000,Railway,Chandigarh Ticket,Cash
-07-11-2015,Transport,2000,Taxi,Panchkula to Baddi and return,Cash
 07-11-2015,Food,141,Vaishno Dhabha,Dinner,Cash
 08-11-2015,Food,60,Thela,Juice,Cash
 09-11-2015,Medical,391,,Meenakshi,Cash
@@ -73,7 +68,7 @@ Date,Category,Amount,Payee,Description,Mode of Payment
 23-12-2015,Home items,68,Musalman,Xerox,Cash
 24-12-2015,Food,20,Sabji Mandi,Arbi,Cash
 24-12-2015,Food,20,Sabji Mandi,Alu,Cash
-24-12-2015,Food,30,Sabji Mandi,Tomato,Cash
+24-12-2015,Food,30,Sabji Mandi,Tamatar,Cash
 24-12-2015,Food,20,Sabji Mandi,Orange,Cash
 24-12-2015,Food,15,Sabji Mandi,Dahi,Cash
 24-12-2015,Food,23,Sabji Mandi,Rawa,Cash
@@ -85,7 +80,7 @@ Date,Category,Amount,Payee,Description,Mode of Payment
 28-12-2015,Food,5,Sabji Mandi,Dhania,Cash
 28-12-2015,Food,10,Sabji Mandi,Adrak,Cash
 28-12-2015,Food,5,Sabji Mandi,Mirch,Cash
-28-12-2015,Food,40,Sabji Mandi,Tomato,Cash
+28-12-2015,Food,40,Sabji Mandi,Tamatar,Cash
 28-12-2015,Food,15,Sabji Mandi,Patta gobi,Cash
 28-12-2015,Food,15,Sabji Mandi,Gazar,Cash
 28-12-2015,Food,10,Sabji Mandi,Baigan,Cash
@@ -100,13 +95,13 @@ Date,Category,Amount,Payee,Description,Mode of Payment
 03-01-2016,Food,60,Thela,Falooda,Cash
 03-01-2016,Food,30,Sabji Mandi,Mutter,Cash
 03-01-2016,Food,20,Sabji Mandi,Yam(Suran),Cash
-03-01-2016,Food,30,Sabji Mandi,Tomato,Cash
+03-01-2016,Food,30,Sabji Mandi,Tamatar,Cash
 03-01-2016,Food,15,Sabji Mandi,Drumstick,Cash
 03-01-2016,Food,20,Sabji Mandi,Potato,Cash
 03-01-2016,Food,20,Sabji Mandi,Onion,Cash
 03-01-2016,Food,24,Kirana,Maggi,Cash
 03-01-2016,Food,30,Kirana,Sambha Masala,Cash
-06-01-2016,Food,30,Sabji Mandi,Tomato,Cash
+06-01-2016,Food,30,Sabji Mandi,Tamatar,Cash
 06-01-2016,Food,10,Sabji Mandi,Shimla Mirch,Cash
 06-01-2016,Food,20,Sabji Mandi,Maithi,Cash
 06-01-2016,Food,10,Sabji Mandi,Dhania,Cash
@@ -144,7 +139,7 @@ Date,Category,Amount,Payee,Description,Mode of Payment
 13-01-2016,Food,20,Sabji Mandi,Ber,Cash
 13-01-2016,Food,15,Sabji Mandi,Vada Pav,Cash
 16-01-2016,Food,20,Sabji Mandi,Aloo,Cash
-16-01-2016,Food,30,Sabji Mandi,Tomato,Cash
+16-01-2016,Food,30,Sabji Mandi,Tamatar,Cash
 16-01-2016,Food,10,Sabji Mandi,Adrak,Cash
 16-01-2016,Food,30,Sabji Mandi,Laisan,Cash
 16-01-2016,Food,10,Sabji Mandi,Dhania,Cash
