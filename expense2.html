@@ -112,7 +112,7 @@
 	.dimension(sectorDim)
 	.group(nos)
 	.innerRadius(30)
-  	.legend(dc.legend().x(950).y(10).gap(15))
+  	.legend(dc.legend().x(360).y(10).gap(15))
 	.label(function(d) {
 		 return d3.round((d.value / d3.sum(nos.all(), function(d){ return d.value;}))*100)+"%";})
 	.renderLabel(true)
