@@ -76,7 +76,7 @@
 	.dimension(timeDim)
 	.group(amt)
 	.elasticY(true)
-	.xAxis().tickFormat(d3.time.format('%B');
+	.xUnits(d3.time.months)
 	.x(d3.time.scale().domain([minDate,maxDate]))
 	.margins({top: 10, left: 80, right: 20, bottom: 60})
 	.renderlet(function (chart) {
