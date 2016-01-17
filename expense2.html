@@ -51,7 +51,7 @@
 				<div class="row-fluid">
 					<div class="col-md-7" id="bar"><h1>Expense</h1></div>
 				<div class="row-fluid">
-					<div class="col-md-7" id="bar3"><h1>Description</h1></div>	
+					<div class="col-md-7" id="ring"><h1>Description</h1></div>	
 				</div></div></div></div>
 		</div>
 	</div>
@@ -103,7 +103,7 @@
             return d.value;
         });	
 	//Barchart of yearly Nos
-	var gdpbarchart = dc.pieChart("#bar3");
+	var gdpbarchart = dc.pieChart("ring");
 	var sectorDim = ndx.dimension(function(d){return d.Category;});
 	var nos = sectorDim.group().reduceSum(dc.pluck('Amount'));
 	gdpbarchart
