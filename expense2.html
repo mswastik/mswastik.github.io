@@ -91,7 +91,7 @@
 	var statebar = dc.rowChart("#bar2");
 	statebar
 	.margins({ top: 10, left: 10, right: 10, bottom: 70})
-	.width(490).height(600)
+	.width(490).height(760)
 	.dimension(stateDim)
 	.transitionDuration(500)
 	.group(stat_tot)
@@ -108,11 +108,11 @@
 	var sectorDim = ndx.dimension(function(d){return d.Category;});
 	var nos = sectorDim.group().reduceSum(dc.pluck('Amount'));
 	gdpbarchart
-	.width(350).height(270)
+	.width(250).height(270)
 	.dimension(sectorDim)
 	.group(nos)
 	.innerRadius(30)
-  	.legend(dc.legend().x(360).y(10).gap(15))
+  	.legend(dc.legend().x(260).y(10).gap(15))
 	.label(function(d) {
 		 return d3.round((d.value / d3.sum(nos.all(), function(d){ return d.value;}))*100)+"%";})
 	.renderLabel(true)
