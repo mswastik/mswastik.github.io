@@ -25,21 +25,21 @@ Date,Category,Amount,Payee,Description,Mode of Payment
 04-11-2015,Food,50,,Dahi Bhalle,Cash
 04-11-2015,Food,20,,Rasgulle,Cash
 04-11-2015,Transport,60,Delhi Metro,Metro ticket,Cash
-04-11-2015,Food,180,Home Food,,Cash
-06-11-2015,Food,265,Panjab Dhabha,,Cash
+04-11-2015,Food,180,Home Food,Dinner,Cash
+06-11-2015,Food,265,Panjab Dhabha,Dinner,Cash
 06-11-2015,Transport,1575,Taxi,Panchkula to Baddi,Cash
-06-11-2015,Hotel,8379,Anand Hotel,,Card/Online
+06-11-2015,Hotel,8379,Anand Hotel,Anand Hotel,Card/Online
 06-11-2015,Transport,4000,Railway,Chandigarh Ticket,Cash
 07-11-2015,Transport,2000,Taxi,Panchkula to Baddi and return,Cash
-07-11-2015,Food,141,Vaishno Dhabha,,Cash
-07-11-2015,Hotel,3398,Pallavi Hotel,,Cash
+07-11-2015,Food,141,Vaishno Dhabha,Dinner,Cash
+07-11-2015,Hotel,3398,Pallavi Hotel,Pallavi Hotel,Cash
 08-11-2015,Food,60,Thela,Juice,Cash
 09-11-2015,Medical,391,,Meenakshi,Cash
 09-11-2015,Medical,200,,Meenakshi,Cash
 09-11-2015,Food,100,Thela,Dosa Vada Sambar,Cash
 12-11-2015,Food,994,Suruchi,Gujarati Thali,Cash
-14-11-2015,Food,200,Home Food,,Cash
-14-11-2015,Food,140,Home Food,,Cash
+14-11-2015,Food,200,Home Food,Lunch,Cash
+14-11-2015,Food,140,Home Food,Lunch,Cash
 03-12-2015,Home items,3700,Bajaj,Bajaj Mixer,Cash
 04-12-2015,Home items,2050,,Parde,Cash
 04-12-2015,Home items,300,,Salwar,Cash
@@ -58,7 +58,7 @@ Date,Category,Amount,Payee,Description,Mode of Payment
 10-12-2015,Food,35,Monica,Paani,Cash
 10-12-2015,Food,105,Monica,Chaipatti,Cash
 10-12-2015,Home items,94,Monica,Lifebouy sabun,Cash
-11-12-2015,Home items,300,Mistri,,Cash
+11-12-2015,Home items,300,Mistri,Lock Fitting,Cash
 11-12-2015,Home items,750,,Lock,Cash
 11-12-2015,Home items,50,Gas Agency,Gas connection,Cash
 13-12-2015,Home items,750,Plumber,Lock,Cash
