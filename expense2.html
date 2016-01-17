@@ -111,7 +111,6 @@
 	.dimension(sectorDim)
 	.group(nos)
 	.innerRadius(30)
-	.margins({ top: 10, left: 70, right: 30, bottom: 10})
   	.legend(dc.legend().x(320).y(0).gap(5))
 	.label(function(d) {
 		 return d3.round((d.value / d3.sum(nos.all(), function(d){ return d.value;}))*100)+"%";})
