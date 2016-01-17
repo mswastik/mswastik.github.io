@@ -74,6 +74,7 @@
 	.dimension(timeDim)
 	.group(amt)
 	.elasticY(true)
+	.elasticX(true)
 	.xUnits(function(){return 30;})
 	.x(d3.time.scale().domain([minDate,maxDate]))
 	.margins({top: 10, left: 80, right: 20, bottom: 60})
@@ -88,15 +89,16 @@
 	var stat_tot = stateDim.group().reduceSum(function(d) { return d.amt; });
 	var statebar = dc.barChart("#expbar2");
 	statebar
-	.margins({ top: 5, left: 30, right: 5, bottom: 10})
-	.width(1100).height(300)
+	.margins({ top: -15, left: 40, right: 0, bottom: 10})
+	.width(1200).height(300)
 	.dimension(stateDim)
 	.transitionDuration(500)
 	.group(stat_tot)
 	.x(d3.scale.ordinal())
 	.xUnits(dc.units.ordinal)
-	.elasticX(true)
 	.ordering(function(d){return -d.value;})
+	.elasticY(true)
+	.elasticX(true)
 	.turnOnControls()
 	.colors('purple')
 	.renderlet(function (chart) {
