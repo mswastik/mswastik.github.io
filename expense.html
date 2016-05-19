@@ -48,11 +48,13 @@
 			<div class="col-md-12" id="expbar2"><h3>Description</h3></div>
 	</div>
 	<div class="row-fluid">
-			<div class="col-md-5" id="bar"><h3>Expense</h3></div>
+			<div class="col-md-8" id="bar"><h3>Expense</h3></div>
 			<div class="col-md-4" id="ring"><h3>Category Cut</h3></div>
-			<div class="col-md-3" id="new"><h3>Date Filter</h3></div>
+	<div classs="row-fluid">
+			<table class="table table-hover dc-data-table list table-striped table-bordered"></table>
 	</div>
 </div>
+<div class="clearfix"></div>
 <script>
 	var parseDate = d3.time.format("%d-%m-%Y").parse;
 	//var month = d3.time.format("%b");
@@ -77,7 +79,7 @@
 	}
 	
 //Description
-	var descDim = ndx.dimension(function(d){return d.Description;});
+	var descDim = ndx.dimension(function(d){return d.Subcategory;});
 	var desc_tot = descDim.group().reduceSum(function(d) { return d.amt; });
 	var filtered_group = remove_empty_bins(desc_tot)
 	var statebar = dc.barChart("#expbar2");
@@ -110,7 +112,7 @@
 	var maxDate = timeDim.top(1)[0]["Date"];
 	//invbarchart.xUnits(function(){return 1;}); //manually setting bar width
 	invbarchart
-	.width(450).height(270)
+	.width(650).height(270)
 	.dimension(timeDim)
 	.group(amt)
 	.elasticY(true)
@@ -149,6 +151,28 @@
 	.renderLabel(true)
 	.turnOnControls();
 
+	//var dtDim = ndx.dimension(function(d){return d.Date});
+	var table = dc.dataTable(".dc-data-table");
+	table
+	.dimension(timeDim)
+	.group(function(d) {return d.Date;})
+	.size(15)
+	.columns([
+	    function(d) { return d.Date; },
+	    function(d) { return d.Description; },
+	    function(d) { return +d.amt; },
+	    function(d) { return d.Category; }
+		 ])
+	.sortBy(function(d) {
+		return +d.Amount;
+		})
+	.order(d3.descending)
+	.showGroups(false)
+        .on('renderlet', function (table) {
+            table.selectAll('.dc-table-group').classed('info', true);
+        });
+	
+	
 //Amount Filter	
 	/*var amtbarchart = dc.barChart("#new");
 	var binwidth = 0.2;
@@ -162,7 +186,7 @@
 	.x(d3.scale.linear().domain([0, 4000]))
 	.margins({top: 10, left: 2, right: 10, bottom: 50});
     */
-	var dtDim = ndx.dimension(function(d){return d.date});
+	/*var dtDim = ndx.dimension(function(d){return d.date});
 	var amta = dtDim.group().reduceSum(dc.pluck('Amount'));
 	var filt_amta = remove_empty_bins(amta)
 	var dtbarchart = dc.barChart("#new");
@@ -187,6 +211,8 @@
 	;
 	dtbarchart.xAxis().tickFormat(d3.time.format("%d-%b"));
 	dtbarchart.xAxis().ticks(20);
+	*/
+
 	
 	dc.renderAll();
 });
